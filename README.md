@@ -41,11 +41,11 @@ The industry comes to DevNet to find Cisco Community resources like Code Exchang
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Learn about the new reservable Cisco Certified Internetwork Expert &lpar;CCIE&rpar; practice labs! Ep 59.](https://www.youtube.com/watch?v=rbIktoldsrY)
-- [Cisco ThousandEyes for CloudDevs - Part 3](https://www.youtube.com/watch?v=JLhUChLC4ms)
-- [Cisco ThousandEyes for CloudDevs - Part 1](https://www.youtube.com/watch?v=d4-6qzP2DfY)
-- [Network Security Automation with Cisco Secure Firewall &amp; Hashicorp&#39;s Consul Terraform Sync](https://www.youtube.com/watch?v=sEvNaed5DTI)
-- [See the new updates and sneak peeks of new features with YANG Suite. Ep 58.](https://www.youtube.com/watch?v=soyWPr0fJ0s)
+- [Check out what Cisco is doing with Full-Stack Observability. Episode 64.](https://www.youtube.com/watch?v=o5GsL0jLaSY)
+- [Learn how to make &quot;Business Ready&quot; documents with network automation. Episode 63.](https://www.youtube.com/watch?v=XPrDRXWnpvI)
+- [Cisco Live 2022 ~ Over 1,000 technical and business sessions](https://www.youtube.com/watch?v=rb90Zz0fUMM)
+- [#CiscoChat Live: Decoding the New DevNet Expert Lab Exam](https://www.youtube.com/watch?v=uEveoEObENE)
+- [Learn about open source hyperconverged infrastructure for VMs and Kubernetes. Episode 62.](https://www.youtube.com/watch?v=q4p2I5f4s5s)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
