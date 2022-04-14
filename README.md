@@ -50,9 +50,9 @@ The industry comes to DevNet to find Cisco Community resources like Code Exchang
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Education Program in Ukraine Teaches Students About DevOps](https://blogs.cisco.com/developer/devopsedtrack01)
 - [Learn How to Prepare for the DevNet Expert Exam!](https://blogs.cisco.com/developer/preparedevnetexpertexam01)
 - [3 Reasons Enterprise Developers Should Get “Pager Duty”](https://blogs.cisco.com/developer/enterprisedeveloperspagerduty01)
 - [Getting to “Hello, World” with the Low-Code Platform, Node-RED](https://blogs.cisco.com/developer/helloworldlowcodenodered01)
 - [How to Estimate Cloud Costs](https://blogs.cisco.com/developer/cloudcosts01)
-- [Securing Your Cloud-Native Application with Cisco App-First Security](https://blogs.cisco.com/developer/securingcloudnativeapp01)
 <!-- BLOG-POST-LIST:END -->
