@@ -41,11 +41,11 @@ The industry comes to DevNet to find Cisco Community resources like Code Exchang
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [What do you do when your Security tools do not catch a threat? You go hunting. Episode 65.](https://www.youtube.com/watch?v=xvjK9BDl-bA)
 - [Check out what Cisco is doing with Full-Stack Observability. Episode 64.](https://www.youtube.com/watch?v=o5GsL0jLaSY)
 - [Learn how to make &quot;Business Ready&quot; documents with network automation. Episode 63.](https://www.youtube.com/watch?v=XPrDRXWnpvI)
 - [Cisco Live 2022 ~ Over 1,000 technical and business sessions](https://www.youtube.com/watch?v=rb90Zz0fUMM)
 - [#CiscoChat Live: Decoding the New DevNet Expert Lab Exam](https://www.youtube.com/watch?v=uEveoEObENE)
-- [Learn about open source hyperconverged infrastructure for VMs and Kubernetes. Episode 62.](https://www.youtube.com/watch?v=q4p2I5f4s5s)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
