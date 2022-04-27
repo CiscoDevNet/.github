@@ -50,9 +50,9 @@ The industry comes to DevNet to find Cisco Community resources like Code Exchang
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Letter from Oslo: The NDC Security 2022 Conference](https://blogs.cisco.com/developer/oslondcsecurity2022conference01)
 - [Performing Syslog Event Analysis and Forwarding at the Edge. Inside a Container!](https://blogs.cisco.com/developer/apphostingsyslogng01)
 - [Policy Management for Enterprise Software Developers and Administrators](https://blogs.cisco.com/developer/opa_and_styra01)
 - [Automation or Programmability: Which Is better For DevOps?](https://blogs.cisco.com/developer/automationprogrammabilitydevops01)
 - [How to make threat hunting feasible, Part I: Detection](https://blogs.cisco.com/developer/threathuntingdetection01)
-- [Worst-Case Scenarios: What Happens If You Don’t Do DevSecOps?](https://blogs.cisco.com/developer/worstcasescenariosdevsecops01)
 <!-- BLOG-POST-LIST:END -->
