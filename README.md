@@ -50,9 +50,9 @@ The industry comes to DevNet to find Cisco Community resources like Code Exchang
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Celebrate May the 4th with these Star Wars APIs](https://blogs.cisco.com/developer/maythe4thstarwarsapis)
 - [Observability vs. monitoring for DevOps](https://blogs.cisco.com/developer/observabilityvsmonitoringdevops01)
 - [What I learned by doing tech support](https://blogs.cisco.com/developer/doingtechsupport01)
 - [YANG Suite updates and new features: A sneak peek](https://blogs.cisco.com/developer/2022yangsuiteupdatesfeatures01)
 - [Janel’s Top 3 Cisco Live DevNet Zone Sessions](https://blogs.cisco.com/developer/janelstop3ciscolive01)
-- [Letter from Oslo: The NDC Security 2022 Conference](https://blogs.cisco.com/developer/oslondcsecurity2022conference01)
 <!-- BLOG-POST-LIST:END -->
