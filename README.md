@@ -50,9 +50,9 @@ The industry comes to DevNet to find Cisco Community resources like Code Exchang
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Towards Inclusive Language in Code](https://blogs.cisco.com/developer/inclusivelanguage01)
 - [Event-Driven Programming with TriggerMesh](https://blogs.cisco.com/developer/eventdrivenprogrammingtriggermesh01)
 - [Using CI/CD Pipelines for Infrastructure Configuration and Management](https://blogs.cisco.com/developer/gitlabcicdpipelines01)
 - [Celebrate May the 4th with these Star Wars APIs](https://blogs.cisco.com/developer/maythe4thstarwarsapis)
 - [Observability vs. monitoring for DevOps](https://blogs.cisco.com/developer/observabilityvsmonitoringdevops01)
-- [What I learned by doing tech support](https://blogs.cisco.com/developer/doingtechsupport01)
 <!-- BLOG-POST-LIST:END -->
