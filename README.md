@@ -50,9 +50,9 @@ The industry comes to DevNet to find Cisco Community resources like Code Exchang
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Network Service Mesh Simplifies Multi-Cloud / Hybrid Cloud Communication](https://blogs.cisco.com/developer/multicloudhybrid01)
 - [What is Container Scanning &lpar;And Why You Need It&rpar;](https://blogs.cisco.com/developer/container_scanning_01)
 - [Why Everyone Loves the DevNet Zone at Cisco Live](https://blogs.cisco.com/developer/devnetzoneatciscolive01)
 - [Towards Inclusive Language in Code](https://blogs.cisco.com/developer/inclusivelanguage01)
 - [Event-Driven Programming with TriggerMesh](https://blogs.cisco.com/developer/eventdrivenprogrammingtriggermesh01)
-- [Using CI/CD Pipelines for Infrastructure Configuration and Management](https://blogs.cisco.com/developer/gitlabcicdpipelines01)
 <!-- BLOG-POST-LIST:END -->
