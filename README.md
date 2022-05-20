@@ -41,11 +41,11 @@ The industry comes to DevNet to find Cisco Community resources like Code Exchang
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Report from KubeCon + CloudNativeCon, including links to interviews with Cloud leaders.](https://www.youtube.com/watch?v=939vuRQBa0E)
 - [You will not believe how we have updated our Learning Labs! Episode 69](https://www.youtube.com/watch?v=8Nw0XGHUaRA)
 - [Build your API with Flask! Code Included! Episode 68](https://www.youtube.com/watch?v=xvHFKeBB6js)
 - [Top 5 Things YOU need to do at Cisco Live 2022 in Las Vegas! Episode 67](https://www.youtube.com/watch?v=b7KrfmNwKH4)
 - [Want a Peek Behind the Scenes into the Automation of our Sandboxes? Episode 66](https://www.youtube.com/watch?v=9TilINW8gQY)
-- [What do you do when your Security tools do not catch a threat? You go hunting. Episode 65.](https://www.youtube.com/watch?v=xvjK9BDl-bA)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
