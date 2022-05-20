@@ -50,9 +50,9 @@ The industry comes to DevNet to find Cisco Community resources like Code Exchang
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pondering Automation: Let’s Make Some BCS Magic!](https://blogs.cisco.com/developer/bcsmagic01)
+- [What’s Happening at KubeCon + CloudNativeCon Europe 2022: Day 1](https://blogs.cisco.com/developer/kubeconcloudnativeconrecap01)
 - [Cisco Live Preview: Save Time and Maybe Your Job with Full Stack Observability](https://blogs.cisco.com/developer/clusfullstackobservability01)
 - [Learnings from Implementing Microservices Authorization](https://blogs.cisco.com/developer/microservicesauthorization01)
 - [Network Service Mesh Simplifies Multi-Cloud / Hybrid Cloud Communication](https://blogs.cisco.com/developer/multicloudhybrid01)
-- [What is Container Scanning &lpar;And Why You Need It&rpar;](https://blogs.cisco.com/developer/container_scanning_01)
-- [Why Everyone Loves the DevNet Zone at Cisco Live](https://blogs.cisco.com/developer/devnetzoneatciscolive01)
 <!-- BLOG-POST-LIST:END -->
