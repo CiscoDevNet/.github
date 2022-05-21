@@ -50,9 +50,9 @@ The industry comes to DevNet to find Cisco Community resources like Code Exchang
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What’s Happening at KubeCon + CloudNativeCon Europe 2022: Day 2](https://blogs.cisco.com/developer/kubeconcloudnativeconrecap02)
+- [How to Contribute to Open Source and Why](https://blogs.cisco.com/developer/contributetoopensource01)
+- [Dive into Network Programmability and Automation at Cisco Live](https://blogs.cisco.com/developer/networkprogrammabilityatciscolive01)
 - [Pondering Automation: Let’s Make Some BCS Magic!](https://blogs.cisco.com/developer/bcsmagic01)
 - [What’s Happening at KubeCon + CloudNativeCon Europe 2022: Day 1](https://blogs.cisco.com/developer/kubeconcloudnativeconrecap01)
-- [Cisco Live Preview: Save Time and Maybe Your Job with Full Stack Observability](https://blogs.cisco.com/developer/clusfullstackobservability01)
-- [Learnings from Implementing Microservices Authorization](https://blogs.cisco.com/developer/microservicesauthorization01)
-- [Network Service Mesh Simplifies Multi-Cloud / Hybrid Cloud Communication](https://blogs.cisco.com/developer/multicloudhybrid01)
 <!-- BLOG-POST-LIST:END -->
