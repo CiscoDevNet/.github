@@ -41,11 +41,11 @@ The industry comes to DevNet to find Cisco Community resources like Code Exchang
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Fun API&#39;s to Play With ~ DevNet Snack Minute Episode 70](https://www.youtube.com/watch?v=tmiuwHyTzsw)
+- [Meet Jock Reed - Cisco Developer Advocate](https://www.youtube.com/watch?v=lYxGxy0ZKb8)
+- [Meet Shweta Palande - Cisco Developer Advocate](https://www.youtube.com/watch?v=WE9GtPqzbZM)
 - [Report from KubeCon + CloudNativeCon, including links to interviews with Cloud leaders.](https://www.youtube.com/watch?v=939vuRQBa0E)
 - [You will not believe how we have updated our Learning Labs! Episode 69](https://www.youtube.com/watch?v=8Nw0XGHUaRA)
-- [Build your API with Flask! Code Included! Episode 68](https://www.youtube.com/watch?v=xvHFKeBB6js)
-- [Top 5 Things YOU need to do at Cisco Live 2022 in Las Vegas! Episode 67](https://www.youtube.com/watch?v=b7KrfmNwKH4)
-- [Want a Peek Behind the Scenes into the Automation of our Sandboxes? Episode 66](https://www.youtube.com/watch?v=9TilINW8gQY)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
