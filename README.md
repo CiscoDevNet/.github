@@ -50,9 +50,9 @@ The industry comes to DevNet to find Cisco Community resources like Code Exchang
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Secure Your Software Supply Chain](https://blogs.cisco.com/developer/securesupplychain01)
 - [Classroom Sessions and Learning Labs at Cisco Live Vegas 2022!](https://blogs.cisco.com/developer/classroomandlearninglabs01)
 - [Codify Your Deployments Using Infrastructure as Code &lpar;IaC&rpar;](https://blogs.cisco.com/developer/deploymentswithiac01)
 - [Improve Your Programming Skills at Cisco Live](https://blogs.cisco.com/developer/programmingskillsatciscolive01)
 - [The Rise of the Enterprise Developer](https://blogs.cisco.com/developer/riseoftheenterprisedeveloper01)
-- [Learn to Code In Python at Cisco Live](https://blogs.cisco.com/developer/learnpythonatciscolive01)
 <!-- BLOG-POST-LIST:END -->
