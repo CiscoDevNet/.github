@@ -41,11 +41,11 @@ The industry comes to DevNet to find Cisco Community resources like Code Exchang
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Cisco Live: DevNet Zone Livestream - Monday June 13, 2022 - AM Sessions](https://www.youtube.com/watch?v=OImdkwO3mwg)
+- [How Terraform Can Help Manage Hyperconverged Infrastructure- DevNet Snack Minute Episode 71](https://www.youtube.com/watch?v=sY0nRE_rwyE)
 - [Fun API&#39;s to Play With ~ DevNet Snack Minute Episode 70](https://www.youtube.com/watch?v=tmiuwHyTzsw)
 - [Meet Jock Reed - Cisco Developer Advocate](https://www.youtube.com/watch?v=lYxGxy0ZKb8)
 - [Meet Shweta Palande - Cisco Developer Advocate](https://www.youtube.com/watch?v=WE9GtPqzbZM)
-- [Report from KubeCon + CloudNativeCon, including links to interviews with Cloud leaders.](https://www.youtube.com/watch?v=939vuRQBa0E)
-- [You will not believe how we have updated our Learning Labs! Episode 69](https://www.youtube.com/watch?v=8Nw0XGHUaRA)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
