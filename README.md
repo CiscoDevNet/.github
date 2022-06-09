@@ -50,9 +50,9 @@ The industry comes to DevNet to find Cisco Community resources like Code Exchang
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Meraki Webhook Integrations](https://blogs.cisco.com/developer/merakiwebhooks01)
-- [Explore Cisco Meraki at Cisco Live 2022](https://blogs.cisco.com/developer/exploremerakiatciscolive01)
-- [Secure Your Software Supply Chain](https://blogs.cisco.com/developer/securesupplychain01)
-- [REST, Robots, and MLOps: Visit the DevNet Zone at Cisco Live!](https://blogs.cisco.com/developer/restrobotsmlopsaciscolive01)
-- [Classroom Sessions and Learning Labs at Cisco Live Vegas 2022!](https://blogs.cisco.com/developer/classroomandlearninglabs01)
+- [“Cloud Unfiltered” Podcast: How Kubernetes and Containers Are Evolving](https://blogs.cisco.com/developer/kubernetesandcontainers01)
+- [“Cloud Unfiltered” Podcast: Why API Testing Is Critical](https://blogs.cisco.com/developer/podcastapitesting01)
+- [“Cloud Unfiltered” Podcast: Understanding API Gateways](https://blogs.cisco.com/developer/podcastapigateways01)
+- [“Cloud Unfiltered” Podcast: How Cilium brings advantages of eBPF to Kubernetes](https://blogs.cisco.com/developer/podcastebpfandcilium01)
+- [Building a Machine Learning Pipeline with Cisco Intersight and Kubeflow](https://blogs.cisco.com/developer/machinelearningpipeline01)
 <!-- BLOG-POST-LIST:END -->
