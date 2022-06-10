@@ -50,9 +50,9 @@ The industry comes to DevNet to find Cisco Community resources like Code Exchang
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Reaching Your Personal Peak at Cisco Live and Beyond](https://blogs.cisco.com/developer/personalpeak01)
+- [Get Your POAP NFT at the Cisco Live DevNet Zone](https://blogs.cisco.com/developer/poapatciscolive01)
+- [Getting to World-class APIs Using the OpenAPI Specification](https://blogs.cisco.com/developer/worldclassapis01)
+- [Edge Native Applications Are Conquering the Smart Device Edge](https://blogs.cisco.com/developer/smartdeviceedge01)
 - [“Cloud Unfiltered” Podcast: How Kubernetes and Containers Are Evolving](https://blogs.cisco.com/developer/kubernetesandcontainers01)
-- [“Cloud Unfiltered” Podcast: Why API Testing Is Critical](https://blogs.cisco.com/developer/podcastapitesting01)
-- [“Cloud Unfiltered” Podcast: Understanding API Gateways](https://blogs.cisco.com/developer/podcastapigateways01)
-- [“Cloud Unfiltered” Podcast: How Cilium brings advantages of eBPF to Kubernetes](https://blogs.cisco.com/developer/podcastebpfandcilium01)
-- [Building a Machine Learning Pipeline with Cisco Intersight and Kubeflow](https://blogs.cisco.com/developer/machinelearningpipeline01)
 <!-- BLOG-POST-LIST:END -->
