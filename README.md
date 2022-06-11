@@ -41,11 +41,11 @@ The industry comes to DevNet to find Cisco Community resources like Code Exchang
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [APIx Manager Preview](https://www.youtube.com/watch?v=JQI0kgjoiwQ)
+- [How to Improve Your Application with Informative Metrics](https://www.youtube.com/watch?v=xUi76bLJK7M)
 - [Cisco DevNet Live Stream](https://www.youtube.com/watch?v=p0lT1BGoIoo)
 - [Cisco Live: DevNet Zone Livestream - Monday June 13, 2022 - AM Sessions](https://www.youtube.com/watch?v=OImdkwO3mwg)
 - [Deploy Kubeflow with Cisco Intersight](https://www.youtube.com/watch?v=xXhhfkRApHA)
-- [How Terraform Can Help Manage Hyperconverged Infrastructure- DevNet Snack Minute Episode 71](https://www.youtube.com/watch?v=sY0nRE_rwyE)
-- [Fun API&#39;s to Play With ~ DevNet Snack Minute Episode 70](https://www.youtube.com/watch?v=tmiuwHyTzsw)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
