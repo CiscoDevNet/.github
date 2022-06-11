@@ -50,9 +50,9 @@ The industry comes to DevNet to find Cisco Community resources like Code Exchang
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Custom Application Troubleshooting With Cisco IOx](https://blogs.cisco.com/developer/ioxapplicationtroubleshooting01)
+- [Metrics that Matter](https://blogs.cisco.com/developer/metricsthatmatter01)
+- [Who Needs to Shift Left in Security, and Why](https://blogs.cisco.com/developer/whoneedsshiftleftsecurity01)
 - [Reaching Your Personal Peak at Cisco Live and Beyond](https://blogs.cisco.com/developer/personalpeak01)
 - [Get Your POAP NFT at the Cisco Live DevNet Zone](https://blogs.cisco.com/developer/poapatciscolive01)
-- [Getting to World-class APIs Using the OpenAPI Specification](https://blogs.cisco.com/developer/worldclassapis01)
-- [Edge Native Applications Are Conquering the Smart Device Edge](https://blogs.cisco.com/developer/smartdeviceedge01)
-- [“Cloud Unfiltered” Podcast: How Kubernetes and Containers Are Evolving](https://blogs.cisco.com/developer/kubernetesandcontainers01)
 <!-- BLOG-POST-LIST:END -->
