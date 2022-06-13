@@ -41,11 +41,11 @@ The industry comes to DevNet to find Cisco Community resources like Code Exchang
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Cisco Live: DevNet Zone Livestream - Monday June 13, 2022 - AM Sessions](https://www.youtube.com/watch?v=XJ0VHIV2Nm8)
 - [Cisco Live: Snack Minute LIVE  Tuesday June 14, 2022 - 2:00 pm](https://www.youtube.com/watch?v=smCt59HUx6U)
 - [APIx Manager Preview](https://www.youtube.com/watch?v=JQI0kgjoiwQ)
 - [How to Improve Your Application with Informative Metrics](https://www.youtube.com/watch?v=xUi76bLJK7M)
 - [Cisco DevNet Live Stream](https://www.youtube.com/watch?v=p0lT1BGoIoo)
-- [Cisco Live: DevNet Zone Livestream - Monday June 13, 2022 - AM Sessions](https://www.youtube.com/watch?v=OImdkwO3mwg)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
