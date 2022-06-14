@@ -50,9 +50,9 @@ The industry comes to DevNet to find Cisco Community resources like Code Exchang
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Live Day 1: Wrap-up from the DevNet Zone](https://blogs.cisco.com/developer/devnetzoneday01)
+- [Cisco SecureX Is Taking Over the DevNet Zone on Tuesday](https://blogs.cisco.com/developer/securexdevnetzone01)
 - [Cisco Live is Here](https://blogs.cisco.com/developer/ciscolivestartstomorrow01)
 - [Custom Application Troubleshooting With Cisco IOx](https://blogs.cisco.com/developer/ioxapplicationtroubleshooting01)
 - [Metrics that Matter](https://blogs.cisco.com/developer/metricsthatmatter01)
-- [Who Needs to Shift Left in Security, and Why](https://blogs.cisco.com/developer/whoneedsshiftleftsecurity01)
-- [Reaching Your Personal Peak at Cisco Live and Beyond](https://blogs.cisco.com/developer/personalpeak01)
 <!-- BLOG-POST-LIST:END -->
