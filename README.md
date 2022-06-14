@@ -1,8 +1,5 @@
-![DevNetBanner](./images/devnet_banner.jpeg)
-
-Cisco DevNet ( developer.cisco.com ) is Cisco’s developer program to help developers and IT professionals who want to write applications and develop integrations with Cisco products, platforms, and APIs. Cisco DevNet includes Cisco’s products in software-defined networking, security, cloud, data center, mobility, internet of things, collaboration, services, and open-source software development. The developer.cisco.com site also provides learning and sandbox environments as well as video series for those trying to learn coding and testing apps.
-
-The industry comes to DevNet to find Cisco Community resources like Code Exchange which includes code repositories related to Cisco technologies, Ecosystem Exchange to connect with the Global Cisco Partner Ecosystem and find solutions, and now DevNet Automation Exchange which is the industry-leading code repository of network automation use cases.
+<!--![DevNetBanner](./images/devnet_banner.jpeg)-->
+<img src="./images/devnet_banner.jpeg" align="left" alt="DevNet Banner" /> <p>Cisco DevNet ( [developer.cisco.com](https://developer.cisco.com) ) is Cisco’s developer program to help developers and IT professionals who want to write applications and develop integrations with Cisco products, platforms, and APIs. Cisco DevNet includes Cisco’s products in software-defined networking, security, cloud, data center, internet of things, collaboration, and Cisco customer experience. The developer.cisco.com site also provides [docs](https://developer.cisco.com/docs), [tutorials](https://developer.cisco.com/learning), and [sandbox environments](https://developer.cisco.com/site/sandbox) as well as video series for those trying to learn coding and testing apps.</p>
 
 <p align="left"> <a href="https://twitter.com/ciscodevnet" target="blank"><img src="https://img.shields.io/twitter/follow/ciscodevnet?logo=twitter&style=for-the-badge" alt="ciscodevnet" /></a> </p>
 
