@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@master
+      - name: Pull in blogs.cisco.com/developer posts
+        uses: gautamkrishnar/blog-post-workflow@main
         with:
           feed_list: "http://blogs.cisco.com/developer/feed"
