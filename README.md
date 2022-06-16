@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Live Day 3: Wrap up from the DevNet Zone](https://blogs.cisco.com/developer/devnetzoneday03)
+- [Inclusion, Diversity, and Belonging in the Developer Community](https://blogs.cisco.com/developer/devcommunity01)
+- [Cisco Live Day 2: Wrap up from the DevNet Zone](https://blogs.cisco.com/developer/devnetzoneday02)
+- [Bringing “Observability” To Our Human Network](https://blogs.cisco.com/developer/fullstackwellness01)
 - [Cisco Live Day 1: Wrap-up from the DevNet Zone](https://blogs.cisco.com/developer/devnetzoneday01)
-- [Cisco SecureX Is Taking Over the DevNet Zone on Tuesday](https://blogs.cisco.com/developer/securexdevnetzone01)
-- [Cisco Live is Here](https://blogs.cisco.com/developer/ciscolivestartstomorrow01)
-- [Custom Application Troubleshooting With Cisco IOx](https://blogs.cisco.com/developer/ioxapplicationtroubleshooting01)
-- [Metrics that Matter](https://blogs.cisco.com/developer/metricsthatmatter01)
 <!-- BLOG-POST-LIST:END -->
