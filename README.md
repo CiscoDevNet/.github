@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Cisco Live 2022 ~ DevNet Zone Day 4 Recap](https://www.youtube.com/watch?v=GE9bR7XDYGI)
+- [Updates for the DevNet Express with Matt and Denise](https://www.youtube.com/watch?v=pbNPx_gFliE)
 - [Cisco Live: DevNet Zone Livestream - Thursday June 16 2022 - All Sessions](https://www.youtube.com/watch?v=XQo_ZL9Ro8I)
 - [Cisco Live 2022 ~ DevNet Zone Day 3 Recap](https://www.youtube.com/watch?v=9XGXhnzGERQ)
 - [Cisco Live: DevNet Zone Livestream - Wednesday June 15 2022 - All Sessions](https://www.youtube.com/watch?v=7HK5R3cCED0)
-- [Cisco Live 2022 ~ DevNet Zone Day 2 Recap](https://www.youtube.com/watch?v=U3brdHFnAL0)
-- [Cisco Live 2022 | DevNet Zone | Diversity and inclusion with Tony Colon and Grace Francisco](https://www.youtube.com/watch?v=Uce2VnQgVXw)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
