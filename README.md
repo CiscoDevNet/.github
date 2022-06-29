@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Developing Inclusive Teams](https://blogs.cisco.com/developer/inclusiveteams01)
 - [Get Connected with Connected Learning](https://blogs.cisco.com/developer/connectedlearning01)
 - [Meet Rapidly Scaling Cloud Data Center Requirements with SONiC](https://blogs.cisco.com/developer/sonicatcisco01)
 - [Cisco Live Day 4: Wrap-up from the DevNet Zone](https://blogs.cisco.com/developer/devnetzoneday04)
 - [Developer Announcements from Cisco Live! 2022](https://blogs.cisco.com/developer/developerannouncements01)
-- [Cisco Live Day 3: Wrap up from the DevNet Zone](https://blogs.cisco.com/developer/devnetzoneday03)
 <!-- BLOG-POST-LIST:END -->
