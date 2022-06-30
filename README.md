@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Live! 2022 Wrap Up](https://blogs.cisco.com/developer/ciscolive2022wrapup01)
+- [Ansible Runner as a Service](https://blogs.cisco.com/developer/ansiblerunner01)
+- [An Event for Developers, By Developers](https://blogs.cisco.com/developer/developwithcisco01)
 - [Developing Inclusive Teams](https://blogs.cisco.com/developer/inclusiveteams01)
 - [Get Connected with Connected Learning](https://blogs.cisco.com/developer/connectedlearning01)
-- [Meet Rapidly Scaling Cloud Data Center Requirements with SONiC](https://blogs.cisco.com/developer/sonicatcisco01)
-- [Cisco Live Day 4: Wrap-up from the DevNet Zone](https://blogs.cisco.com/developer/devnetzoneday04)
-- [Developer Announcements from Cisco Live! 2022](https://blogs.cisco.com/developer/developerannouncements01)
 <!-- BLOG-POST-LIST:END -->
