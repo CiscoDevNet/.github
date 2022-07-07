@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Learn about Full Stack Wellness and Inclusion with Grace Francisco. Episode 72.](https://www.youtube.com/watch?v=yp_6DDMh6_w)
 - [Cisco Live 2022 ~ DevNet Zone Day 4 Recap](https://www.youtube.com/watch?v=GE9bR7XDYGI)
 - [Updates for the DevNet Express with Matt and Denise](https://www.youtube.com/watch?v=pbNPx_gFliE)
 - [Cisco Live: DevNet Zone Livestream - Thursday June 16 2022 - All Sessions](https://www.youtube.com/watch?v=XQo_ZL9Ro8I)
 - [Cisco Live 2022 ~ DevNet Zone Day 3 Recap](https://www.youtube.com/watch?v=9XGXhnzGERQ)
-- [Cisco Live: DevNet Zone Livestream - Wednesday June 15 2022 - All Sessions](https://www.youtube.com/watch?v=7HK5R3cCED0)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
