@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Learn about Full Stack Wellness and Inclusion with Grace Francisco. Episode 72.](https://www.youtube.com/watch?v=yp_6DDMh6_w)
-- [Cisco Live 2022 ~ DevNet Zone Day 4 Recap](https://www.youtube.com/watch?v=GE9bR7XDYGI)
-- [Updates for the DevNet Express with Matt and Denise](https://www.youtube.com/watch?v=pbNPx_gFliE)
-- [Cisco Live: DevNet Zone Livestream - Thursday June 16 2022 - All Sessions](https://www.youtube.com/watch?v=XQo_ZL9Ro8I)
-- [Cisco Live 2022 ~ DevNet Zone Day 3 Recap](https://www.youtube.com/watch?v=9XGXhnzGERQ)
+- [Learn about Cisco DevNet resources and how to use those as building blocks to learn programmability.](https://www.youtube.com/watch?v=T8tw-NJzFII)
+- [Latest innovations with Cisco Cloud Networking, management of data centers and Nexus APIs](https://www.youtube.com/watch?v=wymt1kSKq9Y)
+- [All things Meraki APIs - Dashboard APIs and the latest with customers and partners at Cisco](https://www.youtube.com/watch?v=0qRxAb1Gbyk)
+- [Cisco and Hashi products work together to unlock the cloud model in an on-prem world for partners.](https://www.youtube.com/watch?v=9ECBoiQIVA8)
+- [John&#39;s personal story about getting started with coding and DevNet resources](https://www.youtube.com/watch?v=Bcfj4s6iWy0)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
