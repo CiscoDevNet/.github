@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Get Hands-on in the Cisco Crosswork Automation Sandbox](https://blogs.cisco.com/developer/crossworkautomationsandbox01)
 - [Why Your Network Automation Should Shift Left Now](https://blogs.cisco.com/developer/networkautomationshouldshiftleft01)
 - [Cisco Live! 2022 Wrap Up](https://blogs.cisco.com/developer/ciscolive2022wrapup01)
 - [Ansible Runner as a Service](https://blogs.cisco.com/developer/ansiblerunner01)
 - [An Event for Developers, By Developers](https://blogs.cisco.com/developer/developwithcisco01)
-- [Developing Inclusive Teams](https://blogs.cisco.com/developer/inclusiveteams01)
 <!-- BLOG-POST-LIST:END -->
