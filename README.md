@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Edge Native Applications are Conquering the Edge](https://blogs.cisco.com/developer/conqueringtheedge01)
+- [Bridge the Gap Between SD-WAN Technologies and Cloud-native Applications](https://blogs.cisco.com/developer/cloudnativesdwan01)
 - [A 360 Degree View on Software and Hardware at the Edge](https://blogs.cisco.com/developer/edge360view01)
 - [Get Hands-on in the Cisco Crosswork Automation Sandbox](https://blogs.cisco.com/developer/crossworkautomationsandbox01)
 - [Why Your Network Automation Should Shift Left Now](https://blogs.cisco.com/developer/networkautomationshouldshiftleft01)
-- [Cisco Live! 2022 Wrap Up](https://blogs.cisco.com/developer/ciscolive2022wrapup01)
-- [Ansible Runner as a Service](https://blogs.cisco.com/developer/ansiblerunner01)
 <!-- BLOG-POST-LIST:END -->
