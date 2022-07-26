@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Troubles Automating Your Cisco EVPN Fabric? DevNet Has Your Back!](https://blogs.cisco.com/developer/automatingciscoevpnfabric01)
+- [Manage Energy Use and Automate Networks with New Nexus Cloud APIs](https://blogs.cisco.com/developer/nexuscloudenergyapis01)
 - [Edge Native Applications are Conquering the Edge](https://blogs.cisco.com/developer/conqueringtheedge01)
 - [Bridge the Gap Between SD-WAN Technologies and Cloud-native Applications](https://blogs.cisco.com/developer/cloudnativesdwan01)
 - [A 360 Degree View on Software and Hardware at the Edge](https://blogs.cisco.com/developer/edge360view01)
-- [Get Hands-on in the Cisco Crosswork Automation Sandbox](https://blogs.cisco.com/developer/crossworkautomationsandbox01)
-- [Why Your Network Automation Should Shift Left Now](https://blogs.cisco.com/developer/networkautomationshouldshiftleft01)
 <!-- BLOG-POST-LIST:END -->
