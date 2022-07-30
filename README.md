@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Quick Start: Prep Your Dev Environment for Kubernetes](https://blogs.cisco.com/developer/quickstartprepyourdevenvironmentforkubernetes01)
 - [Why Invest in Cisco SD-WAN Edge Deployments](https://blogs.cisco.com/developer/sdwanedge01)
 - [Edge Native Applications are Conquering the Edge](https://blogs.cisco.com/developer/conqueringtheedge01)
 - [ThousandEyes Looking at EchoLink](https://blogs.cisco.com/developer/thousandeyesecholink01)
 - [Get Hands-on with the Meraki API in the DevNet Sandbox](https://blogs.cisco.com/developer/handsonmerakiapi01)
-- [Troubles Automating Your Cisco EVPN Fabric? DevNet Has Your Back!](https://blogs.cisco.com/developer/automatingciscoevpnfabric01)
 <!-- BLOG-POST-LIST:END -->
