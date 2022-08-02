@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Vection Technologies shares the 3D Frames metaverse integration with Cisco Webex as a partner.](https://www.youtube.com/watch?v=e6BOGzkXxVg)
 - [Daily Standup Episode 2 with Mel Delgado and Denise Kwan](https://www.youtube.com/watch?v=TCuY5oyoS0g)
 - [Learn about Cisco DevNet resources and how to use those as building blocks to learn programmability.](https://www.youtube.com/watch?v=T8tw-NJzFII)
 - [Latest innovations with Cisco Cloud Networking, management of data centers and Nexus APIs](https://www.youtube.com/watch?v=wymt1kSKq9Y)
 - [All things Meraki APIs - Dashboard APIs and the latest with customers and partners at Cisco](https://www.youtube.com/watch?v=0qRxAb1Gbyk)
+- [Cisco and Hashi products work together to unlock the cloud model in an on-prem world for partners.](https://www.youtube.com/watch?v=9ECBoiQIVA8)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
