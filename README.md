@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Good Developers Code. Great Developers Do Much more.](https://blogs.cisco.com/developer/gooddeveloperscodegreatdevelopersdomuchmore01)
 - [Using CI/CD Pipelines for Infrastructure Configuration and Management – Part 2](https://blogs.cisco.com/developer/gitlabcicdpipelines02)
 - [Quick Start: Prep Your Dev Environment for Kubernetes](https://blogs.cisco.com/developer/quickstartprepyourdevenvironmentforkubernetes01)
 - [Why Invest in Cisco SD-WAN Edge Deployments](https://blogs.cisco.com/developer/sdwanedge01)
 - [Edge Native Applications are Conquering the Edge](https://blogs.cisco.com/developer/conqueringtheedge01)
-- [Get Hands-on with the Meraki API in the DevNet Sandbox](https://blogs.cisco.com/developer/handsonmerakiapi01)
 <!-- BLOG-POST-LIST:END -->
