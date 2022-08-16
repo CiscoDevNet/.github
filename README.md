@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Get Ooey GUI with PyQt6 Zeep and AXL](https://blogs.cisco.com/developer/getooeyguiwithpyqt6zeepandaxl01)
 - [First Code… Then Infrastructure as Code… Now Notes as Code!](https://blogs.cisco.com/developer/notesascode01)
 - [Developing for FedRAMP Pays Back](https://blogs.cisco.com/developer/developingforfedramppaysback01)
 - [New Learning Labs for NSO Service Development](https://blogs.cisco.com/developer/nsoservicedevelopmentlab01)
 - [Good Developers Code. Great Developers Do Much more.](https://blogs.cisco.com/developer/gooddeveloperscodegreatdevelopersdomuchmore01)
-- [Using CI/CD Pipelines for Infrastructure Configuration and Management – Part 2](https://blogs.cisco.com/developer/gitlabcicdpipelines02)
 <!-- BLOG-POST-LIST:END -->
