@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Project, “An-API-For-An-API,” Wins Security Award](https://blogs.cisco.com/developer/aafaawinssecurityaward01)
 - [First-Class Collaboration and APIs, Delivered by Postman](https://blogs.cisco.com/developer/apisdeliveredbypostman01)
 - [Get Ooey GUI with PyQt6 Zeep and AXL](https://blogs.cisco.com/developer/getooeyguiwithpyqt6zeepandaxl01)
 - [First Code… Then Infrastructure as Code… Now Notes as Code!](https://blogs.cisco.com/developer/notesascode01)
 - [Developing for FedRAMP Pays Back](https://blogs.cisco.com/developer/developingforfedramppaysback01)
-- [New Learning Labs for NSO Service Development](https://blogs.cisco.com/developer/nsoservicedevelopmentlab01)
 <!-- BLOG-POST-LIST:END -->
