@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Should IT Ops be involved in Software Design? | Daily Standup Episode 3](https://www.youtube.com/watch?v=zXccmle26L0)
 - [Eric Knipp shares the importance of making networks more relevant for applications](https://www.youtube.com/watch?v=LUnjV-F_MSc)
 - [Rick Bauer shares inspiration to use APIs to solve real world problems and how programmability helps](https://www.youtube.com/watch?v=vXqBoqX2ksE)
 - [A view into the API Quality initiative &amp; the new APIx Manager tool to improve API quality &amp; security](https://www.youtube.com/watch?v=ZYFiq5HPi8k)
 - [Vection Technologies shares the 3D Frames metaverse integration with Cisco Webex as a partner.](https://www.youtube.com/watch?v=yD_v4GoalWk)
-- [The new Learning Lab experience with Cisco Developer Relations](https://www.youtube.com/watch?v=ttghXQ7vHag)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
