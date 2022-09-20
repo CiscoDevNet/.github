@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [3 Great Reasons to Attend Cisco’s New Developer Event, Develop, on October 18](https://blogs.cisco.com/developer/reasonstoattenddevelopoctober18-01)
 - [Try the New 8000v Emulator Sandbox for SONiC](https://blogs.cisco.com/developer/8000vemulatorsandboxsonic01)
 - [DevOps in Action! – How We Built the DevDash Demo](https://blogs.cisco.com/developer/devopsactiondevdashdemo01)
 - [Cisco Project, “An-API-For-An-API,” Wins Security Award](https://blogs.cisco.com/developer/aafaawinssecurityaward01)
 - [First-Class Collaboration and APIs, Delivered by Postman](https://blogs.cisco.com/developer/apisdeliveredbypostman01)
-- [Get Ooey GUI with PyQt6 Zeep and AXL](https://blogs.cisco.com/developer/getooeyguiwithpyqt6zeepandaxl01)
 <!-- BLOG-POST-LIST:END -->
