@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Not a Hard NOC Life for a Developer at CiscoLive!](https://blogs.cisco.com/developer/ciscolivenoclife01)
+- [How to Create and Automate a Webex Space](https://blogs.cisco.com/developer/automatewebexspace01)
 - [3 Great Reasons to Attend Cisco’s New Developer Event, Develop, on October 18](https://blogs.cisco.com/developer/reasonstoattenddevelopoctober18-01)
 - [Try the New 8000v Emulator Sandbox for SONiC](https://blogs.cisco.com/developer/8000vemulatorsandboxsonic01)
 - [DevOps in Action! – How We Built the DevDash Demo](https://blogs.cisco.com/developer/devopsactiondevdashdemo01)
-- [Cisco Project, “An-API-For-An-API,” Wins Security Award](https://blogs.cisco.com/developer/aafaawinssecurityaward01)
-- [First-Class Collaboration and APIs, Delivered by Postman](https://blogs.cisco.com/developer/apisdeliveredbypostman01)
 <!-- BLOG-POST-LIST:END -->
