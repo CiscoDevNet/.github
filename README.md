@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring for Your “Pets.” Observability for Your “Cattle.”](https://blogs.cisco.com/developer/petsvscattle01)
 - [Not a Hard NOC Life for a Developer at CiscoLive!](https://blogs.cisco.com/developer/ciscolivenoclife01)
 - [How to Create and Automate a Webex Space](https://blogs.cisco.com/developer/automatewebexspace01)
 - [3 Great Reasons to Attend Cisco’s New Developer Event, Develop, on October 18](https://blogs.cisco.com/developer/reasonstoattenddevelopoctober18-01)
 - [Try the New 8000v Emulator Sandbox for SONiC](https://blogs.cisco.com/developer/8000vemulatorsandboxsonic01)
-- [DevOps in Action! – How We Built the DevDash Demo](https://blogs.cisco.com/developer/devopsactiondevdashdemo01)
 <!-- BLOG-POST-LIST:END -->
