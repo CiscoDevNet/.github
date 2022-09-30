@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a ML Pipeline from Scratch with Kubeflow – MLOps Part 3](https://blogs.cisco.com/developer/machinelearningops03)
 - [Self-Inefficacy: A Big Burnout Monster We Need To Overcome](https://blogs.cisco.com/developer/selfinefficacy01)
 - [Watch Network Automation Session Recordings from Cisco Live](https://blogs.cisco.com/developer/clusnetworkautomationsessions01)
 - [Monitoring for Your “Pets.” Observability for Your “Cattle.”](https://blogs.cisco.com/developer/petsvscattle01)
 - [Not a Hard NOC Life for a Developer at CiscoLive!](https://blogs.cisco.com/developer/ciscolivenoclife01)
-- [How to Create and Automate a Webex Space](https://blogs.cisco.com/developer/automatewebexspace01)
 <!-- BLOG-POST-LIST:END -->
