@@ -48,7 +48,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [CI/CD Pipelines for Infrastructure Configuration and Management, Part 3](https://blogs.cisco.com/developer/gitlabcicdpipelines03)
 - [Building a ML Pipeline from Scratch with Kubeflow – MLOps Part 3](https://blogs.cisco.com/developer/machinelearningops03)
+- [The Meraki Dashboard API Continues To Grow](https://blogs.cisco.com/developer/merakidashboardapi03)
 - [Self-Inefficacy: A Big Burnout Monster We Need To Overcome](https://blogs.cisco.com/developer/selfinefficacy01)
 - [Watch Network Automation Session Recordings from Cisco Live](https://blogs.cisco.com/developer/clusnetworkautomationsessions01)
-- [Monitoring for Your “Pets.” Observability for Your “Cattle.”](https://blogs.cisco.com/developer/petsvscattle01)
 <!-- BLOG-POST-LIST:END -->
