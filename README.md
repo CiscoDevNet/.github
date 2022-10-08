@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Come Play in the New Sandbox for Nexus Dashboard and NDO](https://blogs.cisco.com/developer/nexusdashboardsandbox01)
 - [How NSO 6.0 Delivers Up To 9x Faster Transaction Throughput](https://blogs.cisco.com/developer/nso9xfaster01)
 - [The Meraki Dashboard API Continues To Grow](https://blogs.cisco.com/developer/merakidashboardapi03)
 - [CI/CD Pipelines for Infrastructure Configuration and Management, Part 3](https://blogs.cisco.com/developer/gitlabcicdpipelines03)
 - [Building a ML Pipeline from Scratch with Kubeflow – MLOps Part 3](https://blogs.cisco.com/developer/machinelearningops03)
-- [Self-Inefficacy: A Big Burnout Monster We Need To Overcome](https://blogs.cisco.com/developer/selfinefficacy01)
 <!-- BLOG-POST-LIST:END -->
