@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Jupyter Notebook – Do more in less time](https://www.youtube.com/watch?v=-3sSSDgRcB4)
 - [API Insights](https://www.youtube.com/watch?v=M7feMmfHaGA)
 - [Who should attend Develop on 10/18/2022](https://www.youtube.com/watch?v=ieoByXEVXDg)
 - [Join us at Develop 2022](https://www.youtube.com/watch?v=srqBOPp3tSY)
 - [Should IT Ops be involved in Software Design? | Daily Standup Episode 3](https://www.youtube.com/watch?v=zXccmle26L0)
-- [Eric Knipp shares the importance of making networks more relevant for applications](https://www.youtube.com/watch?v=LUnjV-F_MSc)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
