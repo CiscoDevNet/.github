@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Free Tool Helps You Visualize and Understand YANG Models](https://blogs.cisco.com/developer/yangallthetime01)
 - [Shift from On-prem to Cloud Networking Environments with CNFs](https://blogs.cisco.com/developer/onpremtocloudwithcnfs01)
 - [Got Windows… But Jonesing For Linux?](https://blogs.cisco.com/developer/jonesingforlinux01)
 - [Rise Above Complexity with APIs](https://blogs.cisco.com/developer/riseabovecomplexity01)
 - [The Continuous Developer](https://blogs.cisco.com/developer/continuousdeveloper01)
-- [Come Play in the New Sandbox for Nexus Dashboard and NDO](https://blogs.cisco.com/developer/nexusdashboardsandbox01)
 <!-- BLOG-POST-LIST:END -->
