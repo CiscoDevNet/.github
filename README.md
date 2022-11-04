@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Connect LatAm Opens Tuesday](https://blogs.cisco.com/developer/ciscoconnectlatam01)
 - [Improving API Quality and Security with API Insights](https://blogs.cisco.com/developer/apiqualityandsecurity01)
 - [Cisco Announces Open Source Cloud-Native Offerings for Securing Modern Applications](https://blogs.cisco.com/developer/functionclarity01)
 - [Free Tool Helps You Visualize and Understand YANG Models](https://blogs.cisco.com/developer/yangallthetime01)
 - [Shift from On-prem to Cloud Networking Environments with CNFs](https://blogs.cisco.com/developer/onpremtocloudwithcnfs01)
-- [Got Windows… But Jonesing For Linux?](https://blogs.cisco.com/developer/jonesingforlinux01)
 <!-- BLOG-POST-LIST:END -->
