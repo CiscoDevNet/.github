@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Presence Web Services](https://blogs.cisco.com/developer/pws01)
 - [Cisco Connect LatAm Opens Tuesday](https://blogs.cisco.com/developer/ciscoconnectlatam01)
 - [Improving API Quality and Security with API Insights](https://blogs.cisco.com/developer/apiqualityandsecurity01)
 - [Cisco Announces Open Source Cloud-Native Offerings for Securing Modern Applications](https://blogs.cisco.com/developer/functionclarity01)
 - [Free Tool Helps You Visualize and Understand YANG Models](https://blogs.cisco.com/developer/yangallthetime01)
-- [Shift from On-prem to Cloud Networking Environments with CNFs](https://blogs.cisco.com/developer/onpremtocloudwithcnfs01)
 <!-- BLOG-POST-LIST:END -->
