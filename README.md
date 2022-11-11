@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Applying User Zero Trust Policies Based on Automated Alerting](https://www.youtube.com/watch?v=7M9g-mMoRMM)
 - [API Insights Overview](https://www.youtube.com/watch?v=MPecqD8vmo0)
 - [Do More in Less Time with Intersight Python SDK](https://www.youtube.com/watch?v=YeQyoPoSSlI)
 - [Jupyter Notebook – Do more in less time](https://www.youtube.com/watch?v=-3sSSDgRcB4)
 - [API Insights](https://www.youtube.com/watch?v=M7feMmfHaGA)
-- [Who should attend Develop on 10/18/2022](https://www.youtube.com/watch?v=ieoByXEVXDg)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
