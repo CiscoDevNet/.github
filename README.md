@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Travel with Devvie to Cisco Live Melbourne – DevNet Style!](https://blogs.cisco.com/developer/devvieciscolivemelbourne01)
 - [Using APIs to create a Multidomain Inventory for Asset Management](https://blogs.cisco.com/developer/multidomainassetmanagement01)
 - [How to Use Presence Web Services](https://blogs.cisco.com/developer/pws01)
 - [Cisco Connect LatAm Opens Tuesday](https://blogs.cisco.com/developer/ciscoconnectlatam01)
 - [Improving API Quality and Security with API Insights](https://blogs.cisco.com/developer/apiqualityandsecurity01)
-- [Cisco Announces Open Source Cloud-Native Offerings for Securing Modern Applications](https://blogs.cisco.com/developer/functionclarity01)
 <!-- BLOG-POST-LIST:END -->
