@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Become a Cisco IOS XE Programmability and Automation Power User](https://blogs.cisco.com/developer/iosxeprogrammabilitywhitepaper01)
 - [See API Insights at APIdays in Paris](https://blogs.cisco.com/developer/apidaysparis01)
 - [“Secure It, Cloud It, Code It” Event Call-for-Speakers Now Open](https://blogs.cisco.com/developer/securitcloudeventcallforspeakers01)
 - [Leverage Abstraction To Hide Complexity with the AppDynamics Cloud API](https://blogs.cisco.com/developer/abstractioncomplexity01)
 - [How New Features in Automation Exchange Can Help You With Security](https://blogs.cisco.com/developer/automationexchangenewfeatures01)
-- [Explore Meraki APIs at Cisco Live Melbourne](https://blogs.cisco.com/developer/merakiapisciscolive01)
 <!-- BLOG-POST-LIST:END -->
