@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Watch My AWS Reinvent 2022 Recap Video](https://blogs.cisco.com/developer/awsreinvent2022recap01)
 - [ThousandEyes Trek: The Motion Picture](https://blogs.cisco.com/developer/thousandeyestrek01)
 - [Become a Cisco IOS XE Programmability and Automation Power User](https://blogs.cisco.com/developer/iosxeprogrammabilitywhitepaper01)
 - [See API Insights at APIdays in Paris](https://blogs.cisco.com/developer/apidaysparis01)
 - [“Secure It, Cloud It, Code It” Event Call-for-Speakers Now Open](https://blogs.cisco.com/developer/securitcloudeventcallforspeakers01)
-- [Leverage Abstraction To Hide Complexity with the AppDynamics Cloud API](https://blogs.cisco.com/developer/abstractioncomplexity01)
 <!-- BLOG-POST-LIST:END -->
