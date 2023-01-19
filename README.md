@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [DevNet Code Exchange: All-New Features!](https://www.youtube.com/watch?v=ypO_FWv7uyc)
 - [AWS re:Invent 2022 Recap](https://www.youtube.com/watch?v=_A-dGNtqHQE)
 - [Intro to Cisco Modeling Labs for DevOps](https://www.youtube.com/watch?v=kwxOqQ3fC5o)
 - [Getting to Know the Cisco UCSM Python SDK](https://www.youtube.com/watch?v=FpBoeRzeUnY)
 - [Applying User Zero Trust Policies Based on Automated Alerting](https://www.youtube.com/watch?v=7M9g-mMoRMM)
-- [API Insights Overview](https://www.youtube.com/watch?v=MPecqD8vmo0)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
