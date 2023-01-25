@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Take Flight with Cisco Meraki at Cisco Live in Amsterdam](https://blogs.cisco.com/developer/merakiatciscoliveamsterdam01)
 - [The Many Flavors of DevOps](https://blogs.cisco.com/developer/flavorsofdevops01)
 - [“Hallo Wereld” with Us at Cisco Live in Amsterdam](https://blogs.cisco.com/developer/hallowereldcleur01)
 - [We’ve Doubled the Number of Cisco DNA Center Reservable Sandboxes](https://blogs.cisco.com/developer/dnacentersandboxes01)
 - [Watch My AWS Reinvent 2022 Recap Video](https://blogs.cisco.com/developer/awsreinvent2022recap01)
-- [ThousandEyes Trek: The Motion Picture](https://blogs.cisco.com/developer/thousandeyestrek01)
 <!-- BLOG-POST-LIST:END -->
