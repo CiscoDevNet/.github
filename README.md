@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Take a Deep Dive into API Quality at Cisco Live in Amsterdam](https://blogs.cisco.com/developer/apiqualitycleur01)
 - [Explore Cisco IOS XE Automation at Cisco Live EMEA 2023](https://blogs.cisco.com/developer/iosxeclemea01)
 - [Explore Full-Stack Observability &lpar;FSO&rpar; in the DevNet Zone](https://blogs.cisco.com/developer/appdynamicscleur01)
 - [Take Flight with Cisco Meraki at Cisco Live in Amsterdam](https://blogs.cisco.com/developer/merakiatciscoliveamsterdam01)
 - [The Many Flavors of DevOps](https://blogs.cisco.com/developer/flavorsofdevops01)
-- [“Hallo Wereld” with Us at Cisco Live in Amsterdam](https://blogs.cisco.com/developer/hallowereldcleur01)
 <!-- BLOG-POST-LIST:END -->
