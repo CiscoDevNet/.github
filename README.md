@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [9 Easy-to-Use Python Modules for DevOps](https://www.youtube.com/watch?v=26OuRcjZFXo)
 - [DevOps vs. SRE | What&#39;s the Difference?](https://www.youtube.com/watch?v=5GKvJpW9IKA)
 - [Submitting to the DevNet Code Exchange](https://www.youtube.com/watch?v=PB-qMzDIkew)
 - [How to monitor for and control an email DLP breach](https://www.youtube.com/watch?v=yw9HXCNunb4)
 - [Agile Development: The Hype vs. Reality](https://www.youtube.com/watch?v=8jX27kor5Ec)
-- [DevNet Code Exchange: All-New Features!](https://www.youtube.com/watch?v=ypO_FWv7uyc)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
