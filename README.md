@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [9 Easy-to-Use Python Modules for DevOps](https://www.youtube.com/watch?v=26OuRcjZFXo)
-- [DevOps vs. SRE | What&#39;s the Difference?](https://www.youtube.com/watch?v=5GKvJpW9IKA)
-- [Submitting to the DevNet Code Exchange](https://www.youtube.com/watch?v=PB-qMzDIkew)
-- [How to monitor for and control an email DLP breach](https://www.youtube.com/watch?v=yw9HXCNunb4)
-- [Agile Development: The Hype vs. Reality](https://www.youtube.com/watch?v=8jX27kor5Ec)
+- [Cisco Crosswork Network Controller Integration with External Systems- DevNet Lightning Talk](https://www.youtube.com/watch?v=9WpcQtSOEN4)
+- [Webhooks in SecureX orchestration - DevNet Lightning Talk - DEVLIT 2553](https://www.youtube.com/watch?v=_RKLl0SA8yY)
+- [Can your robot race car go 192 MPH? - DevNet Lightning Talk - DEVLIT 1340](https://www.youtube.com/watch?v=0CL8nmcZT6s)
+- [DevNet Lightning Talk - Introduction to Learning Labs](https://www.youtube.com/watch?v=ZUZ5NfNhQNw)
+- [DevNet Lightning Talk - Automate Cisco IOS XE Device Configuration Using Terraform](https://www.youtube.com/watch?v=GXANIFjD40g)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
