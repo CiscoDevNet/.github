@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Cisco Crosswork Network Controller Integration with External Systems- DevNet Lightning Talk](https://www.youtube.com/watch?v=9WpcQtSOEN4)
+- [Cisco Community: The Developer Connection... The Coders, the Dreamers, and Me - Lightning Talk](https://www.youtube.com/watch?v=3pX2nNPaRzA)
+- [DevNet Zone Day 2 Recap | Cisco Live Europe 2023](https://www.youtube.com/watch?v=HdMWdZxYCG8)
+- [Cisco Crosswork Network Controller Integration](https://www.youtube.com/watch?v=9WpcQtSOEN4)
 - [Webhooks in SecureX orchestration - DevNet Lightning Talk - DEVLIT 2553](https://www.youtube.com/watch?v=_RKLl0SA8yY)
 - [Can your robot race car go 192 MPH? - DevNet Lightning Talk - DEVLIT 1340](https://www.youtube.com/watch?v=0CL8nmcZT6s)
-- [DevNet Lightning Talk - Introduction to Learning Labs](https://www.youtube.com/watch?v=ZUZ5NfNhQNw)
-- [DevNet Lightning Talk - Automate Cisco IOS XE Device Configuration Using Terraform](https://www.youtube.com/watch?v=GXANIFjD40g)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
