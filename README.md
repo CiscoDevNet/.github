@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Cisco Community: The Developer Connection... The Coders, the Dreamers, and Me - Lightning Talk](https://www.youtube.com/watch?v=3pX2nNPaRzA)
-- [DevNet Zone Day 2 Recap | Cisco Live Europe 2023](https://www.youtube.com/watch?v=HdMWdZxYCG8)
-- [Cisco Crosswork Network Controller Integration](https://www.youtube.com/watch?v=9WpcQtSOEN4)
-- [Webhooks in SecureX orchestration - DevNet Lightning Talk - DEVLIT 2553](https://www.youtube.com/watch?v=_RKLl0SA8yY)
-- [Can your robot race car go 192 MPH? - DevNet Lightning Talk - DEVLIT 1340](https://www.youtube.com/watch?v=0CL8nmcZT6s)
+- [The Road to Net-Zero: How Emerging Technologies Accelerate Cracking the Use-case of the Century](https://www.youtube.com/watch?v=ljT5P8r1lGQ)
+- [Edge-Native: The New Paradigm for Operating and Developing Edge Apps](https://www.youtube.com/watch?v=gNGSsIBB2MM)
+- [Cisco AppDynamics Afternoon!](https://www.youtube.com/watch?v=rS-LoSF1cBU)
+- [Cisco U - The New Learning Experience](https://www.youtube.com/watch?v=rsmoGFdAunw)
+- [Edge-Native: The New Paradigm for Operating and Developing Edge Apps](https://www.youtube.com/watch?v=rFvoGqgouj8)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
