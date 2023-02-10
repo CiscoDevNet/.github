@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Cisco Live DevNet Day 4 recap!](https://www.youtube.com/watch?v=7TUUhZtvQ7g)
 - [The Road to Net-Zero: How Emerging Technologies Accelerate Cracking the Use-case of the Century](https://www.youtube.com/watch?v=ljT5P8r1lGQ)
 - [Edge-Native: The New Paradigm for Operating and Developing Edge Apps](https://www.youtube.com/watch?v=gNGSsIBB2MM)
 - [Cisco AppDynamics Afternoon!](https://www.youtube.com/watch?v=rS-LoSF1cBU)
 - [Cisco U - The New Learning Experience](https://www.youtube.com/watch?v=rsmoGFdAunw)
-- [Edge-Native: The New Paradigm for Operating and Developing Edge Apps](https://www.youtube.com/watch?v=rFvoGqgouj8)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
