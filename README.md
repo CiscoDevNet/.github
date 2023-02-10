@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Live in Amsterdam, DevNet Zone Day 4 Recap](https://blogs.cisco.com/developer/clamsrecap04)
 - [Cisco Live in Amsterdam, DevNet Zone Day 3 Recap](https://blogs.cisco.com/developer/clamsrecap03)
 - [Cisco Live in Amsterdam, DevNet Zone Day 2 Recap](https://blogs.cisco.com/developer/clamsrecap02)
 - [Cisco Live in Amsterdam DevNet Zone Day 1 Recap](https://blogs.cisco.com/developer/clamsrecap01)
 - [Deconstructing the DevNet Zone for Cisco Live in Amsterdam](https://blogs.cisco.com/developer/deconstructingdevnetzone01)
-- [Take a Deep Dive into API Quality at Cisco Live in Amsterdam](https://blogs.cisco.com/developer/apiqualitycleur01)
 <!-- BLOG-POST-LIST:END -->
