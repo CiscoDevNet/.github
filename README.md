@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Cisco Live DevNet Day 4 recap!](https://www.youtube.com/watch?v=7TUUhZtvQ7g)
-- [The Road to Net-Zero: How Emerging Technologies Accelerate Cracking the Use-case of the Century](https://www.youtube.com/watch?v=ljT5P8r1lGQ)
-- [Edge-Native: The New Paradigm for Operating and Developing Edge Apps](https://www.youtube.com/watch?v=gNGSsIBB2MM)
-- [Cisco AppDynamics Afternoon!](https://www.youtube.com/watch?v=rS-LoSF1cBU)
-- [Cisco U - The New Learning Experience](https://www.youtube.com/watch?v=rsmoGFdAunw)
+- [Real-Time Media in a Cloud-Native World - BRKETI-2006](https://www.youtube.com/watch?v=Efcx6Dc8lek)
+- [The World of NSO Web UI - DEVLIT-1259](https://www.youtube.com/watch?v=qYvA_NFvXXs)
+- [Data Security and Compliance in Cloud Native and On-prem Applications - DEVLIT-2414](https://www.youtube.com/watch?v=n-A_0mM04Bk)
+- [Automating Cyber Hygiene Operations with SecureX and Kenna Security - DEVLIT-1355](https://www.youtube.com/watch?v=e0Z9XmYwWeY)
+- [Cisco U - The New Learning Experience - DEVLIT-1600](https://www.youtube.com/watch?v=-2itZXu9jm4)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
