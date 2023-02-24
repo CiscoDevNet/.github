@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Oren Brigg shares his career journey with automation](https://www.youtube.com/watch?v=fQOsPBdMHug)
+- [Webhooks for Delivering Network Alerts | Cisco Meraki](https://www.youtube.com/watch?v=_6udjMB8Oxs)
 - [DevOps Panel – Join us for Hors D&#39;evops! -  DEVLIT 1200](https://www.youtube.com/watch?v=xYsHReVyWX4)
 - [Real-Time Media in a Cloud-Native World](https://www.youtube.com/watch?v=Efcx6Dc8lek)
 - [The World of NSO Web UI - DEVLIT-1259](https://www.youtube.com/watch?v=qYvA_NFvXXs)
-- [Data Security and Compliance in Cloud Native and On-prem Applications - DEVLIT-2414](https://www.youtube.com/watch?v=n-A_0mM04Bk)
-- [Automating Cyber Hygiene Operations with SecureX and Kenna Security](https://www.youtube.com/watch?v=e0Z9XmYwWeY)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
