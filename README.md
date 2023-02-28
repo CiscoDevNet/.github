@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Full Stack Observability with Cisco](https://www.youtube.com/watch?v=gmkFoPV_TMs)
+- [The Fundamentals of Zero Trust for Developers: How to Automate and Evolve Your Security Operations](https://www.youtube.com/watch?v=8m3bIuFXRzw)
 - [The Fundamentals of Zero Trust for Developers: How to Automate and Evolve Your Security Operations](https://www.youtube.com/watch?v=utlFoxv1_cc)
 - [Oren Brigg shares his career journey with automation](https://www.youtube.com/watch?v=fQOsPBdMHug)
 - [Webhooks for Delivering Network Alerts | Cisco Meraki](https://www.youtube.com/watch?v=_6udjMB8Oxs)
-- [DevOps Panel – Join us for Hors D&#39;evops! -  DEVLIT 1200](https://www.youtube.com/watch?v=xYsHReVyWX4)
-- [Real-Time Media in a Cloud-Native World](https://www.youtube.com/watch?v=Efcx6Dc8lek)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
