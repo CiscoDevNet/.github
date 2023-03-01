@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Apps at the Edge as a Service](https://www.youtube.com/watch?v=h7fs_1cf5v8)
+- [Automation in Security Ops](https://www.youtube.com/watch?v=gMyinji2z0E)
+- [Unveiling the Power of Telemetry and Observing it all](https://www.youtube.com/watch?v=Yr0hbQVHq8E)
 - [Full Stack Observability with Cisco](https://www.youtube.com/watch?v=gmkFoPV_TMs)
 - [The Fundamentals of Zero Trust for Developers: How to Automate and Evolve Your Security Operations](https://www.youtube.com/watch?v=8m3bIuFXRzw)
-- [The Fundamentals of Zero Trust for Developers: How to Automate and Evolve Your Security Operations](https://www.youtube.com/watch?v=utlFoxv1_cc)
-- [Oren Brigg shares his career journey with automation](https://www.youtube.com/watch?v=fQOsPBdMHug)
-- [Webhooks for Delivering Network Alerts | Cisco Meraki](https://www.youtube.com/watch?v=_6udjMB8Oxs)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
