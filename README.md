@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Artificial Intelligence Industry trends](https://www.youtube.com/watch?v=xT6KZnNzXmg)
+- [Provisioning massive networks with ease](https://www.youtube.com/watch?v=PQA4fRDOdS8)
+- [Automation &amp; Security with Algosec](https://www.youtube.com/watch?v=C_8ZAKlboGM)
+- [Meraki cameras in IoT for AI algorithms](https://www.youtube.com/watch?v=vWHKaNsVAFk)
 - [Linter Wonderland  + AI Assistant for Developers](https://www.youtube.com/watch?v=_f0GQuu2Bo4)
-- [Apps at the Edge as a Service](https://www.youtube.com/watch?v=h7fs_1cf5v8)
-- [Automation in Security Ops](https://www.youtube.com/watch?v=gMyinji2z0E)
-- [Unveiling the Power of Telemetry and Observing it all](https://www.youtube.com/watch?v=Yr0hbQVHq8E)
-- [Full Stack Observability with Cisco](https://www.youtube.com/watch?v=gmkFoPV_TMs)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
