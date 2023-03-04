@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Plug-in into the APIs](https://www.youtube.com/watch?v=n0nWuzlKVFo)
+- [Build and Automate your Infrastructure](https://www.youtube.com/watch?v=HAwLSOCI9VU)
+- [Automation &amp; Metrics with NSO](https://www.youtube.com/watch?v=htNVmskwV4g)
 - [Artificial Intelligence Industry trends](https://www.youtube.com/watch?v=xT6KZnNzXmg)
 - [Provisioning massive networks with ease](https://www.youtube.com/watch?v=PQA4fRDOdS8)
-- [Automation &amp; Security with Algosec](https://www.youtube.com/watch?v=C_8ZAKlboGM)
-- [Meraki cameras in IoT for AI algorithms](https://www.youtube.com/watch?v=vWHKaNsVAFk)
-- [Linter Wonderland  + AI Assistant for Developers](https://www.youtube.com/watch?v=_f0GQuu2Bo4)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
