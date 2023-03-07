@@ -40,7 +40,7 @@
 - [Plug-in into the APIs](https://www.youtube.com/watch?v=n0nWuzlKVFo)
 - [Build and Automate your Infrastructure](https://www.youtube.com/watch?v=HAwLSOCI9VU)
 - [Automation &amp; Metrics with NSO](https://www.youtube.com/watch?v=htNVmskwV4g)
-- [Artificial Intelligence Industry trends](https://www.youtube.com/watch?v=xT6KZnNzXmg)
+- [Artificial Intelligence Industry Trends](https://www.youtube.com/watch?v=xT6KZnNzXmg)
 - [Provisioning massive networks with ease](https://www.youtube.com/watch?v=PQA4fRDOdS8)
 <!-- YOUTUBE:END -->
 
