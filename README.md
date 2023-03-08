@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Simple way to Adopt Automation](https://www.youtube.com/watch?v=I_BN-H1deBA)
+- [Do You DevOps?](https://www.youtube.com/watch?v=M4F76uR3F2M)
+- [MQTT for Analytics](https://www.youtube.com/watch?v=jHHGqU1-E_k)
+- [Give Me These APIs](https://www.youtube.com/watch?v=c5wMNCx0W0M)
 - [Plug-in into the APIs](https://www.youtube.com/watch?v=n0nWuzlKVFo)
-- [Build and Automate your Infrastructure](https://www.youtube.com/watch?v=HAwLSOCI9VU)
-- [Automation &amp; Metrics with NSO](https://www.youtube.com/watch?v=htNVmskwV4g)
-- [Artificial Intelligence Industry Trends](https://www.youtube.com/watch?v=xT6KZnNzXmg)
-- [Provisioning massive networks with ease](https://www.youtube.com/watch?v=PQA4fRDOdS8)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
