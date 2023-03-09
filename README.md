@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [FSO Platform in Tech Preview](https://www.youtube.com/watch?v=nKamvuRe7ws)
 - [Simple way to Adopt Automation](https://www.youtube.com/watch?v=I_BN-H1deBA)
 - [Do You DevOps?](https://www.youtube.com/watch?v=M4F76uR3F2M)
 - [MQTT for Analytics](https://www.youtube.com/watch?v=jHHGqU1-E_k)
 - [Give Me These APIs](https://www.youtube.com/watch?v=c5wMNCx0W0M)
-- [Plug-in into the APIs](https://www.youtube.com/watch?v=n0nWuzlKVFo)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
