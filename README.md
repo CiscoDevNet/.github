@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Test Drive with APIs](https://www.youtube.com/watch?v=m3INt3wYZUs)
-- [Managed Services using Meraki APIs](https://www.youtube.com/watch?v=Z3ATrUwQ_AY)
-- [Optimize your Wi-Fi](https://www.youtube.com/watch?v=xNpqyMVkyvY)
-- [Computer vision and AI](https://www.youtube.com/watch?v=Uv8wQSL5-YY)
-- [Optimized Cloud Experience](https://www.youtube.com/watch?v=UP8UsEb4Zak)
+- [Cisco Developer Community Updates](https://www.youtube.com/watch?v=pW3EwKAajj0)
+- [Automate into your Career](https://www.youtube.com/watch?v=-j69D7J1gAI)
+- [Video Content &amp; Management](https://www.youtube.com/watch?v=t2UfFlKuaDs)
+- [Security &amp; Device Visibility](https://www.youtube.com/watch?v=lkvZaEjGeOI)
+- [Service Assurance for Everyone](https://www.youtube.com/watch?v=lQs3Nczpz6E)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
