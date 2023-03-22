@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [What Is Automation?](https://www.youtube.com/watch?v=y-iI1e49bMQ)
 - [Cisco Developer Community Updates](https://www.youtube.com/watch?v=pW3EwKAajj0)
-- [Automate into your Career](https://www.youtube.com/watch?v=-j69D7J1gAI)
+- [Automate Your Career with Cisco DevNet](https://www.youtube.com/watch?v=-j69D7J1gAI)
 - [Video Content &amp; Management](https://www.youtube.com/watch?v=t2UfFlKuaDs)
 - [Security &amp; Device Visibility](https://www.youtube.com/watch?v=lkvZaEjGeOI)
-- [Service Assurance for Everyone](https://www.youtube.com/watch?v=lQs3Nczpz6E)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
