@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Where to Start Automating?](https://www.youtube.com/watch?v=5ToLdD0xqQM)
 - [Revolutionize Network Automation with AI](https://www.youtube.com/watch?v=UbWP4HrU790)
 - [Achieving Zero Trust: How SSO and MFA Can Help Protect You From Identity Threats](https://www.youtube.com/watch?v=AcHcE4hOu8s)
 - [Hands On With APIs &amp; Automation](https://www.youtube.com/watch?v=aGmZOTXRIgs)
 - [What Is Automation?](https://www.youtube.com/watch?v=y-iI1e49bMQ)
-- [Cisco Developer Community Updates](https://www.youtube.com/watch?v=pW3EwKAajj0)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
