@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Programming Your Network Lifecycle | Cisco Catalyst Day 0-N](https://www.youtube.com/watch?v=IURmKe_I-70)
+- [Tools Gold | Sifting Through the Pool of DevOps Tools](https://www.youtube.com/watch?v=8N69jEH2P9o)
 - [Where to Start Automating?](https://www.youtube.com/watch?v=5ToLdD0xqQM)
 - [Revolutionize Network Automation with AI](https://www.youtube.com/watch?v=UbWP4HrU790)
 - [Achieving Zero Trust: How SSO and MFA Can Help Protect You From Identity Threats](https://www.youtube.com/watch?v=AcHcE4hOu8s)
-- [Hands On With APIs &amp; Automation](https://www.youtube.com/watch?v=aGmZOTXRIgs)
-- [What Is Automation?](https://www.youtube.com/watch?v=y-iI1e49bMQ)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
