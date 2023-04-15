@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Automating Catalyst IOS-XE | A DevNet Webinar](https://www.youtube.com/watch?v=LdcK5PnPu2I)
 - [Programming Your Network Lifecycle | Cisco Catalyst Day 0-N](https://www.youtube.com/watch?v=IURmKe_I-70)
 - [Tools Gold | Sifting Through the Pool of DevOps Tools](https://www.youtube.com/watch?v=8N69jEH2P9o)
 - [Where to Start Automating?](https://www.youtube.com/watch?v=5ToLdD0xqQM)
 - [Revolutionize Network Automation with AI](https://www.youtube.com/watch?v=UbWP4HrU790)
-- [Achieving Zero Trust: How SSO and MFA Can Help Protect You From Identity Threats](https://www.youtube.com/watch?v=AcHcE4hOu8s)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
