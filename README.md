@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [DevNet Zone @ Cisco Live US 2023](https://www.youtube.com/watch?v=pbJM0k3AJQ0)
+- [Maximizing Efficiency and Security with Zero Trust Continuous Monitoring and Automation #shorts](https://www.youtube.com/watch?v=MsG2YNlFEew)
 - [Automating Catalyst IOS-XE | A DevNet Webinar](https://www.youtube.com/watch?v=LdcK5PnPu2I)
 - [Programming Your Network Lifecycle | Cisco Catalyst Day 0-N](https://www.youtube.com/watch?v=IURmKe_I-70)
 - [Tools Gold | Sifting Through the Pool of DevOps Tools](https://www.youtube.com/watch?v=8N69jEH2P9o)
-- [Where to Start Automating?](https://www.youtube.com/watch?v=5ToLdD0xqQM)
-- [Revolutionize Network Automation with AI](https://www.youtube.com/watch?v=UbWP4HrU790)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
