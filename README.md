@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Pixels to Poetry: Exploring Generative AI’s Potential](https://www.youtube.com/watch?v=ZUlY4ETM_kk)
 - [Observability &amp; Beyond | Cisco Live US 2023](https://www.youtube.com/watch?v=bPjkcBRigR4)
 - [Getting Started with Cloud Native | Cisco Live US 2023](https://www.youtube.com/watch?v=Ar5RVIyEK1E)
 - [Dev + Sec + Ops = Success | Cisco Live US 2023](https://www.youtube.com/watch?v=ISDejo_2qjc)
 - [Bringing DevOps to Life | Cisco Live US 2023](https://www.youtube.com/watch?v=wCMmFGhh0dk)
-- [DevNet Zone Learning Tracks | Cisco Live US 2023](https://www.youtube.com/watch?v=KlxJqwCs5v0)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
