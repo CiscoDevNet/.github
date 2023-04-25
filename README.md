@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Infrastructure as Code | Cisco Live US 2023](https://www.youtube.com/watch?v=F4Qq1Aqee3o)
+- [Pwned!! Dev Dash Cisco Live US 23](https://www.youtube.com/watch?v=fOVMG9l3qcQ)
 - [Maximizing Efficiency and Security with Zero Trust Continuous Monitoring and Automation](https://www.youtube.com/watch?v=U5OJu5x8Jtg)
 - [Pixels to Poetry: Exploring Generative AI’s Potential](https://www.youtube.com/watch?v=ZUlY4ETM_kk)
 - [Observability &amp; Beyond | Cisco Live US 2023](https://www.youtube.com/watch?v=bPjkcBRigR4)
-- [Getting Started with Cloud Native | Cisco Live US 2023](https://www.youtube.com/watch?v=Ar5RVIyEK1E)
-- [Dev + Sec + Ops = Success | Cisco Live US 2023](https://www.youtube.com/watch?v=ISDejo_2qjc)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
