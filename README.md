@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Terraform | Dev Dash Cisco Live US 23](https://www.youtube.com/watch?v=w2RBqi-r1xc)
+- [Python vs. Ansible | Who Wins the Automation Battle](https://www.youtube.com/watch?v=Jk3hQDYhVSQ)
 - [Pixels to Poetry: Exploring Generative AI’s Potential](https://www.youtube.com/watch?v=ZUlY4ETM_kk)
 - [Infrastructure as Code | Cisco Live US 2023](https://www.youtube.com/watch?v=F4Qq1Aqee3o)
-- [Pwned!! Dev Dash Cisco Live US 23](https://www.youtube.com/watch?v=fOVMG9l3qcQ)
-- [Maximizing Efficiency and Security with Zero Trust Continuous Monitoring and Automation](https://www.youtube.com/watch?v=U5OJu5x8Jtg)
-- [Observability &amp; Beyond | Cisco Live US 2023](https://www.youtube.com/watch?v=bPjkcBRigR4)
+- [Pwned!! | Dev Dash Cisco Live US 23](https://www.youtube.com/watch?v=fOVMG9l3qcQ)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
