@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [The Fear is REAL | Adopting Automation is Tough](https://www.youtube.com/watch?v=ohYB3zRbxtk)
 - [Tremendous Terraform](https://www.youtube.com/watch?v=WrvcdEUn0FM)
 - [Terraform | Dev Dash Cisco Live US 23](https://www.youtube.com/watch?v=w2RBqi-r1xc)
 - [Python vs. Ansible | Who Wins the Automation Battle](https://www.youtube.com/watch?v=Jk3hQDYhVSQ)
 - [Pixels to Poetry: Exploring Generative AI’s Potential](https://www.youtube.com/watch?v=ZUlY4ETM_kk)
-- [Infrastructure as Code | Cisco Live US 2023](https://www.youtube.com/watch?v=F4Qq1Aqee3o)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
