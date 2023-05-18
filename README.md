@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Monitoring at Scale with Meraki APIs](https://www.youtube.com/watch?v=N3cUnpm0Ais)
+- [Innovate with Meraki APIs and its Partner Marketplace](https://www.youtube.com/watch?v=biHubYm2I18)
+- [Meraki 101 | Introduction to Meraki Integrations](https://www.youtube.com/watch?v=sPa31cZkpZQ)
 - [The Fear is REAL | Adopting Automation is Tough](https://www.youtube.com/watch?v=ohYB3zRbxtk)
 - [Tremendous Terraform](https://www.youtube.com/watch?v=WrvcdEUn0FM)
-- [Terraform | Dev Dash Cisco Live US 23](https://www.youtube.com/watch?v=w2RBqi-r1xc)
-- [Python vs. Ansible | Who Wins the Automation Battle](https://www.youtube.com/watch?v=Jk3hQDYhVSQ)
-- [Pixels to Poetry: Exploring Generative AI’s Potential](https://www.youtube.com/watch?v=ZUlY4ETM_kk)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
