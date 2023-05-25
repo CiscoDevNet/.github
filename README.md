@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [The Dashboard API is the new CLI](https://www.youtube.com/watch?v=9WEB_EPakhQ)
+- [Don’t Call Us, We’ll Call You! | Meraki Webhooks](https://www.youtube.com/watch?v=5cMeyEJOpxM)
 - [Coder&#39;s Corner](https://www.youtube.com/watch?v=8EPE27nOqvs)
 - [Monitoring at Scale with Meraki APIs](https://www.youtube.com/watch?v=N3cUnpm0Ais)
 - [Innovate with Meraki APIs and its Partner Marketplace](https://www.youtube.com/watch?v=biHubYm2I18)
-- [Meraki 101 | Introduction to Meraki Integrations](https://www.youtube.com/watch?v=sPa31cZkpZQ)
-- [The Fear is REAL | Adopting Automation is Tough](https://www.youtube.com/watch?v=ohYB3zRbxtk)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
