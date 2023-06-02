@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Getting Started with Panoptica](https://www.youtube.com/watch?v=mRmo8afj17c)
 - [Start Automating Your Network NOW](https://www.youtube.com/watch?v=F9vhSVDqI10)
 - [Developers Delight](https://www.youtube.com/watch?v=A22fk05Syfc)
 - [The Dashboard API is the new CLI](https://www.youtube.com/watch?v=9WEB_EPakhQ)
 - [Don’t Call Us, We’ll Call You! | Meraki Webhooks](https://www.youtube.com/watch?v=5cMeyEJOpxM)
-- [Coder&#39;s Corner](https://www.youtube.com/watch?v=8EPE27nOqvs)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
