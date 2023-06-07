@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [DevNet Zone Day 2 Recap | Cisco Live US 2023](https://www.youtube.com/watch?v=tVg2Lbnygbw)
+- [Cisco DevNet Live Stream](https://www.youtube.com/watch?v=6vfSr1VEaBs)
+- [Cisco DevNet Live Stream](https://www.youtube.com/watch?v=S61ZyecM4Tg)
 - [DevNet Zone Day 1 Recap | Cisco Live US 2023](https://www.youtube.com/watch?v=LNeWjsuJZC4)
 - [Getting Started with Panoptica](https://www.youtube.com/watch?v=mRmo8afj17c)
-- [Start Automating Your Network NOW](https://www.youtube.com/watch?v=F9vhSVDqI10)
-- [Developers Delight](https://www.youtube.com/watch?v=A22fk05Syfc)
-- [The Dashboard API is the new CLI](https://www.youtube.com/watch?v=9WEB_EPakhQ)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
