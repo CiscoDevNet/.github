@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [CiscoLive Day4 Sizzle](https://www.youtube.com/watch?v=WAm9slB0KBo)
+- [Speed vs Security: Protecting cloud native environments | DevNet LIVE](https://www.youtube.com/watch?v=y7aTpvM_l7U)
 - [Day 3 at Cisco Live US 2023](https://www.youtube.com/watch?v=cSIAXQeTzD8)
 - [The Developer Connection... The Coders, the Dreamers, and Me - DEVLIT-1791](https://www.youtube.com/watch?v=94YKCELaZlE)
 - [DevNet Zone Day 2 Recap | Cisco Live US 2023](https://www.youtube.com/watch?v=tVg2Lbnygbw)
-- [Cisco DevNet Live Stream](https://www.youtube.com/watch?v=6vfSr1VEaBs)
-- [Cisco DevNet Live Stream](https://www.youtube.com/watch?v=S61ZyecM4Tg)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
