@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Hands on navigating SD WAN API documentation with sample queries](https://www.youtube.com/watch?v=4ats_n21KwE)
 - [Cisco SD WAN REST APIs Basics](https://www.youtube.com/watch?v=l6CNWMbrAlY)
 - [Are you really doing Agile?](https://www.youtube.com/watch?v=vSz_vai9bN8)
 - [DevNet Zone Day 4 Recap | Cisco Live US 2023](https://www.youtube.com/watch?v=WAm9slB0KBo)
 - [Speed vs Security: Protecting cloud native environments | DevNet LIVE](https://www.youtube.com/watch?v=y7aTpvM_l7U)
-- [DevNet Zone Day 3 Recap | Cisco Live US 2023](https://www.youtube.com/watch?v=cSIAXQeTzD8)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
