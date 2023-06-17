@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Hands on navigating SD WAN API documentation with sample queries](https://www.youtube.com/watch?v=4ats_n21KwE)
-- [Cisco SD WAN REST APIs Basics](https://www.youtube.com/watch?v=l6CNWMbrAlY)
-- [Are you really doing Agile?](https://www.youtube.com/watch?v=vSz_vai9bN8)
-- [DevNet Zone Day 4 Recap | Cisco Live US 2023](https://www.youtube.com/watch?v=WAm9slB0KBo)
-- [Speed vs Security: Protecting cloud native environments | DevNet LIVE](https://www.youtube.com/watch?v=y7aTpvM_l7U)
+- [Live Troubleshooting Slowness in Application using AppDynamics APM](https://www.youtube.com/watch?v=7NbPXOlkeAk)
+- [Monitoring your Infra, your app, your house, your everything with Grafana](https://www.youtube.com/watch?v=ToVjrOq32O4)
+- [The World of NSO Web UI](https://www.youtube.com/watch?v=F1yEb8nqsIM)
+- [Automatic webex bot deployment using Alexa skill](https://www.youtube.com/watch?v=-TVbxHL7CGk)
+- [Quantum Security and API interaction for Post Quantum Cryptography](https://www.youtube.com/watch?v=k190xFIgjJo)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
