@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Provisioning SD WAN controllers and branch devices in public clouds](https://www.youtube.com/watch?v=1-gRGW1rPO8)
 - [Live Troubleshooting Slowness in Application using AppDynamics APM](https://www.youtube.com/watch?v=7NbPXOlkeAk)
 - [Monitoring your Infra, your app, your house, your everything with Grafana](https://www.youtube.com/watch?v=ToVjrOq32O4)
 - [The World of NSO Web UI](https://www.youtube.com/watch?v=F1yEb8nqsIM)
 - [Automatic webex bot deployment using Alexa skill](https://www.youtube.com/watch?v=-TVbxHL7CGk)
-- [Quantum Security and API interaction for Post Quantum Cryptography](https://www.youtube.com/watch?v=k190xFIgjJo)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
