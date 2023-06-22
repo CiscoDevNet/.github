@@ -32,3 +32,27 @@
 <a href="https://github.com/CiscoDevNet/yangsuite">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=CiscoDevNet&repo=yangsuite&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+<<<<<< README.md
+https://raw.githubusercontent.com/lostleolotus/.github-lostleolotus-main.github/README.md/images/devnet_banner.jpeg
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+
+# Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [DevOps at Cisco Live US 2023](https://www.youtube.com/watch?v=fMnNtq4AYE8)
+- [Provisioning SD WAN controllers and branch devices in public clouds](https://www.youtube.com/watch?v=1-gRGW1rPO8)
+- [Live Troubleshooting Slowness in Application using AppDynamics APM](https://www.youtube.com/watch?v=7NbPXOlkeAk)
+- [Monitoring your Infra, your app, your house, your everything with Grafana](https://www.youtube.com/watch?v=ToVjrOq32O4)
+- [The World of NSO Web UI](https://www.youtube.com/watch?v=F1yEb8nqsIM)
+<!-- YOUTUBE:END -->
+
+# Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Fascinating laser research projects you wish you thought of &lpar;Part 1 of 9&rpar;: Cisco Optics Podcast Ep 35](https://feedpress.me/link/23532/15974118/fascinating-laser-research-projects-you-wish-you-thought-of-part-1-of-9-cisco-optics-podcast-ep-35)
+- [Experience the Power of Simplicity with these Cisco SD-WAN Upgrades](https://feedpress.me/link/23532/15973610/experience-the-power-of-simplicity-with-these-cisco-sd-wan-upgrades)
+- [4 Key takeaways from NRF 2023](https://feedpress.me/link/23532/15973397/key-takeaways-from-nrf2023)
+- [A love letter to planet Earth](https://feedpress.me/link/23532/15973373/a-love-letter-to-planet-earth)
+- [A Bridge of Help Connects to 170 Smiling Faces](https://feedpress.me/link/23532/15969255/a-bridge-of-help-connects-to-170-smiling-faces)
+<!-- BLOG-POST-LIST:END -->
+>>>>>> main
