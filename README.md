@@ -7,6 +7,29 @@
 		Cisco DevNet includes Cisco’s products in software-defined networking, security, cloud, data center, internet of things, collaboration, and Cisco customer experience. 
 		The [developer.cisco.com][https_developer.cisco.com] site also provides [docs]https_developer.cisco.com_docs], [tutorials][https_developer.cisco.com_learning], and [sandbox environments][https_developer.cisco.com_site_sandbox] as well as video series to learn coding and testing apps./p>
 </p>
+<h3 align="left">Connect with DevNet:</h3>
+<p align="left">
+<a href="https://twitter.com/ciscodevnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ciscodevnet" height="30" width="40" /></a>
+<a href="https://linkedin.com/company/cisco-devnet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/cisco-devnet/" height="30" width="40" /></a>
+<a href="https://facebook.com/ciscodevnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ciscodevnet" height="30" width="40" /></a>
+<a href="https://instagram.com/ciscodevnet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ciscodevnet/" height="30" width="40" /></a>
+<a href="https://youtube.com/c/ciscodevnetchannel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/ciscodevnetchannel" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Pinned Repos:</h3>
+<p align="left">
+
+<a href="https://github.com/CiscoDevNet/python_code_samples_network">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=CiscoDevNet&repo=python_code_samples_network&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/CiscoDevNet/netprog_basics">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=CiscoDevNet&repo=netprog_basics&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/CiscoDevNet/yangsuite">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=CiscoDevNet&repo=yangsuite&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<h3 align="left">Languages and Tools:</h3>
 # GitHub CLI
 
 `gh` is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with `git` and your code.
@@ -137,3 +160,14 @@ For many years, [hub]("https://raw.githubusercontent.com/lostleolotus/.github-lo
 what an official GitHub CLI tool can look like with a fundamentally different design. While both
 tools bring GitHub to the terminal, `hub` behaves as a proxy to `git`, and `gh` is a standalone
 tool. Check out our [more detailed explanation][gh-vs-hub] to learn more.
+# Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [Provisioning SD WAN controllers and branch devices in public clouds](https://www.youtube.com/watch?v=1-gRGW1rPO8)
+- [Live Troubleshooting Slowness in Application using AppDynamics APM](https://www.youtube.com/watch?v=7NbPXOlkeAk)
+- [Monitoring your Infra, your app, your house, your everything with Grafana](https://www.youtube.com/watch?v=ToVjrOq32O4)
+- [The World of NSO Web UI](https://www.youtube.com/watch?v=F1yEb8nqsIM)
+- [Automatic webex bot deployment using Alexa skill](https://www.youtube.com/watch?v=-TVbxHL7CGk)
+- [Quantum Security and API interaction for Post Quantum Cryptography](https://www.youtube.com/watch?v=k190xFIgjJo)
+<!-- YOUTUBE:END -->
+
+# Latest Blog posts
