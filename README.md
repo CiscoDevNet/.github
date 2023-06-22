@@ -1,5 +1,5 @@
 <p>
-<img src=./images/devnet_banner.jpeg align="right" alt="DevNet_Banner"_"/>
+<img src=./images/devnet_banner.jpeg align="right" alt="DevNet_Banner.jpeg"_"/>
   Cisco DevNet, found at 
   <[developer.cisco.com_https://developer.cisco.com]>
   is Cisco’s developer program to help developers and IT professionals who want to write applications and develop integrations with Cisco products, platforms, and APIs. 
