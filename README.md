@@ -1,58 +1,139 @@
+# README.md
+<p></p>
 <p>
-<img src=./images/devnet_banner.jpeg align="right" alt="DevNet_Banner.jpeg"_"/>
-  Cisco DevNet, found at 
-  <[developer.cisco.com_https://developer.cisco.com]>
-  is Cisco’s developer program to help developers and IT professionals who want to write applications and develop integrations with Cisco products, platforms, and APIs. 
-  Cisco DevNet includes Cisco’s products in software-defined networking, security, cloud, data center, internet of things, collaboration, and Cisco customer experience. The 
-  [developer.cisco.com](https://developer.cisco.com) site also provides 
-  [docs](https://developer.cisco.com/docs), 
-  [tutorials](https://developer.cisco.com/learning), and 
-  [sandbox environments](https://developer.cisco.com/site/sandbox) as well as video series to learn coding and testing apps.
+<img src=images/devnet_banner.jpeg align="right" alt="DevNet_Banner"_"/> 
+<p Cisco_DevNet found at[developer.cisco.com_https_raw.githubusercontent.com_lostleolotus.github-lostleolotus-main.github_README.md_images_devnet_banner.jpeg]
+		is Cisco’s developer program to help developers and IT professionals who want to write applications and develop integrations with Cisco products, platforms, and APIs. 
+		Cisco DevNet includes Cisco’s products in software-defined networking, security, cloud, data center, internet of things, collaboration, and Cisco customer experience. 
+		The [developer.cisco.com][https_developer.cisco.com] site also provides [docs]https_developer.cisco.com_docs], [tutorials][https_developer.cisco.com_learning], and [sandbox environments][https_developer.cisco.com_site_sandbox] as well as video series to learn coding and testing apps./p>
 </p>
+# GitHub CLI
 
-<p align="left"> <a href="https://twitter.com/ciscodevnet" target="blank"><img src="https://img.shields.io/twitter/follow/ciscodevnet?logo=twitter&style=for-the-badge" alt="ciscodevnet" /></a> </p>
+`gh` is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with `git` and your code.
 
-- Developer Blogs [https://blogs.cisco.com/developer](https://blogs.cisco.com/developer)
+<img src="https_raw.githubusercontent.com_lostleolotus.github-lostleolotus-main.github_README.md_images_devnet_banner.jpeg">
 
-- How to reach us **devnet-github-owners@cisco.com**
+GitHub CLI is available for repositories hosted on GitHub.com and GitHub Enterprise Server 2.20+, and to install on macOS, Windows, and Linux.
 
-- Join DevNet to get the tools, resources and code to build network-enabled solutions https://developer.cisco.com/join/devnet/
+## Documentation
 
-<h3 align="left">Pinned Repos:</h3>
-<p align="left">
+For [installation options see below](#installation), for usage instructions [see the manual][manual].
 
-<a href="https://github.com/CiscoDevNet/python_code_samples_network">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=CiscoDevNet&repo=python_code_samples_network&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+## Contributing
 
-<a href="https://github.com/CiscoDevNet/netprog_basics">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=CiscoDevNet&repo=netprog_basics&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+If anything feels off, or if you feel that some functionality is missing, please check out the [contributing page][contributing]. There you will find instructions for sharing your feedback, building the tool locally, and submitting pull requests to the project.
 
-<a href="https://github.com/CiscoDevNet/yangsuite">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=CiscoDevNet&repo=yangsuite&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<<<<<< README.md
-https://raw.githubusercontent.com/lostleolotus/.github-lostleolotus-main.github/README.md/images/devnet_banner.jpeg
+If you are a hubber and are interested in shipping new commands for the CLI, check out our [doc on internal contributions][intake-doc].
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+[<-- this anchor is linked to from elsewhere, so avoid renaming it -->]
+## Installation
 
-# Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [DevOps at Cisco Live US 2023](https://www.youtube.com/watch?v=fMnNtq4AYE8)
-- [Provisioning SD WAN controllers and branch devices in public clouds](https://www.youtube.com/watch?v=1-gRGW1rPO8)
-- [Live Troubleshooting Slowness in Application using AppDynamics APM](https://www.youtube.com/watch?v=7NbPXOlkeAk)
-- [Monitoring your Infra, your app, your house, your everything with Grafana](https://www.youtube.com/watch?v=ToVjrOq32O4)
-- [The World of NSO Web UI](https://www.youtube.com/watch?v=F1yEb8nqsIM)
-<!-- YOUTUBE:END -->
+### macOS
 
-# Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Fascinating laser research projects you wish you thought of &lpar;Part 1 of 9&rpar;: Cisco Optics Podcast Ep 35](https://feedpress.me/link/23532/15974118/fascinating-laser-research-projects-you-wish-you-thought-of-part-1-of-9-cisco-optics-podcast-ep-35)
-- [Experience the Power of Simplicity with these Cisco SD-WAN Upgrades](https://feedpress.me/link/23532/15973610/experience-the-power-of-simplicity-with-these-cisco-sd-wan-upgrades)
-- [4 Key takeaways from NRF 2023](https://feedpress.me/link/23532/15973397/key-takeaways-from-nrf2023)
-- [A love letter to planet Earth](https://feedpress.me/link/23532/15973373/a-love-letter-to-planet-earth)
-- [A Bridge of Help Connects to 170 Smiling Faces](https://feedpress.me/link/23532/15969255/a-bridge-of-help-connects-to-170-smiling-faces)
-<!-- BLOG-POST-LIST:END -->
->>>>>> main
+`gh` is available via [Homebrew][], [MacPorts][], [Conda][], [Spack][], and as a downloadable binary from the [releases page][].
+
+#### Homebrew
+
+| Install:          | Upgrade:          |
+| ----------------- | ----------------- |
+| `brew install gh` | `brew upgrade gh` |
+
+#### MacPorts
+
+| Install:               | Upgrade:                                       |
+| ---------------------- | ---------------------------------------------- |
+| `sudo port install gh` | `sudo port selfupdate && sudo port upgrade gh` |
+
+#### Conda
+
+| Install:                                 | Upgrade:                                |
+|------------------------------------------|-----------------------------------------|
+| `conda install gh --channel conda-forge` | `conda update gh --channel conda-forge` |
+
+Additional Conda installation options available on the [gh-feedstock page](https://github.com/conda-forge/gh-feedstock#installing-gh).
+
+#### Spack
+
+| Install:           | Upgrade:                                 |
+| ------------------ | ---------------------------------------- |
+| `spack install gh` | `spack uninstall gh && spack install gh` |
+
+### Linux & BSD
+
+`gh` is available via:
+- [our Debian and RPM repositories](./docs/install_linux.md);
+- community-maintained repositories in various Linux distros;
+- OS-agnostic package managers such as [Homebrew](#homebrew), [Conda](#conda), and [Spack](#spack); and
+- our [releases page][] as precompiled binaries.
+
+For more information, see [Linux & BSD installation](./docs/install_linux.md).
+
+### Windows
+
+`gh` is available via [WinGet][], [scoop][], [Chocolatey][], [Conda](#conda), and as downloadable MSI.
+
+#### WinGet
+
+| Install:            | Upgrade:            |
+| ------------------- | --------------------|
+| `winget install --id GitHub.cli` | `winget upgrade --id GitHub.cli` |
+
+> **Note**  
+> The Windows installer modifies your PATH. When using Windows Terminal, you will need to **open a new window** for the changes to take effect. (Simply opening a new tab will _not_ be sufficient.)
+
+#### scoop
+
+| Install:           | Upgrade:           |
+| ------------------ | ------------------ |
+| `scoop install gh` | `scoop update gh`  |
+
+#### Chocolatey
+
+| Install:           | Upgrade:           |
+| ------------------ | ------------------ |
+| `choco install gh` | `choco upgrade gh` |
+
+### Codespaces
+
+To add GitHub CLI to your codespace, add the following to your [devcontainer file](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-features-to-a-devcontainer-file):
+
+```
+.json
+"features": 
+{  <{["manual]:https://cli.github.com/manual/"
+     ["Homebrew]: https://brew.sh"
+     ["MacPorts]: https://www.macports.org"
+     ["winget]: https://github.com/microsoft/winget-cli"
+     ["scoop]: https://scoop.sh"
+     ["Chocolatey]: https://chocolatey.org"
+     ["Conda]: https://docs.conda.io/en/latest/"
+     ["Spack]: https://spack.io"
+     ["releases page]: https://github.com/cli/cli/releases/latest"
+     ["hub]: https://github.com/github/hub"
+     ["contributing.github/CONTRIBUTING.md"
+     ["gh-vs-hub_docs/gh-vs-hub.md"
+     ["build from source_docs/source.md"
+     ["intake-doc_docs/working-with-us.md"]}>
+}
+```
+
+### GitHub Actions
+
+GitHub CLI comes pre-installed in all 
+[GitHub-Hosted Runners](https://docs.github.com/en/actions/using-github-hosted-runners/about-github-hosted-runners).
+
+### Other platforms
+
+Download packaged binaries from the <
+[releases_page](https_raw.githubusercontent.com_lostleolotus.github-lostleolotus-main.github_README.md_images_devnet_banner.jpeg)>.
+
+### Build from source
+
+See here on how to [build GitHub CLI from source][build from source].
+
+## Comparison with hub
+
+For many years, [hub]("https://raw.githubusercontent.com/lostleolotus/.github-lostleolotus-main.github/README.md/images/devnet_banner.jpeg") was the unofficial GitHub CLI tool. `gh` is a new project that helps us explore
+what an official GitHub CLI tool can look like with a fundamentally different design. While both
+tools bring GitHub to the terminal, `hub` behaves as a proxy to `git`, and `gh` is a standalone
+tool. Check out our [more detailed explanation][gh-vs-hub] to learn more.
