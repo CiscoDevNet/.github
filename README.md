@@ -1,7 +1,7 @@
 # README.md
 <p></p>
 <p>
-<img src=images/devnet_banner.jpeg align="right" alt="DevNet_Banner"_"/> 
+<img src="images/devnet_banner.jpeg" align="right"DevNet_Banner.jpeg_https_raw.githubusercontent.com_lostleolotus.github-lostleolotus-main.github_README.md_images_devnet_banner.jpeg""_"/> 
 <p Cisco_DevNet found at[developer.cisco.com_https_raw.githubusercontent.com_lostleolotus.github-lostleolotus-main.github_README.md_images_devnet_banner.jpeg]
 		is Cisco’s developer program to help developers and IT professionals who want to write applications and develop integrations with Cisco products, platforms, and APIs. 
 		Cisco DevNet includes Cisco’s products in software-defined networking, security, cloud, data center, internet of things, collaboration, and Cisco customer experience. 
@@ -9,7 +9,7 @@
 </p>
 <h3 align="left">Connect with DevNet:</h3>
 <p align="left">
-<a href="https://twitter.com/ciscodevnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ciscodevnet" height="30" width="40" /></a>
+<a href="target"=<img align="center" src="https://raw.githubusercontent.com/lostleolotus/.github-lostleolotus-main.github/README.md/images/devnet_banner.jpeg" alt="ciscodevnet" height="30" width="40" /></a>
 <a href="https://linkedin.com/company/cisco-devnet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/cisco-devnet/" height="30" width="40" /></a>
 <a href="https://facebook.com/ciscodevnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ciscodevnet" height="30" width="40" /></a>
 <a href="https://instagram.com/ciscodevnet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ciscodevnet/" height="30" width="40" /></a>
@@ -34,7 +34,7 @@
 
 `gh` is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with `git` and your code.
 
-<img src="https_raw.githubusercontent.com_lostleolotus.github-lostleolotus-main.github_README.md_images_devnet_banner.jpeg">
+<a href="https_raw.githubusercontent.com_lostleolotus.github-lostleolotus-main.github_README.md_images_devnet_banner.jpeg">
 
 GitHub CLI is available for repositories hosted on GitHub.com and GitHub Enterprise Server 2.20+, and to install on macOS, Windows, and Linux.
 
@@ -48,7 +48,7 @@ If anything feels off, or if you feel that some functionality is missing, please
 
 If you are a hubber and are interested in shipping new commands for the CLI, check out our [doc on internal contributions][intake-doc].
 
-[<-- this anchor is linked to from elsewhere, so avoid renaming it -->]
+<-- this anchor is linked to from elsewhere, so avoid renaming it -->
 ## Installation
 
 ### macOS
