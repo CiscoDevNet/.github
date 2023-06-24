@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Meraki BLE Tracking Dashboard](https://www.youtube.com/watch?v=DDY_skBxJZo)
+- [Meraki Executive Dashboard](https://www.youtube.com/watch?v=mGNrJpKcQAU)
+- [Migrate ASA Rules to Meraki MX](https://www.youtube.com/watch?v=qMIE8B-lcFs)
 - [Hands-on with SD-WAN Day 2 automation use cases](https://www.youtube.com/watch?v=JbnO69Km2pk)
 - [DevOps at Cisco Live US 2023](https://www.youtube.com/watch?v=fMnNtq4AYE8)
-- [Provisioning SD WAN controllers and branch devices in public clouds](https://www.youtube.com/watch?v=1-gRGW1rPO8)
-- [Live Troubleshooting Slowness in Application using AppDynamics APM](https://www.youtube.com/watch?v=7NbPXOlkeAk)
-- [Monitoring your Infra, your app, your house, your everything with Grafana](https://www.youtube.com/watch?v=ToVjrOq32O4)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
