@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Waterfall vs Agile... Is There a Winner?](https://www.youtube.com/watch?v=uds5QOBjBgM)
 - [Unlocking the ​Possibilities of Hybrid Cloud​](https://www.youtube.com/watch?v=wgbb2CLZPsw)
 - [Meraki BLE Tracking Dashboard](https://www.youtube.com/watch?v=DDY_skBxJZo)
 - [Meraki Executive Dashboard](https://www.youtube.com/watch?v=mGNrJpKcQAU)
 - [Migrate ASA Rules to Meraki MX](https://www.youtube.com/watch?v=qMIE8B-lcFs)
-- [Hands-on with SD-WAN Day 2 automation use cases](https://www.youtube.com/watch?v=JbnO69Km2pk)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
