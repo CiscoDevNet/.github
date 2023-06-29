@@ -4,9 +4,9 @@
 
 - Developer Blogs [https://blogs.cisco.com/developer](https://blogs.cisco.com/developer)
 
-- How to reach us **devnet-github-owners@cisco.com**
+- If you have a GitHub-related request, don't hesitate to get in touch with **devnet-github-owners@cisco.com** with a description of your request.
 
-- Join DevNet to get the tools, resources and code to build network-enabled solutions https://developer.cisco.com/join/devnet/
+- Join DevNet to get the tools, resources, and code to build network-enabled solutions https://developer.cisco.com/join/devnet/
 
 <h3 align="left">Connect with DevNet:</h3>
 <p align="left">
