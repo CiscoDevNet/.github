@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [The Anatomy of Agile](https://www.youtube.com/watch?v=PIPFXfjj5AQ)
 - [Hands-On using Sastre Automation Toolset and Day 1 Use Case](https://www.youtube.com/watch?v=7D-lxmJL2hU)
 - [Waterfall vs Agile... Is There a Winner?](https://www.youtube.com/watch?v=uds5QOBjBgM)
 - [Unlocking the ​Possibilities of Hybrid Cloud​](https://www.youtube.com/watch?v=wgbb2CLZPsw)
 - [Meraki BLE Tracking Dashboard](https://www.youtube.com/watch?v=DDY_skBxJZo)
-- [Meraki Executive Dashboard](https://www.youtube.com/watch?v=mGNrJpKcQAU)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
