@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [The Anatomy of Agile](https://www.youtube.com/watch?v=PIPFXfjj5AQ)
-- [Hands-On using Sastre Automation Toolset and Day 1 Use Case](https://www.youtube.com/watch?v=7D-lxmJL2hU)
-- [Waterfall vs Agile... Is There a Winner?](https://www.youtube.com/watch?v=uds5QOBjBgM)
-- [Unlocking the ​Possibilities of Hybrid Cloud​](https://www.youtube.com/watch?v=wgbb2CLZPsw)
-- [Meraki BLE Tracking Dashboard](https://www.youtube.com/watch?v=DDY_skBxJZo)
+- [The Journey for Women in Tech](https://www.youtube.com/watch?v=INBpQP9GJT8)
+- [Open Source - Where does Cisco stand?](https://www.youtube.com/watch?v=zj90jSbXso4)
+- [More Data than you need for Security Analysis?](https://www.youtube.com/watch?v=9TQr90PnxZ4)
+- [Multi-site configs across data center &amp; Campus fabrics](https://www.youtube.com/watch?v=XiMAuCdGo1k)
+- [The &quot;Application Security&quot; challenge](https://www.youtube.com/watch?v=anRHwW_w1hc)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
