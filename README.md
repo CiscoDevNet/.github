@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [The Journey for Women in Tech](https://www.youtube.com/watch?v=INBpQP9GJT8)
-- [Open Source - Where does Cisco stand?](https://www.youtube.com/watch?v=zj90jSbXso4)
-- [More Data than you need for Security Analysis?](https://www.youtube.com/watch?v=9TQr90PnxZ4)
-- [Multi-site configs across data center &amp; Campus fabrics](https://www.youtube.com/watch?v=XiMAuCdGo1k)
-- [The &quot;Application Security&quot; challenge](https://www.youtube.com/watch?v=anRHwW_w1hc)
+- [DevOps Shop: Real-world &amp; Community-inspired DevOps concepts](https://www.youtube.com/watch?v=O_bi6BQdSMo)
+- [APIs &quot;DO&quot; make your Network Simple!](https://www.youtube.com/watch?v=EgVyuCTfIFM)
+- [All thats New with DevNet!](https://www.youtube.com/watch?v=MVvU_U1pNxk)
+- [DevOps, DevOps, DevOps!!!](https://www.youtube.com/watch?v=OwEPDwT1Hxk)
+- [What are we Shifting Left? Security?](https://www.youtube.com/watch?v=JWGhTNb3vnE)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
