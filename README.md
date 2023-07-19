@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [What is Sastre? | a Meraki partnership](https://www.youtube.com/watch?v=LTpRlrtQW_w)
 - [Business Observability on the FSO platform with Evolutio](https://www.youtube.com/watch?v=4R656kw4398)
 - [DevOps Shop: Real-world &amp; Community-inspired DevOps concepts](https://www.youtube.com/watch?v=O_bi6BQdSMo)
 - [APIs &quot;DO&quot; make your Network Simple!](https://www.youtube.com/watch?v=EgVyuCTfIFM)
 - [All thats New with DevNet!](https://www.youtube.com/watch?v=MVvU_U1pNxk)
-- [Cisco Security &amp; Duo APIs](https://www.youtube.com/watch?v=Onbr3u8LL_g)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
