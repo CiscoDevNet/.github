@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Security Comes First!](https://www.youtube.com/watch?v=moGe3pT5t4Q)
+- [Its ALL about Developers!](https://www.youtube.com/watch?v=pUseed03bF8)
+- [SECURITY is the biggest thing!](https://www.youtube.com/watch?v=Golii0zR3tI)
+- [API Quality across the Cisco Portfolio](https://www.youtube.com/watch?v=YZyCk7E1_SA)
 - [What is Sastre? | a Meraki partnership](https://www.youtube.com/watch?v=LTpRlrtQW_w)
-- [Business Observability on the FSO platform with Evolutio](https://www.youtube.com/watch?v=4R656kw4398)
-- [DevOps Shop: Real-world &amp; Community-inspired DevOps concepts](https://www.youtube.com/watch?v=O_bi6BQdSMo)
-- [APIs &quot;DO&quot; make your Network Simple!](https://www.youtube.com/watch?v=EgVyuCTfIFM)
-- [All thats New with DevNet!](https://www.youtube.com/watch?v=MVvU_U1pNxk)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
