@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Convert CLI-based Data from SSH-Accessible Endpoints into InfluxDB Measurement.](https://www.youtube.com/watch?v=zJ7aRuyGHPM)
 - [Advocacy is what its all about!](https://www.youtube.com/watch?v=Bstl-r5WhTM)
 - [Observability - more than just the network!](https://www.youtube.com/watch?v=fBXq9S9xUW8)
 - [Security Comes First!](https://www.youtube.com/watch?v=moGe3pT5t4Q)
 - [Developers, Developers, Developers 🔥🔥](https://www.youtube.com/watch?v=pUseed03bF8)
-- [SECURITY is the biggest thing!](https://www.youtube.com/watch?v=Golii0zR3tI)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
