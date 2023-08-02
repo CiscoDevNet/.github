@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Intro to Ansible for Automation](https://www.youtube.com/watch?v=2rDAziMChXs)
-- [Convert CLI-based Data from SSH-Accessible Endpoints into InfluxDB Measurement.](https://www.youtube.com/watch?v=zJ7aRuyGHPM)
-- [Advocacy is what its all about!](https://www.youtube.com/watch?v=Bstl-r5WhTM)
-- [Observability - more than just the network!](https://www.youtube.com/watch?v=fBXq9S9xUW8)
-- [Security Comes First!](https://www.youtube.com/watch?v=moGe3pT5t4Q)
+- [Wild West Coding](https://www.youtube.com/watch?v=_BFUo-nQ3dE)
+- [Cisco DNA Center | Sandbox, Integrations, and More!](https://www.youtube.com/watch?v=dbd1EMXke2U)
+- [WWC 3: Databases to API Security](https://www.youtube.com/watch?v=9bCvgMmJ97s)
+- [WWC 2: Parsing &amp; Integrations](https://www.youtube.com/watch?v=jtVn8ObZbUo)
+- [Adopting Agile... The struggle is real!](https://www.youtube.com/watch?v=TnaNcrJ_nkM)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
