@@ -37,8 +37,8 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Wild West Coding](https://www.youtube.com/watch?v=_BFUo-nQ3dE)
 - [Cisco DNA Center | Sandbox, Integrations, and More!](https://www.youtube.com/watch?v=dbd1EMXke2U)
+- [Wild West Coding](https://www.youtube.com/watch?v=_BFUo-nQ3dE)
 - [WWC 3: Databases to API Security](https://www.youtube.com/watch?v=9bCvgMmJ97s)
 - [WWC 2: Parsing &amp; Integrations](https://www.youtube.com/watch?v=jtVn8ObZbUo)
 - [Adopting Agile... The struggle is real!](https://www.youtube.com/watch?v=TnaNcrJ_nkM)
