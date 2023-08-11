@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Automating Your Network with ChatGPT](https://www.youtube.com/watch?v=nlqdjar0mls)
+- [Terraform + IOS-XE | A Match Made on the Internet](https://www.youtube.com/watch?v=WkgDlE0HpXs)
 - [Story points aren&#39;t alike](https://www.youtube.com/watch?v=tdRSNvc6gPc)
 - [Cisco DNA Center | Sandbox, Integrations, and More!](https://www.youtube.com/watch?v=dbd1EMXke2U)
 - [Wild West Coding](https://www.youtube.com/watch?v=_BFUo-nQ3dE)
-- [WWC 3: Databases to API Security](https://www.youtube.com/watch?v=9bCvgMmJ97s)
-- [WWC 2: Parsing &amp; Integrations](https://www.youtube.com/watch?v=jtVn8ObZbUo)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
