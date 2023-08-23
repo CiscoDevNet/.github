@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [WWC 2: Parsing &amp; Integrations](https://www.youtube.com/watch?v=jtVn8ObZbUo)
-- [Story points aren&#39;t alike](https://www.youtube.com/watch?v=tdRSNvc6gPc)
-- [Automating Your Network with ChatGPT](https://www.youtube.com/watch?v=nlqdjar0mls)
-- [Terraform + IOS-XE | A Match Made on the Internet](https://www.youtube.com/watch?v=WkgDlE0HpXs)
-- [Cisco DNA Center | Sandbox, Integrations, and More!](https://www.youtube.com/watch?v=dbd1EMXke2U)
+- [Lab Setup with Cisco CML | NetGru](https://www.youtube.com/watch?v=GFgVL3DJNRc)
+- [First successful Pipeline Run | NetGru](https://www.youtube.com/watch?v=VnX3WwIg-Nw)
+- [Finishing the Ansible Config for the CICD Pipeline | NetGru](https://www.youtube.com/watch?v=dmLumSUWOS4)
+- [Finishing up the Docker-Compose file | NetGru](https://www.youtube.com/watch?v=lPPrH4AUD4U)
+- [Finishing up the 3 CICD Pipeline Stages | NetGru](https://www.youtube.com/watch?v=y2rEERAc-A4)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
