@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Instrumenting Code for Observability | Then vs Now](https://www.youtube.com/watch?v=e-tl_M6tnvg)
 - [Terraform + IOS-XE | A Match Made on the Internet](https://www.youtube.com/watch?v=WkgDlE0HpXs)
 - [Lab Setup with Cisco CML | NetGru](https://www.youtube.com/watch?v=GFgVL3DJNRc)
 - [First successful Pipeline Run | NetGru](https://www.youtube.com/watch?v=VnX3WwIg-Nw)
 - [Finishing the Ansible Config for the CICD Pipeline | NetGru](https://www.youtube.com/watch?v=dmLumSUWOS4)
-- [Finishing up the Docker-Compose file | NetGru](https://www.youtube.com/watch?v=lPPrH4AUD4U)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
