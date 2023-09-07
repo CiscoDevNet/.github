@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Automating Your Network with ChatGPT](https://www.youtube.com/watch?v=nlqdjar0mls)
+- [Network Automation and Observability](https://www.youtube.com/watch?v=8sruAEJ00Fc)
 - [WWC 3: Databases to API Security](https://www.youtube.com/watch?v=9bCvgMmJ97s)
 - [Instrumenting Code for Observability | Then vs Now](https://www.youtube.com/watch?v=e-tl_M6tnvg)
 - [Terraform + IOS-XE | A Match Made on the Internet](https://www.youtube.com/watch?v=WkgDlE0HpXs)
-- [Lab Setup with Cisco CML | NetGru](https://www.youtube.com/watch?v=GFgVL3DJNRc)
-- [First successful Pipeline Run | NetGru](https://www.youtube.com/watch?v=VnX3WwIg-Nw)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
