@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Always-on Sandbox](https://www.youtube.com/watch?v=R4CSRkQwCpU)
+- [Reservable Sandbox](https://www.youtube.com/watch?v=Zbf_pHrwvO4)
+- [Behind the scenes of the DevNet Sandbox platform](https://www.youtube.com/watch?v=0vfLAkh47UY)
 - [WWC 4 - API Routes and Documentation](https://www.youtube.com/watch?v=nsYZB5jamMw)
 - [Automating Your Network with ChatGPT](https://www.youtube.com/watch?v=nlqdjar0mls)
-- [Network Automation and Observability](https://www.youtube.com/watch?v=8sruAEJ00Fc)
-- [WWC 3: Databases to API Security](https://www.youtube.com/watch?v=9bCvgMmJ97s)
-- [Instrumenting Code for Observability | Then vs Now](https://www.youtube.com/watch?v=e-tl_M6tnvg)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
