@@ -37,10 +37,10 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [WWC 4 - API Routes and Documentation](https://www.youtube.com/watch?v=nsYZB5jamMw)
 - [Always-on Sandbox](https://www.youtube.com/watch?v=R4CSRkQwCpU)
 - [Reservable Sandbox](https://www.youtube.com/watch?v=Zbf_pHrwvO4)
 - [Behind the scenes of the DevNet Sandbox platform](https://www.youtube.com/watch?v=0vfLAkh47UY)
-- [WWC 4 - API Routes and Documentation](https://www.youtube.com/watch?v=nsYZB5jamMw)
 - [Automating Your Network with ChatGPT](https://www.youtube.com/watch?v=nlqdjar0mls)
 <!-- YOUTUBE:END -->
 
