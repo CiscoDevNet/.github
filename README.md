@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Simple NetDevOps CI with GitHub, Jenkins, pytest, and Webex](https://www.youtube.com/watch?v=Hoct5zL-xOg)
+- [Tools To Try For Open Telemetry](https://www.youtube.com/watch?v=HXLSw1ddl3o)
 - [Network Automation and Observability](https://www.youtube.com/watch?v=8sruAEJ00Fc)
 - [WWC 4 - API Routes and Documentation](https://www.youtube.com/watch?v=nsYZB5jamMw)
 - [Always-on Sandbox](https://www.youtube.com/watch?v=R4CSRkQwCpU)
-- [Reservable Sandbox](https://www.youtube.com/watch?v=Zbf_pHrwvO4)
-- [Behind the scenes of the DevNet Sandbox platform](https://www.youtube.com/watch?v=0vfLAkh47UY)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
