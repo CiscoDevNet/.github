@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Meraki&#39;s New Ansible Collection](https://www.youtube.com/watch?v=2jT9jF4QcSA)
+- [Hybrid Architectures and Public Cloud Deployments | Cisco Catalyst SD-WAN](https://www.youtube.com/watch?v=vC9Bct3eUdQ)
+- [Meraki Webhook Receiver DIY](https://www.youtube.com/watch?v=rTltXIZ9aP8)
 - [Simple NetDevOps CI with GitHub, Jenkins, pytest, and Webex](https://www.youtube.com/watch?v=Hoct5zL-xOg)
 - [Tools To Try For Open Telemetry](https://www.youtube.com/watch?v=HXLSw1ddl3o)
-- [Network Automation and Observability](https://www.youtube.com/watch?v=8sruAEJ00Fc)
-- [WWC 4 - API Routes and Documentation](https://www.youtube.com/watch?v=nsYZB5jamMw)
-- [Always-on Sandbox](https://www.youtube.com/watch?v=R4CSRkQwCpU)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
