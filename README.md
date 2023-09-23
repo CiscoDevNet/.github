@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [ITSM Integration webianr](https://www.youtube.com/watch?v=LstCgKKhXtY)
 - [Meraki Webhook Receiver DIY](https://www.youtube.com/watch?v=rTltXIZ9aP8)
 - [Meraki&#39;s New Ansible Collection](https://www.youtube.com/watch?v=2jT9jF4QcSA)
 - [Hybrid Architectures and Public Cloud Deployments | Cisco Catalyst SD-WAN](https://www.youtube.com/watch?v=vC9Bct3eUdQ)
 - [Simple NetDevOps CI with GitHub, Jenkins, pytest, and Webex](https://www.youtube.com/watch?v=Hoct5zL-xOg)
-- [Tools To Try For Open Telemetry](https://www.youtube.com/watch?v=HXLSw1ddl3o)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
