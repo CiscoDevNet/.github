@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Securing the API](https://www.youtube.com/watch?v=oYqZSAlTPs4)
-- [ITSM Integration webianr](https://www.youtube.com/watch?v=LstCgKKhXtY)
-- [Meraki Webhook Receiver DIY](https://www.youtube.com/watch?v=rTltXIZ9aP8)
-- [Meraki&#39;s New Ansible Collection](https://www.youtube.com/watch?v=2jT9jF4QcSA)
 - [Hybrid Architectures and Public Cloud Deployments | Cisco Catalyst SD-WAN](https://www.youtube.com/watch?v=vC9Bct3eUdQ)
+- [Inedible Cookies](https://www.youtube.com/watch?v=kCbcbyBDnVM)
+- [Google tech on Cisco IOS XE](https://www.youtube.com/watch?v=GPwkYQL5SNs)
+- [Meraki CLI](https://www.youtube.com/watch?v=DYxD4PziYLA)
+- [Securing the API](https://www.youtube.com/watch?v=oYqZSAlTPs4)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
