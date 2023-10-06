@@ -39,7 +39,7 @@
 <!-- YOUTUBE:START -->
 - [Meraki&#39;s New Ansible Collection](https://www.youtube.com/watch?v=2jT9jF4QcSA)
 - [Hybrid Architectures and Public Cloud Deployments | Cisco Catalyst SD-WAN](https://www.youtube.com/watch?v=vC9Bct3eUdQ)
-- [Inedible Cookies](https://www.youtube.com/watch?v=kCbcbyBDnVM)
+- [Users &amp; Password Hashing](https://www.youtube.com/watch?v=kCbcbyBDnVM)
 - [Google tech on Cisco IOS XE](https://www.youtube.com/watch?v=GPwkYQL5SNs)
 - [Meraki CLI](https://www.youtube.com/watch?v=DYxD4PziYLA)
 <!-- YOUTUBE:END -->
