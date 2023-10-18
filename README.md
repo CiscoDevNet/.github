@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Users &amp; Password Hashing](https://www.youtube.com/watch?v=G5AMUFErcgw)
 - [DevOps Dashboards featuring DIY DevOps Dashboard](https://www.youtube.com/watch?v=fzBCqMisNcU)
 - [Observability at the Edge with EdgeDelta](https://www.youtube.com/watch?v=XzcpxOOqXfU)
 - [Meraki&#39;s New Ansible Collection](https://www.youtube.com/watch?v=2jT9jF4QcSA)
 - [Hybrid Architectures and Public Cloud Deployments | Cisco Catalyst SD-WAN](https://www.youtube.com/watch?v=vC9Bct3eUdQ)
-- [Users &amp; Password Hashing](https://www.youtube.com/watch?v=kCbcbyBDnVM)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
