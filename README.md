@@ -37,8 +37,8 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Cisco Catalyst SD-WAN deployments in Microsoft Azure](https://www.youtube.com/watch?v=eSMSy3T8430)
 - [Inedible Cookies](https://www.youtube.com/watch?v=anqXlL4EkVc)
+- [Cisco Catalyst SD-WAN deployments in Microsoft Azure](https://www.youtube.com/watch?v=eSMSy3T8430)
 - [Cisco Catalyst Center VLAN provisioning tool](https://www.youtube.com/watch?v=g3221gv4DGY)
 - [Google tech on Cisco IOS XE](https://www.youtube.com/watch?v=GPwkYQL5SNs)
 - [Users &amp; Password Hashing](https://www.youtube.com/watch?v=G5AMUFErcgw)
