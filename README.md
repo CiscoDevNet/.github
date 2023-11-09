@@ -37,9 +37,9 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Meraki CLI Power Moves](https://www.youtube.com/watch?v=pV1bBUtuJvs)
 - [Meraki&#39;s Terraform Provider](https://www.youtube.com/watch?v=nvUGDLKCi58)
 - [Cisco Catalyst Center VLAN provisioning tool](https://www.youtube.com/watch?v=g3221gv4DGY)
-- [Meraki CLI Power Moves](https://www.youtube.com/watch?v=pV1bBUtuJvs)
 - [Inedible Cookies](https://www.youtube.com/watch?v=anqXlL4EkVc)
 - [Cisco Catalyst SD-WAN deployments in Microsoft Azure](https://www.youtube.com/watch?v=eSMSy3T8430)
 <!-- YOUTUBE:END -->
