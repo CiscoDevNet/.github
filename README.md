@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Meraki MV PPE Detection with Machine Learning](https://www.youtube.com/watch?v=D9dC_FNefTw)
+- [Introducing CMSE by DevNet](https://www.youtube.com/watch?v=OyGwwjpr48o)
 - [DevOps for Network Engineers](https://www.youtube.com/watch?v=J2VwISDmP7I)
 - [Docker for DevOps](https://www.youtube.com/watch?v=i5RMLMlAUpY)
 - [Meraki&#39;s Terraform Provider](https://www.youtube.com/watch?v=JIotFrtHHPQ)
-- [Meraki CLI Power Moves](https://www.youtube.com/watch?v=pV1bBUtuJvs)
-- [Cisco Catalyst Center VLAN provisioning tool](https://www.youtube.com/watch?v=g3221gv4DGY)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
