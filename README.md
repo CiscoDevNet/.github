@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Year End Celebration 🎉 | WWC 2023](https://www.youtube.com/watch?v=C3hkqD1kmb8)
 - [Templates &amp; Data Passing](https://www.youtube.com/watch?v=8lnss4xnpwY)
 - [Meraki MV PPE Detection with Machine Learning](https://www.youtube.com/watch?v=D9dC_FNefTw)
 - [Introducing CMSE by DevNet](https://www.youtube.com/watch?v=OyGwwjpr48o)
 - [DevOps for Network Engineers](https://www.youtube.com/watch?v=J2VwISDmP7I)
-- [Docker for DevOps](https://www.youtube.com/watch?v=i5RMLMlAUpY)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
