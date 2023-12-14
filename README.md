@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [10 Years of Cisco DevNet | Cisco Live APJC](https://www.youtube.com/watch?v=MqAL6-OMNEM)
 - [WWC 8 | 2023 Year End Celebration 🎉](https://www.youtube.com/watch?v=C3hkqD1kmb8)
 - [Templates &amp; Data Passing](https://www.youtube.com/watch?v=8lnss4xnpwY)
 - [Meraki MV PPE Detection with Machine Learning](https://www.youtube.com/watch?v=D9dC_FNefTw)
 - [Introducing CMSE by DevNet](https://www.youtube.com/watch?v=OyGwwjpr48o)
-- [DevOps for Network Engineers](https://www.youtube.com/watch?v=J2VwISDmP7I)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
