@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Adding DUO Authorization](https://www.youtube.com/watch?v=TuGAiOr3N7I)
+- [User Login and Logout](https://www.youtube.com/watch?v=guGxaRcozvM)
+- [Meraki Terraform provider - Advanced](https://www.youtube.com/watch?v=IRCXLrwJ00I)
 - [The AI Surge in 2024: Reshaping Developer and DevOps](https://www.youtube.com/watch?v=iaV6KDNQXEc)
 - [Origin of DevOps](https://www.youtube.com/watch?v=4ROs_A6Vj9o)
-- [10 Years of Cisco DevNet | Cisco Live APJC](https://www.youtube.com/watch?v=MqAL6-OMNEM)
-- [WWC 8 | 2023 Year End Celebration 🎉](https://www.youtube.com/watch?v=C3hkqD1kmb8)
-- [Templates &amp; Data Passing](https://www.youtube.com/watch?v=8lnss4xnpwY)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
