@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [User Login and Logout](https://www.youtube.com/watch?v=guGxaRcozvM)
 - [DevOps for Network Engineers - part deux](https://www.youtube.com/watch?v=6gs0SJumlzI)
+- [User Login and Logout](https://www.youtube.com/watch?v=guGxaRcozvM)
 - [Adding DUO Authorization](https://www.youtube.com/watch?v=TuGAiOr3N7I)
 - [Meraki Terraform provider - Advanced](https://www.youtube.com/watch?v=IRCXLrwJ00I)
-- [The AI Surge in 2024: Reshaping Developer and DevOps](https://www.youtube.com/watch?v=iaV6KDNQXEc)
+- [WWC | The AI Surge in 2024: Reshaping Developer and DevOps](https://www.youtube.com/watch?v=iaV6KDNQXEc)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
