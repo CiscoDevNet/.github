@@ -37,8 +37,8 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Incident Response with Cisco XDR Automation Rules](https://www.youtube.com/watch?v=w4YChy2SGMg)
 - [IOS XE team at Cisco Live Europe 2024](https://www.youtube.com/watch?v=0UTyGfbBZ2U)
+- [Incident Response with Cisco XDR Automation Rules](https://www.youtube.com/watch?v=w4YChy2SGMg)
 - [Meraki Terraform provider - Advanced](https://www.youtube.com/watch?v=IRCXLrwJ00I)
 - [Homelab for Success with Proxmox and CasaOS](https://www.youtube.com/watch?v=pL1hxVLQWlk)
 - [DevOps for Network Engineers - part deux](https://www.youtube.com/watch?v=6gs0SJumlzI)
