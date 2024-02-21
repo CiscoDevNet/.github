@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Intro to RedHat Ansible Automation Platform](https://www.youtube.com/watch?v=83vBAxs9oaw)
 - [WWC | The AI Surge in 2024: Reshaping Developer and DevOps](https://www.youtube.com/watch?v=iaV6KDNQXEc)
 - [LIVE From the DevNet Zone at Cisco Live EMEA 2024](https://www.youtube.com/watch?v=mcHhW_xY6Jc)
 - [IOS XE team at Cisco Live Europe 2024](https://www.youtube.com/watch?v=0UTyGfbBZ2U)
 - [Incident Response with Cisco XDR Automation Rules](https://www.youtube.com/watch?v=w4YChy2SGMg)
-- [Meraki Terraform provider - Advanced](https://www.youtube.com/watch?v=IRCXLrwJ00I)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
