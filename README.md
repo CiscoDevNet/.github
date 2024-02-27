@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fascinating laser research projects you wish you thought of &lpar;Part 1 of 9&rpar;: Cisco Optics Podcast Ep 35](https://feedpress.me/link/23532/15974118/fascinating-laser-research-projects-you-wish-you-thought-of-part-1-of-9-cisco-optics-podcast-ep-35)
-- [Experience the Power of Simplicity with these Cisco SD-WAN Upgrades](https://feedpress.me/link/23532/15973610/experience-the-power-of-simplicity-with-these-cisco-sd-wan-upgrades)
-- [4 Key takeaways from NRF 2023](https://feedpress.me/link/23532/15973397/key-takeaways-from-nrf2023)
-- [A love letter to planet Earth](https://feedpress.me/link/23532/15973373/a-love-letter-to-planet-earth)
-- [A Bridge of Help Connects to 170 Smiling Faces](https://feedpress.me/link/23532/15969255/a-bridge-of-help-connects-to-170-smiling-faces)
+- [DevNet Sandbox Has a New Look &amp; Feel](https://feedpress.me/link/23607/16593093/devnet-sandbox-has-a-new-look-feel)
+- [Identify Weak Links in Your Application Stack – Part 2, Anomaly Detection](https://feedpress.me/link/23607/16592526/anomaly-detection-and-cisco-cloud-observability-apis)
+- [Identify Weak Links in Your Application Stack – Part 1, Health Rules](https://feedpress.me/link/23607/16592527/health-rules-and-cisco-cloud-observability-apis)
+- [Automating Observability of Public Cloud Deployments with Cisco Cloud Observability APIs](https://feedpress.me/link/23607/16592528/automating-observability-of-public-cloud-deployments-with-cisco-cloud-observability-apis)
+- [Cisco Announces Availability of OpenCSMP](https://feedpress.me/link/23607/16592529/cisco-announces-availability-of-opencsmp)
 <!-- BLOG-POST-LIST:END -->
