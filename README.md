@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Where Is DevNet Going Over the Next 10 Years, and Beyond?](https://feedpress.me/link/23607/16594584/where-is-devnet-going-over-the-next-10-years-and-beyond)
 - [DevNet Sandbox Has a New Look &amp; Feel](https://feedpress.me/link/23607/16593093/devnet-sandbox-has-a-new-look-feel)
 - [Identify Weak Links in Your Application Stack – Part 2, Anomaly Detection](https://feedpress.me/link/23607/16592526/anomaly-detection-and-cisco-cloud-observability-apis)
 - [Identify Weak Links in Your Application Stack – Part 1, Health Rules](https://feedpress.me/link/23607/16592527/health-rules-and-cisco-cloud-observability-apis)
 - [Automating Observability of Public Cloud Deployments with Cisco Cloud Observability APIs](https://feedpress.me/link/23607/16592528/automating-observability-of-public-cloud-deployments-with-cisco-cloud-observability-apis)
-- [Cisco Announces Availability of OpenCSMP](https://feedpress.me/link/23607/16592529/cisco-announces-availability-of-opencsmp)
 <!-- BLOG-POST-LIST:END -->
