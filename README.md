@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Generative AI models Mistral, Llama2, Gemma](https://www.youtube.com/watch?v=qBqE7G6txAg)
 - [DevOps Insights with AppDynamics](https://www.youtube.com/watch?v=5f1q3iXLUuk)
 - [Intro to RedHat Ansible Automation Platform](https://www.youtube.com/watch?v=83vBAxs9oaw)
 - [WWC | The AI Surge in 2024: Reshaping Developer and DevOps](https://www.youtube.com/watch?v=iaV6KDNQXEc)
 - [LIVE From the DevNet Zone at Cisco Live EMEA 2024](https://www.youtube.com/watch?v=mcHhW_xY6Jc)
-- [IOS XE team at Cisco Live Europe 2024](https://www.youtube.com/watch?v=0UTyGfbBZ2U)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
