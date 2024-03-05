@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Processing in Cisco Observability Platform – A Step-by-Step Guide](https://feedpress.me/link/23607/16601627/data-processing-in-cisco-observability-platform-a-step-by-step-guide)
 - [Wireless and the CiscoLive Network Operations Center](https://feedpress.me/link/23607/16595990/wireless-and-the-ciscolive-network-operations-center)
 - [Where Is DevNet Going Over the Next 10 Years, and Beyond?](https://feedpress.me/link/23607/16594584/where-is-devnet-going-over-the-next-10-years-and-beyond)
 - [DevNet Sandbox Has a New Look &amp; Feel](https://feedpress.me/link/23607/16593093/devnet-sandbox-has-a-new-look-feel)
 - [Identify Weak Links in Your Application Stack – Part 2, Anomaly Detection](https://feedpress.me/link/23607/16592526/anomaly-detection-and-cisco-cloud-observability-apis)
-- [Identify Weak Links in Your Application Stack – Part 1, Health Rules](https://feedpress.me/link/23607/16592527/health-rules-and-cisco-cloud-observability-apis)
 <!-- BLOG-POST-LIST:END -->
