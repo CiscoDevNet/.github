@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using the Power of Artificial Intelligence to Augment Network Automation](https://feedpress.me/link/23607/16603866/using-the-power-of-artificial-intelligence-to-augment-network-automation)
 - [Cloud Security API Updates Improve User’s Experience](https://feedpress.me/link/23607/16602703/cloud-security-api-updates-improve-users-experience)
 - [Data Processing in Cisco Observability Platform – A Step-by-Step Guide](https://feedpress.me/link/23607/16601627/data-processing-in-cisco-observability-platform-a-step-by-step-guide)
 - [Wireless and the CiscoLive Network Operations Center](https://feedpress.me/link/23607/16595990/wireless-and-the-ciscolive-network-operations-center)
 - [Where Is DevNet Going Over the Next 10 Years, and Beyond?](https://feedpress.me/link/23607/16594584/where-is-devnet-going-over-the-next-10-years-and-beyond)
-- [DevNet Sandbox Has a New Look &amp; Feel](https://feedpress.me/link/23607/16593093/devnet-sandbox-has-a-new-look-feel)
 <!-- BLOG-POST-LIST:END -->
