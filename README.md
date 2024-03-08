@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Cisco Defense Orchestrator, Installing Secure Device Connector and Secure Events Connector on Ubuntu](https://www.youtube.com/watch?v=zwzbKBqOT4M)
 - [Exploring Lang* - A suite of AI tools](https://www.youtube.com/watch?v=Uwc9fqvVgXQ)
 - [Generative AI models Mistral, Llama2, Gemma](https://www.youtube.com/watch?v=qBqE7G6txAg)
 - [DevOps Insights with AppDynamics](https://www.youtube.com/watch?v=5f1q3iXLUuk)
 - [Intro to RedHat Ansible Automation Platform | NetGru](https://www.youtube.com/watch?v=83vBAxs9oaw)
-- [WWC | The AI Surge in 2024: Reshaping Developer and DevOps](https://www.youtube.com/watch?v=iaV6KDNQXEc)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
