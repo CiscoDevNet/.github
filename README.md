@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Hands on with Terraform for Cisco ACI and FMC](https://www.youtube.com/watch?v=OfDG-utU1Cs)
+- [Mistral large model testing with a DevNet related prompts](https://www.youtube.com/watch?v=SkWN1NWB2kc)
 - [Cisco Defense Orchestrator, Installing Secure Device Connector and Secure Events Connector on Ubuntu](https://www.youtube.com/watch?v=zwzbKBqOT4M)
 - [Exploring Lang* - A suite of AI tools](https://www.youtube.com/watch?v=Uwc9fqvVgXQ)
 - [Generative AI models Mistral, Llama2, Gemma](https://www.youtube.com/watch?v=qBqE7G6txAg)
-- [DevOps Insights with AppDynamics](https://www.youtube.com/watch?v=5f1q3iXLUuk)
-- [Intro to RedHat Ansible Automation Platform | NetGru](https://www.youtube.com/watch?v=83vBAxs9oaw)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
