@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Hands on with Terraform for Cisco ACI and FMC](https://www.youtube.com/watch?v=OfDG-utU1Cs)
-- [Mistral large model testing with a DevNet related prompts](https://www.youtube.com/watch?v=SkWN1NWB2kc)
-- [Cisco Defense Orchestrator, Installing Secure Device Connector and Secure Events Connector on Ubuntu](https://www.youtube.com/watch?v=zwzbKBqOT4M)
-- [Exploring Lang* - A suite of AI tools](https://www.youtube.com/watch?v=Uwc9fqvVgXQ)
-- [Generative AI models Mistral, Llama2, Gemma](https://www.youtube.com/watch?v=qBqE7G6txAg)
+- [Michal Křídlo | Eleveo](https://www.youtube.com/watch?v=kjSU0HZUwFA)
+- [Garrett Gladden - Senior VP @ Kollective](https://www.youtube.com/watch?v=OW3DQAzmkmY)
+- [Alicia Lorenzetti | Cisco Meraki](https://www.youtube.com/watch?v=J7-SeJ3ds1Q)
+- [Edwin Mach | Cisco Meraki](https://www.youtube.com/watch?v=KHt24dcz_BM)
+- [Tushar Agrawal | Cisco Generative AI](https://www.youtube.com/watch?v=xgaEgstkQDA)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
