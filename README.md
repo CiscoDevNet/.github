@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Shift Left Exhaustion – Part 2: Smart Shift Left](https://feedpress.me/link/23607/16618367/shift-left-exhaustion-part-2-smart-shift-left)
 - [Dashify: Solving Data Wrangling for Dashboards](https://feedpress.me/link/23607/16609469/dashify-solving-data-wrangling-for-dashboards)
 - [Avoiding Shift Left Exhaustion – Part 1](https://feedpress.me/link/23607/16605178/avoiding-shift-left-exhaustion-part-1)
 - [Using the Power of Artificial Intelligence to Augment Network Automation](https://feedpress.me/link/23607/16603866/using-the-power-of-artificial-intelligence-to-augment-network-automation)
 - [Cloud Security API Updates Improve User’s Experience](https://feedpress.me/link/23607/16602703/cloud-security-api-updates-improve-users-experience)
-- [Data Processing in Cisco Observability Platform – A Step-by-Step Guide](https://feedpress.me/link/23607/16601627/data-processing-in-cisco-observability-platform-a-step-by-step-guide)
 <!-- BLOG-POST-LIST:END -->
