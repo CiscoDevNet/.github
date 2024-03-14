@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Hands on with Terraform for Cisco ACI and FMC](https://www.youtube.com/watch?v=OfDG-utU1Cs)
+- [Joel Price | VQ Communications](https://www.youtube.com/watch?v=Er0AaObP7-8)
+- [Ali McKeand | CAE Labs](https://www.youtube.com/watch?v=8EK6wtm3DXQ)
 - [Michal Křídlo | Eleveo](https://www.youtube.com/watch?v=kjSU0HZUwFA)
 - [Garrett Gladden - Senior VP @ Kollective](https://www.youtube.com/watch?v=OW3DQAzmkmY)
-- [Alicia Lorenzetti | Cisco Meraki](https://www.youtube.com/watch?v=J7-SeJ3ds1Q)
-- [Edwin Mach | Cisco Meraki](https://www.youtube.com/watch?v=KHt24dcz_BM)
-- [Tushar Agrawal | Cisco Generative AI](https://www.youtube.com/watch?v=xgaEgstkQDA)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
