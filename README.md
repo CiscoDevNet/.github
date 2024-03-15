@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Hands on with Terraform for Cisco ACI and FMC](https://www.youtube.com/watch?v=OfDG-utU1Cs)
-- [Joel Price | VQ Communications](https://www.youtube.com/watch?v=Er0AaObP7-8)
-- [Ali McKeand | CAE Labs](https://www.youtube.com/watch?v=8EK6wtm3DXQ)
-- [Michal Křídlo | Eleveo](https://www.youtube.com/watch?v=kjSU0HZUwFA)
-- [Garrett Gladden - Senior VP @ Kollective](https://www.youtube.com/watch?v=OW3DQAzmkmY)
+- [Rob Van Der Kind | Cisco](https://www.youtube.com/watch?v=Hn5aOSoEQ2o)
+- [#BuildForBetter Coding Challenge: Chat with the Judges! LIVE](https://www.youtube.com/watch?v=eKiPUIuzvfc)
+- [Shweta Palande | Cisco Meraki](https://www.youtube.com/watch?v=uytS5fvv7dI)
+- [Melissa Barr | Cisco](https://www.youtube.com/watch?v=o9yI2Ph6BTw)
+- [Matt DeNapoli | Cisco DevNet](https://www.youtube.com/watch?v=Dw7xVL-vLrA)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
