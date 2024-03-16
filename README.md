@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Simplify DNS Policy Management With New Umbrella Tagging APIs](https://feedpress.me/link/23607/16621279/simplify-dns-policy-management-with-new-umbrella-tagging-apis)
 - [“Build for Better” – Revolutionize Sustainability with AI, Observability, and Cisco Tech](https://feedpress.me/link/23607/16619973/build-for-better-revolutionize-sustainability-with-ai-observability-and-cisco-tech)
 - [Shift Left Exhaustion – Part 2: Smart Shift Left](https://feedpress.me/link/23607/16618367/shift-left-exhaustion-part-2-smart-shift-left)
 - [Dashify: Solving Data Wrangling for Dashboards](https://feedpress.me/link/23607/16609469/dashify-solving-data-wrangling-for-dashboards)
 - [Avoiding Shift Left Exhaustion – Part 1](https://feedpress.me/link/23607/16605178/avoiding-shift-left-exhaustion-part-1)
-- [Using the Power of Artificial Intelligence to Augment Network Automation](https://feedpress.me/link/23607/16603866/using-the-power-of-artificial-intelligence-to-augment-network-automation)
 <!-- BLOG-POST-LIST:END -->
