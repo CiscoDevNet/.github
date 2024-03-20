@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [DevNet&#39;s 10 Year Celebration!](https://www.youtube.com/watch?v=8SLlis-Xcg0)
-- [Rob Van Der Kind | Cisco](https://www.youtube.com/watch?v=Hn5aOSoEQ2o)
 - [#BuildForBetter Coding Challenge: Chat with the Judges! LIVE](https://www.youtube.com/watch?v=eKiPUIuzvfc)
+- [Zhanerke Kozhabergenova | ТОО &quot;Умные города&quot;](https://www.youtube.com/watch?v=Lj2pbiiXZVU)
+- [DevNet&#39;s 10 Year Celebration!](https://www.youtube.com/watch?v=8SLlis-Xcg0)
+- [Rob van der Kind | Cisco](https://www.youtube.com/watch?v=Hn5aOSoEQ2o)
 - [Shweta Palande | Cisco Meraki](https://www.youtube.com/watch?v=uytS5fvv7dI)
-- [Melissa Barr | Cisco](https://www.youtube.com/watch?v=o9yI2Ph6BTw)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
