@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Getting started with Cisco XDR Automate workflows and atomics](https://www.youtube.com/watch?v=cka9AWqHS2M)
 - [#BuildForBetter Coding Challenge: Chat with the Judges! LIVE](https://www.youtube.com/watch?v=eKiPUIuzvfc)
 - [Zhanerke Kozhabergenova | ТОО &quot;Умные города&quot;](https://www.youtube.com/watch?v=Lj2pbiiXZVU)
 - [DevNet&#39;s 10 Year Celebration!](https://www.youtube.com/watch?v=8SLlis-Xcg0)
 - [Rob van der Kind | Cisco](https://www.youtube.com/watch?v=Hn5aOSoEQ2o)
-- [Shweta Palande | Cisco Meraki](https://www.youtube.com/watch?v=uytS5fvv7dI)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
