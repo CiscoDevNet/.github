@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [The State and Future of DevOps](https://www.youtube.com/watch?v=brJNLYay9Rs)
 - [Event driven Ansible](https://www.youtube.com/watch?v=y1T9Gf_mpM4)
 - [Claude 3 models test, Anthropic API + Cisco Security API](https://www.youtube.com/watch?v=EHOWFdMgNZY)
 - [Getting started with Cisco XDR Automate workflows and atomics](https://www.youtube.com/watch?v=cka9AWqHS2M)
 - [#BuildForBetter Coding Challenge: Chat with the Judges! LIVE](https://www.youtube.com/watch?v=eKiPUIuzvfc)
-- [Zhanerke Kozhabergenova | ТОО &quot;Умные города&quot;](https://www.youtube.com/watch?v=Lj2pbiiXZVU)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
