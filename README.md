@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build for Better Code Challenge Focuses on AI and Sustainability](https://feedpress.me/link/23607/16638224/build-for-better-code-challenge-focuses-on-ai-and-sustainability)
 - [Identify and Investigate Uncommon DNS Traffic](https://feedpress.me/link/23607/16630934/identify-and-investigate-uncommon-dns-traffic)
 - [Simplify DNS Policy Management With New Umbrella Tagging APIs](https://feedpress.me/link/23607/16621279/simplify-dns-policy-management-with-new-umbrella-tagging-apis)
 - [“Build for Better” – Revolutionize Sustainability with AI, Observability, and Cisco Tech](https://feedpress.me/link/23607/16619973/build-for-better-revolutionize-sustainability-with-ai-observability-and-cisco-tech)
 - [Shift Left Exhaustion – Part 2: Smart Shift Left](https://feedpress.me/link/23607/16618367/shift-left-exhaustion-part-2-smart-shift-left)
-- [Dashify: Solving Data Wrangling for Dashboards](https://feedpress.me/link/23607/16609469/dashify-solving-data-wrangling-for-dashboards)
 <!-- BLOG-POST-LIST:END -->
