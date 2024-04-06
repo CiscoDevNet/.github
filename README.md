@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Generative AI &amp; Security, OWASP Top 10 for LLMs](https://www.youtube.com/watch?v=iC_YSI474Rk)
 - [Python libraries for infrastructure automation](https://www.youtube.com/watch?v=2L2cVQWdv7Q)
 - [Ali McKeand | CAE Labs](https://www.youtube.com/watch?v=kXIEB7SJiJo)
 - [We are developers... of course... 🤣 #CiscoDevNet #wearedevs](https://www.youtube.com/watch?v=gUheq4cZHHk)
 - [Event driven Ansible](https://www.youtube.com/watch?v=y1T9Gf_mpM4)
-- [The State and Future of DevOps](https://www.youtube.com/watch?v=brJNLYay9Rs)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
