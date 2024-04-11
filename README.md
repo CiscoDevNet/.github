@@ -38,10 +38,10 @@
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Automating auto-scaling firewall deployments in the cloud](https://www.youtube.com/watch?v=UeanntlamSg)
+- [Sustainable DevOps](https://www.youtube.com/watch?v=q9qk-G5kED0)
+- [Terraform Import for brownfield Cisco ACI](https://www.youtube.com/watch?v=M_ty2BAL3Xs)
+- [Using Programmability to Update Cisco ISE from NetBox](https://www.youtube.com/watch?v=uoX7a9Q9A5I)
 - [Generative AI &amp; Security, OWASP Top 10 for LLMs](https://www.youtube.com/watch?v=iC_YSI474Rk)
-- [Python libraries for infrastructure automation](https://www.youtube.com/watch?v=2L2cVQWdv7Q)
-- [Ali McKeand | CAE Labs](https://www.youtube.com/watch?v=kXIEB7SJiJo)
-- [We are developers... of course... 🤣 #CiscoDevNet #wearedevs](https://www.youtube.com/watch?v=gUheq4cZHHk)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
