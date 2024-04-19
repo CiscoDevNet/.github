@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Get Started Using LLMs in IT and Network Engineering](https://feedpress.me/link/23607/16654111/how-to-get-started-using-llms-in-it-and-network-engineering)
 - [Coding for a Greener Tomorrow: Developer Sustainability Week Takes Center Stage](https://feedpress.me/link/23607/16650773/developer-sustainability-week-events)
 - [Build for Better Code Challenge Focuses on AI and Sustainability](https://feedpress.me/link/23607/16638224/build-for-better-code-challenge-focuses-on-ai-and-sustainability)
 - [Identify and Investigate Uncommon DNS Traffic](https://feedpress.me/link/23607/16630934/identify-and-investigate-uncommon-dns-traffic)
 - [Simplify DNS Policy Management With New Umbrella Tagging APIs](https://feedpress.me/link/23607/16621279/simplify-dns-policy-management-with-new-umbrella-tagging-apis)
-- [“Build for Better” – Revolutionize Sustainability with AI, Observability, and Cisco Tech](https://feedpress.me/link/23607/16619973/build-for-better-revolutionize-sustainability-with-ai-observability-and-cisco-tech)
 <!-- BLOG-POST-LIST:END -->
