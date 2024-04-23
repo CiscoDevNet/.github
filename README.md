@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Sustainable DevOps](https://www.youtube.com/watch?v=q9qk-G5kED0)
 - [Cisco Defense Orchestrator API, Ansible, and Terraform](https://www.youtube.com/watch?v=a6SrNMosDek)
 - [Gemini 1 5 Pro, 3 Advantages Over Other Foundational Models](https://www.youtube.com/watch?v=-HDXFaEw1YI)
 - [Terraform Import for brownfield Cisco ACI](https://www.youtube.com/watch?v=M_ty2BAL3Xs)
 - [Automating auto-scaling firewall deployments in the cloud](https://www.youtube.com/watch?v=UeanntlamSg)
-- [Sustainable DevOps](https://www.youtube.com/watch?v=q9qk-G5kED0)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
