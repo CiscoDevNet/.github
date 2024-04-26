@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Developer Sustainability Week: Energy Management for Catalyst Devices Workshop](https://www.youtube.com/watch?v=eROvdPTLARA)
 - [Cisco Defense Orchestrator API, Ansible, and Terraform](https://www.youtube.com/watch?v=a6SrNMosDek)
 - [Developer Sustainability Week: Energy Management for Catalyst Devices Webinar](https://www.youtube.com/watch?v=uonF0ZoP5KU)
 - [Sustainable DevOps](https://www.youtube.com/watch?v=q9qk-G5kED0)
 - [Gemini 1 5 Pro, 3 Advantages Over Other Foundational Models](https://www.youtube.com/watch?v=-HDXFaEw1YI)
-- [Terraform Import for brownfield Cisco ACI](https://www.youtube.com/watch?v=M_ty2BAL3Xs)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
