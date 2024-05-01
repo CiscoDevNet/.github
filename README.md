@@ -46,7 +46,7 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Experience Eco-Friendly Data Center Efficiency with Cisco’s Unified Computing System &lpar;UCS&rpar;](https://feedpress.me/link/23607/16665748/experience-eco-friendly-data-center-efficiency-with-ciscos-unified-computing-system-ucs)
+- [Experience Data Center Efficiency with Cisco’s Unified Computing System &lpar;UCS&rpar;](https://feedpress.me/link/23607/16668721/experience-data-center-efficiency-with-ciscos-unified-computing-system-ucs)
 - [New Cisco Defense Orchestrator &lpar;CDO&rpar; API](https://feedpress.me/link/23607/16661736/new-cisco-defense-orchestrator-cdo-api)
 - [How To Get Started Using LLMs in IT and Network Engineering](https://feedpress.me/link/23607/16654111/how-to-get-started-using-llms-in-it-and-network-engineering)
 - [Coding for a Greener Tomorrow: Developer Sustainability Week Takes Center Stage](https://feedpress.me/link/23607/16650773/developer-sustainability-week-events)
