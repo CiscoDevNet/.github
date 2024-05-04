@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Up-Skill at the Cisco Live 2024 DevNet Zone](https://feedpress.me/link/23607/16672636/up-skill-at-the-cisco-live-2024-devnet-zone)
 - [Which Programming Language to Choose for AI?](https://feedpress.me/link/23607/16669861/which-programming-language-to-choose-for-ai-in-2024)
 - [Experience Data Center Efficiency with Cisco’s Unified Computing System &lpar;UCS&rpar;](https://feedpress.me/link/23607/16668721/experience-data-center-efficiency-with-ciscos-unified-computing-system-ucs)
 - [New Cisco Defense Orchestrator &lpar;CDO&rpar; API](https://feedpress.me/link/23607/16661736/new-cisco-defense-orchestrator-cdo-api)
 - [How To Get Started Using LLMs in IT and Network Engineering](https://feedpress.me/link/23607/16654111/how-to-get-started-using-llms-in-it-and-network-engineering)
-- [Coding for a Greener Tomorrow: Developer Sustainability Week Takes Center Stage](https://feedpress.me/link/23607/16650773/developer-sustainability-week-events)
 <!-- BLOG-POST-LIST:END -->
