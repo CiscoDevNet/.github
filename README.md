@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Automating security posture and infrastructure management using CDO&#39;s APIs](https://www.youtube.com/watch?v=lbgDjpO-Uks)
 - [Using Programmability to Update Cisco ISE from NetBox](https://www.youtube.com/watch?v=uoX7a9Q9A5I)
 - [Developer Sustainability Week: Energy Management for Catalyst Devices Workshop](https://www.youtube.com/watch?v=eROvdPTLARA)
 - [Cisco Defense Orchestrator API, Ansible, and Terraform](https://www.youtube.com/watch?v=a6SrNMosDek)
 - [Developer Sustainability Week: Cisco APIs for a Sustainable Future webinar](https://www.youtube.com/watch?v=uonF0ZoP5KU)
-- [Sustainable DevOps](https://www.youtube.com/watch?v=q9qk-G5kED0)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
