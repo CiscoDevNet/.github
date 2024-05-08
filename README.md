@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Automating security posture and infrastructure management using CDO&#39;s APIs](https://www.youtube.com/watch?v=lbgDjpO-Uks)
+- [Create your own API &amp; Code Assistant | Understanding RAG with Cisco Catalyst Center](https://www.youtube.com/watch?v=7U1LZU2jNyw)
 - [Gert Jan de Boer](https://www.youtube.com/watch?v=LtyVO13J6HM)
 - [Albert Chen](https://www.youtube.com/watch?v=m__F0AcAgbo)
 - [Torbjorn Bang](https://www.youtube.com/watch?v=0_Ndv3tFpKA)
-- [Martin Saunders COO at Highlight | CLEMEA 24](https://www.youtube.com/watch?v=6RMob4tqpU8)
-- [Alfonso Sandoval Rosas | CLEMEA 24](https://www.youtube.com/watch?v=4sRMew3K-B4)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
