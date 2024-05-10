@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [AI and Cybersecurity with Omar Santos](https://www.youtube.com/watch?v=RWurcal_Nbo)
 - [Automating security posture and infrastructure management using CDO&#39;s APIs](https://www.youtube.com/watch?v=lbgDjpO-Uks)
 - [Create your own API &amp; Code Assistant | Understanding RAG with Cisco Catalyst Center](https://www.youtube.com/watch?v=7U1LZU2jNyw)
 - [Gert Jan de Boer](https://www.youtube.com/watch?v=LtyVO13J6HM)
 - [Albert Chen](https://www.youtube.com/watch?v=m__F0AcAgbo)
-- [Torbjorn Bang](https://www.youtube.com/watch?v=0_Ndv3tFpKA)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
