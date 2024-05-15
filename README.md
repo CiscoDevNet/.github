@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NetGru LIVE: Model Driven Telemetry with Catalyst 9000 Switches](https://www.youtube.com/watch?v=bhkDU98J4T4)
+- [30 Questions with Distinguished Engineer Omar Santos](https://www.youtube.com/watch?v=sAyv6OppEPQ)
 - [AI and Cybersecurity with Omar Santos](https://www.youtube.com/watch?v=RWurcal_Nbo)
 - [Automating security posture and infrastructure management using CDO&#39;s APIs](https://www.youtube.com/watch?v=lbgDjpO-Uks)
 - [Create your own API &amp; Code Assistant | Understanding RAG with Cisco Catalyst Center](https://www.youtube.com/watch?v=7U1LZU2jNyw)
-- [Gert Jan de Boer](https://www.youtube.com/watch?v=LtyVO13J6HM)
-- [Albert Chen](https://www.youtube.com/watch?v=m__F0AcAgbo)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
