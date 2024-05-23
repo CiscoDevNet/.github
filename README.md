@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Crux of Android 14 Application Migration and Its Impact](https://feedpress.me/link/23607/16691059/the-crux-of-android-14-application-migration-and-its-impact)
 - [Announcing the Build for Better Code Challenge Winners](https://feedpress.me/link/23607/16682989/announcing-the-build-for-better-code-challenge-winners)
 - [Becoming a Model-Driven Telemetry Power User with Cisco IOS XE](https://feedpress.me/link/23607/16674522/becoming-a-model-driven-telemetry-power-user-with-cisco-ios-xe)
 - [Up-Skill at the Cisco Live 2024 DevNet Zone](https://feedpress.me/link/23607/16672636/up-skill-at-the-cisco-live-2024-devnet-zone)
 - [Which Programming Language to Choose for AI?](https://feedpress.me/link/23607/16669861/which-programming-language-to-choose-for-ai-in-2024)
-- [Experience Data Center Efficiency with Cisco’s Unified Computing System &lpar;UCS&rpar;](https://feedpress.me/link/23607/16668721/experience-data-center-efficiency-with-ciscos-unified-computing-system-ucs)
 <!-- BLOG-POST-LIST:END -->
