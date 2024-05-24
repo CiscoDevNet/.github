@@ -37,8 +37,8 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Cisco Secure Access API getting started  Authentication](https://www.youtube.com/watch?v=quNCD8GJ2pE)
 - [NetGru LIVE: Automating Multi-Cloud Security](https://www.youtube.com/watch?v=BAkIogvcfEo)
-- [Observability for LLM applications, stream with Nir Gazit &lpar;OpenLLMetry&rpar;](https://www.youtube.com/watch?v=uUaAtZkw4WM)
 - [NetGru LIVE: Model Driven Telemetry with Catalyst 9000 Switches](https://www.youtube.com/watch?v=bhkDU98J4T4)
 - [AI and Cybersecurity with Omar Santos](https://www.youtube.com/watch?v=RWurcal_Nbo)
 - [30 Questions with Distinguished Engineer Omar Santos](https://www.youtube.com/watch?v=sAyv6OppEPQ)
