@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [30 Questions with Distinguished Engineer Omar Santos](https://www.youtube.com/watch?v=sAyv6OppEPQ)
+- [DevOps-related Sessions at Cisco Live](https://www.youtube.com/watch?v=kVOj8EOhdjI)
 - [NetGru LIVE: BGP prefix limit Automation using Event Driven Ansible](https://www.youtube.com/watch?v=0Wk5eZ979Gw)
+- [30 Questions with Distinguished Engineer Omar Santos](https://www.youtube.com/watch?v=sAyv6OppEPQ)
 - [Getting Started with Authentication and Cisco Secure Access API](https://www.youtube.com/watch?v=quNCD8GJ2pE)
 - [NetGru LIVE: Automating Multi-Cloud Security](https://www.youtube.com/watch?v=BAkIogvcfEo)
-- [NetGru LIVE: Model Driven Telemetry with Catalyst 9000 Switches](https://www.youtube.com/watch?v=bhkDU98J4T4)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
