@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Are Humans the Weakest Link in Cybersecurity? | Interview with Dr. Jessica Barker](https://www.youtube.com/watch?v=qk6LZRi-g38)
 - [DevOps-related Sessions at Cisco Live](https://www.youtube.com/watch?v=kVOj8EOhdjI)
 - [NetGru LIVE: BGP prefix limit Automation using Event Driven Ansible](https://www.youtube.com/watch?v=0Wk5eZ979Gw)
 - [30 Questions with Distinguished Engineer Omar Santos](https://www.youtube.com/watch?v=sAyv6OppEPQ)
 - [Getting Started with Authentication and Cisco Secure Access API](https://www.youtube.com/watch?v=quNCD8GJ2pE)
-- [NetGru LIVE: Automating Multi-Cloud Security](https://www.youtube.com/watch?v=BAkIogvcfEo)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
