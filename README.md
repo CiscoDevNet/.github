@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Using Retrieval-Augmented Generation to make domain-specific agents](https://www.youtube.com/watch?v=KeikUowNfws)
 - [Are Humans the Weakest Link in Cybersecurity? | Interview with Dr. Jessica Barker](https://www.youtube.com/watch?v=qk6LZRi-g38)
 - [DevOps-related Sessions at Cisco Live](https://www.youtube.com/watch?v=kVOj8EOhdjI)
 - [NetGru LIVE: BGP prefix limit Automation using Event Driven Ansible](https://www.youtube.com/watch?v=0Wk5eZ979Gw)
 - [30 Questions with Distinguished Engineer Omar Santos](https://www.youtube.com/watch?v=sAyv6OppEPQ)
-- [Getting Started with Authentication and Cisco Secure Access API](https://www.youtube.com/watch?v=quNCD8GJ2pE)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
