@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Observability for LLM applications, stream with Nir Gazit OpenLLMetry](https://www.youtube.com/watch?v=H_Y1dqb0TgU)
 - [Using Retrieval-Augmented Generation to make domain-specific agents](https://www.youtube.com/watch?v=KeikUowNfws)
 - [Are Humans the Weakest Link in Cybersecurity? | Interview with Dr. Jessica Barker](https://www.youtube.com/watch?v=qk6LZRi-g38)
 - [DevOps-related Sessions at Cisco Live](https://www.youtube.com/watch?v=kVOj8EOhdjI)
 - [NetGru LIVE: BGP prefix limit Automation using Event Driven Ansible](https://www.youtube.com/watch?v=0Wk5eZ979Gw)
-- [30 Questions with Distinguished Engineer Omar Santos](https://www.youtube.com/watch?v=sAyv6OppEPQ)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
