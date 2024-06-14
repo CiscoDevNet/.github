@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top Takeaways from the Cisco Live 2024 DevNet Zone: AI, Programmability, and More](https://feedpress.me/link/23607/16713323/top-developer-takeaways-from-cisco-live-2024-ai-programmability-and-more)
 - [Cisco AI Assistant for Managing Firewall Policies Is Now Available](https://feedpress.me/link/23607/16706737/cisco-ai-assistant-for-managing-firewall-policies-is-now-available)
 - [Make Your Buildings Smarter with Cisco Spaces Cloud](https://feedpress.me/link/23607/16699169/make-your-buildings-smarter-with-cisco-spaces-cloud)
 - [Cisco Meraki Secures the Postman “Best API Award”](https://feedpress.me/link/23607/16692940/postmanawards01)
 - [The Crux of Android 14 Application Migration and Its Impact](https://feedpress.me/link/23607/16691059/the-crux-of-android-14-application-migration-and-its-impact)
-- [Announcing the Build for Better Code Challenge Winners](https://feedpress.me/link/23607/16682989/announcing-the-build-for-better-code-challenge-winners)
 <!-- BLOG-POST-LIST:END -->
