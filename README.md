@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [30 Questions with &quot;The Godfather of Programmability&quot; Jason Gooley](https://www.youtube.com/watch?v=qwfMm8S5-2o)
 - [Cisco Umbrella API getting started with Authentication](https://www.youtube.com/watch?v=jeZOPV9J3FY)
 - [Exploring Cisco Catalyst WAN SDK and Ansible Collection](https://www.youtube.com/watch?v=D6nmcGRgpi4)
 - [Generative AI on AWS](https://www.youtube.com/watch?v=nCy0mKf5Zk8)
 - [Using Retrieval-Augmented Generation to make domain-specific agents](https://www.youtube.com/watch?v=Zn9H1RIPt8Y)
-- [Observability for LLM applications, stream with Nir Gazit OpenLLMetry](https://www.youtube.com/watch?v=H_Y1dqb0TgU)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
