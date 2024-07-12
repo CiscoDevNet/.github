@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [30 Questions with &quot;The Godfather of Programmability&quot; Jason Gooley](https://www.youtube.com/watch?v=qwfMm8S5-2o)
-- [Cisco Umbrella API getting started with Authentication](https://www.youtube.com/watch?v=jeZOPV9J3FY)
-- [Exploring Cisco Catalyst WAN SDK and Ansible Collection](https://www.youtube.com/watch?v=D6nmcGRgpi4)
-- [Generative AI on AWS](https://www.youtube.com/watch?v=nCy0mKf5Zk8)
-- [Using Retrieval-Augmented Generation to make domain-specific agents](https://www.youtube.com/watch?v=Zn9H1RIPt8Y)
+- [Exploring the Power of Webex Bots with Buttons and Cards for Webex Developer Audience](https://www.youtube.com/watch?v=WIcB41vDtio)
+- [Webex Contact Center APIs](https://www.youtube.com/watch?v=spj5SWg5J7c)
+- [Unlocking the Power of Custom Widgets in Webex Contact Center](https://www.youtube.com/watch?v=wSMAmQY3x7E)
+- [Transform Calls into Experiences Tap into the Webex Web Calling SDK](https://www.youtube.com/watch?v=8us4-QSHBFA)
+- [Webex Developer Year in Review](https://www.youtube.com/watch?v=CQloqBjVcU0)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
