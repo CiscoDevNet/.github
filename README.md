@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [DevOps Shop Earning the Cisco DevNet Specialist DevOps Certification](https://www.youtube.com/watch?v=t6FeomBCfCg)
+- [Rapidly Create Customized Enterprise GenAI Assistants and Apps, Powered by RAG and NLP Guardrails.](https://www.youtube.com/watch?v=yDJ1qEDu-AY)
 - [NetGru LIVE &#39;Running Ollama locally on a Cisco Catalyst 9300!&#39;](https://www.youtube.com/watch?v=xY6UNApW8Tc)
 - [Exploring the Power of Webex Bots with Buttons and Cards for Webex Developer Audience](https://www.youtube.com/watch?v=WIcB41vDtio)
 - [Webex Contact Center APIs](https://www.youtube.com/watch?v=spj5SWg5J7c)
-- [Unlocking the Power of Custom Widgets in Webex Contact Center](https://www.youtube.com/watch?v=wSMAmQY3x7E)
-- [Transform Calls into Experiences Tap into the Webex Web Calling SDK](https://www.youtube.com/watch?v=8us4-QSHBFA)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
