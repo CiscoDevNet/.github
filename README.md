@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [30 Questions with &quot;The Godfather of Programmability&quot; Jason Gooley](https://www.youtube.com/watch?v=qwfMm8S5-2o)
+- [Secure Access APIs: Authentication Best Practices](https://www.youtube.com/watch?v=n2IhwohWYZM)
 - [DevOps Shop Earning the Cisco DevNet Specialist DevOps Certification](https://www.youtube.com/watch?v=t6FeomBCfCg)
 - [Rapidly Create Customized Enterprise GenAI Assistants and Apps, Powered by RAG and NLP Guardrails.](https://www.youtube.com/watch?v=yDJ1qEDu-AY)
 - [NetGru LIVE &#39;Running Ollama locally on a Cisco Catalyst 9300!&#39;](https://www.youtube.com/watch?v=xY6UNApW8Tc)
-- [Exploring the Power of Webex Bots with Buttons and Cards for Webex Developer Audience](https://www.youtube.com/watch?v=WIcB41vDtio)
-- [Webex Contact Center APIs](https://www.youtube.com/watch?v=spj5SWg5J7c)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
