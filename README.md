@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Programmatically Manage Your API Credential for Cisco Secure Access](https://www.youtube.com/watch?v=j5uIMONsfrw)
 - [NetGru LIVE &#39;Running Ollama locally on a Cisco Catalyst 9300!&#39;](https://www.youtube.com/watch?v=tleKTgYyByk)
 - [30 Questions with &quot;The Godfather of Programmability&quot; Jason Gooley](https://www.youtube.com/watch?v=qwfMm8S5-2o)
 - [Secure Access APIs: Authentication Best Practices](https://www.youtube.com/watch?v=n2IhwohWYZM)
 - [DevOps Shop Earning the Cisco DevNet Specialist DevOps Certification](https://www.youtube.com/watch?v=t6FeomBCfCg)
-- [Rapidly Create Customized Enterprise GenAI Assistants and Apps, Powered by RAG and NLP Guardrails.](https://www.youtube.com/watch?v=yDJ1qEDu-AY)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
