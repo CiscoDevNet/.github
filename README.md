@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [APIs are the New SNMP! NetGru LIVE](https://www.youtube.com/watch?v=4L5cEz-cz4k)
 - [30 Questions with Cisco pyATS Authors John Capobianco &amp; Dan Wade](https://www.youtube.com/watch?v=rLvScXy-Z_c)
 - [Programmatically Manage Your API Credential for Cisco Secure Access](https://www.youtube.com/watch?v=j5uIMONsfrw)
 - [NetGru LIVE &#39;Running Ollama locally on a Cisco Catalyst 9300!&#39;](https://www.youtube.com/watch?v=tleKTgYyByk)
 - [30 Questions with &quot;The Godfather of Programmability&quot; Jason Gooley](https://www.youtube.com/watch?v=qwfMm8S5-2o)
-- [Secure Access APIs: Authentication Best Practices](https://www.youtube.com/watch?v=n2IhwohWYZM)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
