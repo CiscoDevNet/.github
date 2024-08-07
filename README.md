@@ -46,7 +46,7 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cisco IOS XE Automation from Cisco Live AMEA 2024](https://feedpress.me/link/23607/16762537/cisco-ios-xe-automation-from-cisco-live-amea-2024)
+- [Cisco IOS XE Automation from Cisco Live 2024](https://feedpress.me/link/23607/16763591/cisco-ios-xe-automation-from-cisco-live-2024)
 - [Revolutionizing Surveillance: Cameras with AI-Powered Object Detection](https://feedpress.me/link/23607/16738611/revolutionizing-surveillance-cameras-with-ai-powered-object-detection)
 - [Automating How DevNet Produces API Changelogs](https://feedpress.me/link/23607/16723534/automating-how-devnet-produces-api-changelogs)
 - [Cisco API Documentations Is Now Adapted for Gen AI Technologies](https://feedpress.me/link/23607/16720813/cisco-api-documentations-is-now-adapted-for-gen-ai-technologies)
