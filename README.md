@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Jumpstart Your Meraki Auto-VPN Journey in the Multi-Cloud Environment](https://feedpress.me/link/23607/16765327/meraki-auto-vpn-in-multi-cloud-environment)
 - [Cisco IOS XE Automation from Cisco Live 2024](https://feedpress.me/link/23607/16763591/cisco-ios-xe-automation-from-cisco-live-2024)
 - [Revolutionizing Surveillance: Cameras with AI-Powered Object Detection](https://feedpress.me/link/23607/16738611/revolutionizing-surveillance-cameras-with-ai-powered-object-detection)
 - [Automating How DevNet Produces API Changelogs](https://feedpress.me/link/23607/16723534/automating-how-devnet-produces-api-changelogs)
 - [Cisco API Documentations Is Now Adapted for Gen AI Technologies](https://feedpress.me/link/23607/16720813/cisco-api-documentations-is-now-adapted-for-gen-ai-technologies)
-- [Top Takeaways from the Cisco Live 2024 DevNet Zone: AI, Programmability, and More](https://feedpress.me/link/23607/16713323/top-developer-takeaways-from-cisco-live-2024-ai-programmability-and-more)
 <!-- BLOG-POST-LIST:END -->
