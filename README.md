@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [AI Agents for Automation](https://www.youtube.com/watch?v=rqAoGCx8DeE)
 - [30 Questions with Cisco pyATS Authors John Capobianco &amp; Dan Wade](https://www.youtube.com/watch?v=rLvScXy-Z_c)
 - [NetGru LIVE: BGP prefix limit Automation using Event Driven Ansible](https://www.youtube.com/watch?v=b195mGBSPDs)
 - [Transforming DevOps with AI and ML: Innovations and Strategies](https://www.youtube.com/watch?v=jyvmkXj2o-8)
 - [Creating an AI agent for Cybersecurity](https://www.youtube.com/watch?v=G1MVWl91k3E)
-- [APIs are the New SNMP! NetGru LIVE](https://www.youtube.com/watch?v=4L5cEz-cz4k)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
