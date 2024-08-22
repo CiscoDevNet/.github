@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NetGru LIVE: Code Reviews for Infrastructure Automation](https://www.youtube.com/watch?v=ChjOQqEZOiw)
 - [AI Agents for Automation](https://www.youtube.com/watch?v=rqAoGCx8DeE)
 - [Code with ChatGPT](https://www.youtube.com/watch?v=001R5WfmsvY)
 - [Webex Web Calling SDK  Kitchen Sink App](https://www.youtube.com/watch?v=q7su_35M1cQ)
 - [Call Provisioning API Demo](https://www.youtube.com/watch?v=w6UMCpitIAc)
-- [Webex Developer Webinar   Webex Contact Center Flow Designer for Developers](https://www.youtube.com/watch?v=X8_p-cGqcEQ)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
