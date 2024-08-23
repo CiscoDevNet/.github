@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Do You Need A Service Mesh?](https://www.youtube.com/watch?v=MPK9HUr4vfg)
 - [NetGru LIVE: Code Reviews for Infrastructure Automation](https://www.youtube.com/watch?v=ChjOQqEZOiw)
 - [AI Agents for Automation](https://www.youtube.com/watch?v=rqAoGCx8DeE)
 - [Code with ChatGPT](https://www.youtube.com/watch?v=001R5WfmsvY)
 - [Webex Web Calling SDK  Kitchen Sink App](https://www.youtube.com/watch?v=q7su_35M1cQ)
-- [Call Provisioning API Demo](https://www.youtube.com/watch?v=w6UMCpitIAc)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
