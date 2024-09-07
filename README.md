@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NetGru LIVE: Edge Computing on Industrial Cisco Networks](https://www.youtube.com/watch?v=jciyuiYtQME)
 - [NetGru LIVE: Exploring Cisco Meraki Sandbox Environments](https://www.youtube.com/watch?v=rsy5iN0COUM)
 - [Do You Need A Service Mesh?](https://www.youtube.com/watch?v=MPK9HUr4vfg)
 - [NetGru LIVE: Code Reviews for Infrastructure Automation](https://www.youtube.com/watch?v=ChjOQqEZOiw)
 - [AI Agents for Automation](https://www.youtube.com/watch?v=rqAoGCx8DeE)
-- [Code with ChatGPT](https://www.youtube.com/watch?v=001R5WfmsvY)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
