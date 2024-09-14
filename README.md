@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Try the New Security Sandbox for Cisco Defense Orchestrator](https://feedpress.me/link/23607/16808223/try-the-new-security-sandbox-for-cisco-defense-orchestrator)
 - [Optimizing AI Workloads with NVIDIA GPUs, Time Slicing, and Karpenter](https://feedpress.me/link/23607/16767173/optimizing-ai-workloads-with-nvidia-01)
 - [Jumpstart Your Meraki Auto-VPN Journey in the Multi-Cloud Environment](https://feedpress.me/link/23607/16765327/meraki-auto-vpn-in-multi-cloud-environment)
 - [Cisco IOS XE Automation from Cisco Live 2024](https://feedpress.me/link/23607/16763591/cisco-ios-xe-automation-from-cisco-live-2024)
 - [Revolutionizing Surveillance: Cameras with AI-Powered Object Detection](https://feedpress.me/link/23607/16738611/revolutionizing-surveillance-cameras-with-ai-powered-object-detection)
-- [Automating How DevNet Produces API Changelogs](https://feedpress.me/link/23607/16723534/automating-how-devnet-produces-api-changelogs)
 <!-- BLOG-POST-LIST:END -->
