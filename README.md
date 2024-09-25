@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NVIDIA AI Enterprise and NIM](https://www.youtube.com/watch?v=5pLmRtgLrv8)
+- [Programmatically Manage Your API Credential for Cisco Secure Access](https://www.youtube.com/watch?v=44bhlE0X3qs)
 - [NetGru LIVE: Cisco Smart Licensing Infrastructure Adoption and Operations through API](https://www.youtube.com/watch?v=rovzBHkYi5I)
 - [NetGru LIVE: Edge Computing on Industrial Cisco Networks](https://www.youtube.com/watch?v=jciyuiYtQME)
 - [NetGru LIVE: Exploring Cisco Meraki Sandbox Environments](https://www.youtube.com/watch?v=rsy5iN0COUM)
-- [Do You Need A Service Mesh?](https://www.youtube.com/watch?v=MPK9HUr4vfg)
-- [NetGru LIVE: Code Reviews for Infrastructure Automation](https://www.youtube.com/watch?v=ChjOQqEZOiw)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
