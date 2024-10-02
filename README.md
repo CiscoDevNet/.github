@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Understanding All About Large Language Models | Unmasking AI](https://www.youtube.com/watch?v=_I2BE6H5eoI)
+- [IOS-XE Alwayson](https://www.youtube.com/watch?v=c3SbjIAlA_M)
 - [Secure Access and Umbrella Reporting APIs Getting Started and Navigating Report Types](https://www.youtube.com/watch?v=eUPtCavrbXw)
 - [NVIDIA AI Enterprise and NIM](https://www.youtube.com/watch?v=5pLmRtgLrv8)
 - [Pangea and AI for Network Engineers | The DevSec Voice](https://www.youtube.com/watch?v=yNVxy9rMIw4)
-- [Programmatically Manage Your API Credential for Cisco Secure Access](https://www.youtube.com/watch?v=44bhlE0X3qs)
-- [NetGru LIVE: Cisco Smart Licensing Infrastructure Adoption and Operations through API](https://www.youtube.com/watch?v=rovzBHkYi5I)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
