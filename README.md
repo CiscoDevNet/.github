@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [The 4 Generative AI Architecture Approaches You Need to Know | Unmasking AI](https://www.youtube.com/watch?v=k-sZABx1124)
+- [Genai Use Cases - Network Engineering](https://www.youtube.com/watch?v=fT2REbLH1ww)
 - [Understanding All About Large Language Models | Unmasking AI](https://www.youtube.com/watch?v=_I2BE6H5eoI)
 - [IOS-XE Alwayson](https://www.youtube.com/watch?v=c3SbjIAlA_M)
 - [Secure Access and Umbrella Reporting APIs Getting Started and Navigating Report Types](https://www.youtube.com/watch?v=eUPtCavrbXw)
-- [NVIDIA AI Enterprise and NIM](https://www.youtube.com/watch?v=5pLmRtgLrv8)
-- [Pangea and AI for Network Engineers | The DevSec Voice](https://www.youtube.com/watch?v=yNVxy9rMIw4)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
