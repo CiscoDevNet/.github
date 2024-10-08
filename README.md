@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco IOS XE Automation at Cisco Live APJC 2024](https://feedpress.me/link/23607/16836015/cisco-ios-xe-automation-at-cisco-live-apjc-2024)
 - [5 Reasons Why Developers Should Attend Security Conferences](https://feedpress.me/link/23607/16828377/5-reasons-why-developers-should-attend-security-conferences)
 - [Try the New Security Sandbox for Cisco Defense Orchestrator](https://feedpress.me/link/23607/16808223/try-the-new-security-sandbox-for-cisco-defense-orchestrator)
 - [Optimizing AI Workloads with NVIDIA GPUs, Time Slicing, and Karpenter](https://feedpress.me/link/23607/16767173/optimizing-ai-workloads-with-nvidia-01)
 - [Jumpstart Your Meraki Auto-VPN Journey in the Multi-Cloud Environment](https://feedpress.me/link/23607/16765327/meraki-auto-vpn-in-multi-cloud-environment)
-- [Cisco IOS XE Automation from Cisco Live 2024](https://feedpress.me/link/23607/16763591/cisco-ios-xe-automation-from-cisco-live-2024)
 <!-- BLOG-POST-LIST:END -->
