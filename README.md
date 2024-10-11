@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Cisco AI Assistant API](https://www.youtube.com/watch?v=eCVq5nAasO0)
 - [Generative vs Predictive AI: Differences &amp; Use-Cases | Unmasking AI](https://www.youtube.com/watch?v=wuRvYoDZlYI)
 - [The 4 Generative AI Architecture Approaches You Need to Know | Unmasking AI](https://www.youtube.com/watch?v=k-sZABx1124)
 - [Genai Use Cases - Network Engineering](https://www.youtube.com/watch?v=fT2REbLH1ww)
 - [Understanding All About Large Language Models | Unmasking AI](https://www.youtube.com/watch?v=_I2BE6H5eoI)
-- [IOS-XE Alwayson](https://www.youtube.com/watch?v=c3SbjIAlA_M)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
