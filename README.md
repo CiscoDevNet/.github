@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Incidents Happen! | Post-Incident Learning &amp; Building Agile Incident Response Programs](https://www.youtube.com/watch?v=jhyhd0C6C3w)
+- [AWS Centralized Deployment | Automate Multicloud Security with NetGru](https://www.youtube.com/watch?v=zfvuQVzAt88)
 - [What Drew You to Cybersecurity? Interview with Omar Santos](https://www.youtube.com/watch?v=kCc_eFsaF4E)
 - [Cisco AI Assistant API](https://www.youtube.com/watch?v=eCVq5nAasO0)
 - [Generative vs Predictive AI: Differences &amp; Use-Cases | Unmasking AI](https://www.youtube.com/watch?v=wuRvYoDZlYI)
-- [The 4 Generative AI Architecture Approaches You Need to Know | Unmasking AI](https://www.youtube.com/watch?v=k-sZABx1124)
-- [Genai Use Cases - Network Engineering](https://www.youtube.com/watch?v=fT2REbLH1ww)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
