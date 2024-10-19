@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Simplifying network management with GenAI](https://www.youtube.com/watch?v=aqH1UNsICmw)
+- [Post-Incident Learning for Improvement, Not Blame | Interview with Ashley Sawatsky](https://www.youtube.com/watch?v=5iLmfL7fnaw)
+- [OWASP Top 10 for LLM | AI is the Future with Oleksii Borysenko](https://www.youtube.com/watch?v=jfjdFxBuVXk)
 - [Incidents Happen! | Post-Incident Learning &amp; Building Agile Incident Response Programs](https://www.youtube.com/watch?v=jhyhd0C6C3w)
 - [AWS Centralized Deployment | Automate Multicloud Security with NetGru](https://www.youtube.com/watch?v=zfvuQVzAt88)
-- [What Drew You to Cybersecurity? Interview with Omar Santos](https://www.youtube.com/watch?v=kCc_eFsaF4E)
-- [Cisco AI Assistant API](https://www.youtube.com/watch?v=eCVq5nAasO0)
-- [Generative vs Predictive AI: Differences &amp; Use-Cases | Unmasking AI](https://www.youtube.com/watch?v=wuRvYoDZlYI)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
