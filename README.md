@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Password &amp; Captchas on the Space Widget](https://www.youtube.com/watch?v=my4oCtezwi8)
 - [Password &amp; Captcha on the Meeting Widget](https://www.youtube.com/watch?v=uQUkrvBzewc)
 - [Simplifying network management with GenAI](https://www.youtube.com/watch?v=aqH1UNsICmw)
 - [Post-Incident Learning for Improvement, Not Blame | Interview with Ashley Sawatsky](https://www.youtube.com/watch?v=5iLmfL7fnaw)
 - [OWASP Top 10 for LLM | AI is the Future with Oleksii Borysenko](https://www.youtube.com/watch?v=jfjdFxBuVXk)
-- [Incidents Happen! | Post-Incident Learning &amp; Building Agile Incident Response Programs](https://www.youtube.com/watch?v=jhyhd0C6C3w)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
