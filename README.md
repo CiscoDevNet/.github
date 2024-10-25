@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Webex Developer Unleashing the Power of Multistream Expert Techniques and Insights](https://www.youtube.com/watch?v=UUp0OANtj_0)
+- [New features on DevNet platform: NSO container on Code Exchange | DevNet Decoded](https://www.youtube.com/watch?v=wj4blFFCWgQ)
 - [Simplifying network management with GenAI](https://www.youtube.com/watch?v=aqH1UNsICmw)
 - [AI and Webex Integrations](https://www.youtube.com/watch?v=dPNPe1By-6A)
 - [OpenTofu: where open source meets infrastructure as code](https://www.youtube.com/watch?v=VWIs1bzyu7o)
-- [Password &amp; Captchas on the Space Widget](https://www.youtube.com/watch?v=my4oCtezwi8)
-- [Password &amp; Captcha on the Meeting Widget](https://www.youtube.com/watch?v=uQUkrvBzewc)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
