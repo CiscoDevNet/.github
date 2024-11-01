@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Essential Open-Source Security Tools: From Vulnerability Scanning to AI Safety](https://feedpress.me/link/23607/16871805/essential-open-source-security-tools-from-vulnerability-scanning-to-ai-safety)
 - [New OpenTofu Providers for Cisco Technologies Now Available!](https://feedpress.me/link/23607/16856194/open-tofu-providers)
 - [What do we want? More sandboxes! When do we want them? Now!](https://feedpress.me/link/23607/16838122/what-do-we-want-more-sandboxes-when-do-we-want-them-now)
 - [Cisco IOS XE Automation at Cisco Live APJC 2024](https://feedpress.me/link/23607/16836015/cisco-ios-xe-automation-at-cisco-live-apjc-2024)
 - [5 Reasons Why Developers Should Attend Security Conferences](https://feedpress.me/link/23607/16828377/5-reasons-why-developers-should-attend-security-conferences)
-- [Try the New Security Sandbox for Cisco Defense Orchestrator](https://feedpress.me/link/23607/16808223/try-the-new-security-sandbox-for-cisco-defense-orchestrator)
 <!-- BLOG-POST-LIST:END -->
