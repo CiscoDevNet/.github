@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Live Chat With DevNet Sandbox Team | DevNet Decoded](https://www.youtube.com/watch?v=q0ZYrWMrHv8)
 - [How To Break Into Cybersecurity | Cybersecurity Career Interviews](https://www.youtube.com/watch?v=-4-XyixnoFE)
 - [OpenTofu: where open source meets infrastructure as code](https://www.youtube.com/watch?v=VWIs1bzyu7o)
 - [Webex Developer Unleashing the Power of Multistream Expert Techniques and Insights](https://www.youtube.com/watch?v=UUp0OANtj_0)
 - [New features on DevNet platform: NSO container on Code Exchange | DevNet Decoded](https://www.youtube.com/watch?v=wj4blFFCWgQ)
-- [Simplifying network management with GenAI](https://www.youtube.com/watch?v=aqH1UNsICmw)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
