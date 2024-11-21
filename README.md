@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Taking the DevNet Associate Certification](https://www.youtube.com/watch?v=m9dyEmojFNg)
 - [AI driven Semantic Search and Summarization at Cisco DevNet platform | | DevNet Decoded](https://www.youtube.com/watch?v=tuycerrXVDw)
 - [Live Chat With DevNet Sandbox Team | DevNet Decoded](https://www.youtube.com/watch?v=q0ZYrWMrHv8)
 - [How To Break Into Cybersecurity | Cybersecurity Career Interviews](https://www.youtube.com/watch?v=-4-XyixnoFE)
 - [OpenTofu: where open source meets infrastructure as code](https://www.youtube.com/watch?v=VWIs1bzyu7o)
-- [Webex Developer Unleashing the Power of Multistream Expert Techniques and Insights](https://www.youtube.com/watch?v=UUp0OANtj_0)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
