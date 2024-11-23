@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Automation Use Cases and Edge Computing](https://www.youtube.com/watch?v=o9LBvrLgCBw)
 - [Live Chat With DevNet Sandbox Team | DevNet Decoded](https://www.youtube.com/watch?v=q0ZYrWMrHv8)
 - [Teaching Networking Students To Code](https://www.youtube.com/watch?v=FYtqNfoG8sw)
 - [Taking the DevNet Associate Certification](https://www.youtube.com/watch?v=m9dyEmojFNg)
 - [AI driven Semantic Search and Summarization at Cisco DevNet platform | | DevNet Decoded](https://www.youtube.com/watch?v=tuycerrXVDw)
-- [How To Break Into Cybersecurity | Cybersecurity Career Interviews](https://www.youtube.com/watch?v=-4-XyixnoFE)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
