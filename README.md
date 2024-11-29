@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [New AI-Driven Semantic Search and Summarization](https://feedpress.me/link/23607/16890124/new-ai-driven-semantic-search-and-summarization)
-- [Essential Open-Source Security Tools: From Vulnerability Scanning to AI Safety](https://feedpress.me/link/23607/16871805/essential-open-source-security-tools-from-vulnerability-scanning-to-ai-safety)
-- [New OpenTofu Providers for Cisco Technologies Now Available!](https://feedpress.me/link/23607/16856194/open-tofu-providers)
-- [What do we want? More sandboxes! When do we want them? Now!](https://feedpress.me/link/23607/16838122/what-do-we-want-more-sandboxes-when-do-we-want-them-now)
-- [Cisco IOS XE Automation at Cisco Live APJC 2024](https://feedpress.me/link/23607/16836015/cisco-ios-xe-automation-at-cisco-live-apjc-2024)
+- [New AI-Driven Semantic Search and Summarization](https://blogs.cisco.com/developer/new-ai-driven-semantic-search-and-summarization/)
+- [Essential Open-Source Security Tools: From Vulnerability Scanning to AI Safety](https://blogs.cisco.com/developer/essential-open-source-security-tools-from-vulnerability-scanning-to-ai-safety/)
+- [New OpenTofu Providers for Cisco Technologies Now Available!](https://blogs.cisco.com/developer/open-tofu-providers/)
+- [What do we want? More sandboxes! When do we want them? Now!](https://blogs.cisco.com/developer/what-do-we-want-more-sandboxes-when-do-we-want-them-now/)
+- [Cisco IOS XE Automation at Cisco Live APJC 2024](https://blogs.cisco.com/developer/cisco-ios-xe-automation-at-cisco-live-apjc-2024/)
 <!-- BLOG-POST-LIST:END -->
