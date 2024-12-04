@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Transforming Collaboration: Introducing Webex Guest-to-Guest Meetings](https://www.youtube.com/watch?v=KoL7nGAn97c)
 - [Automation Use Cases and Edge Computing](https://www.youtube.com/watch?v=o9LBvrLgCBw)
 - [Live Chat With DevNet Sandbox Team | DevNet Decoded](https://www.youtube.com/watch?v=q0ZYrWMrHv8)
 - [Teaching Networking Students To Code](https://www.youtube.com/watch?v=FYtqNfoG8sw)
 - [Taking the DevNet Associate Certification](https://www.youtube.com/watch?v=m9dyEmojFNg)
-- [AI driven Semantic Search and Summarization at Cisco DevNet platform | | DevNet Decoded](https://www.youtube.com/watch?v=tuycerrXVDw)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
