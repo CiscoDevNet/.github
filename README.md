@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Network Port Self Service](https://www.youtube.com/watch?v=zjanr1kcz8o)
 - [Learning to Code through Meraki API](https://www.youtube.com/watch?v=ZDkQ_K9thbQ)
 - [Tetragon and eBPF for Network Engineers](https://www.youtube.com/watch?v=NZ2il-rZTUc)
 - [Transforming Collaboration: Introducing Webex Guest-to-Guest Meetings](https://www.youtube.com/watch?v=KoL7nGAn97c)
 - [Automation Use Cases and Edge Computing](https://www.youtube.com/watch?v=o9LBvrLgCBw)
-- [Live Chat With DevNet Sandbox Team | DevNet Decoded](https://www.youtube.com/watch?v=q0ZYrWMrHv8)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
