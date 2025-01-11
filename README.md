@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Explore network programmability with the DevNet XRd Sandbox](https://blogs.cisco.com/developer/explore-network-programmability-with-the-devnet-xrd-sandbox/)
 - [New AI-Driven Semantic Search and Summarization](https://blogs.cisco.com/developer/new-ai-driven-semantic-search-and-summarization/)
 - [Essential Open-Source Security Tools: From Vulnerability Scanning to AI Safety](https://blogs.cisco.com/developer/essential-open-source-security-tools-from-vulnerability-scanning-to-ai-safety/)
 - [New OpenTofu Providers for Cisco Technologies Now Available!](https://blogs.cisco.com/developer/open-tofu-providers/)
 - [What do we want? More sandboxes! When do we want them? Now!](https://blogs.cisco.com/developer/what-do-we-want-more-sandboxes-when-do-we-want-them-now/)
-- [Cisco IOS XE Automation at Cisco Live APJC 2024](https://blogs.cisco.com/developer/cisco-ios-xe-automation-at-cisco-live-apjc-2024/)
 <!-- BLOG-POST-LIST:END -->
