@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing AI Workloads with NVIDA GPUs, Time Slicing, and Karpenter &lpar;Part 2&rpar;](https://blogs.cisco.com/developer/optimizing-ai-workloads-with-nvida-gpus-time-slicing-and-karpenter-part-2/)
 - [Explore network programmability with the DevNet XRd Sandbox](https://blogs.cisco.com/developer/explore-network-programmability-with-the-devnet-xrd-sandbox/)
 - [New AI-Driven Semantic Search and Summarization](https://blogs.cisco.com/developer/new-ai-driven-semantic-search-and-summarization/)
 - [Essential Open-Source Security Tools: From Vulnerability Scanning to AI Safety](https://blogs.cisco.com/developer/essential-open-source-security-tools-from-vulnerability-scanning-to-ai-safety/)
 - [New OpenTofu Providers for Cisco Technologies Now Available!](https://blogs.cisco.com/developer/open-tofu-providers/)
-- [What do we want? More sandboxes! When do we want them? Now!](https://blogs.cisco.com/developer/what-do-we-want-more-sandboxes-when-do-we-want-them-now/)
 <!-- BLOG-POST-LIST:END -->
