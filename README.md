@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How GenAI is Transforming IT Automation &amp; DevOps! 🤖🚀](https://www.youtube.com/watch?v=TNlkhi1eFIc)
 - [Webex Developer Kicking of 2025 with Key Platform Advancements](https://www.youtube.com/watch?v=jI-yiN5CuAU)
 - [CENDEV-1007](https://www.youtube.com/watch?v=khOkbEeSsFQ)
 - [Network Port Self Service](https://www.youtube.com/watch?v=Jw1NrF0aDD0)
 - [Tetragon and eBPF for Network Engineers](https://www.youtube.com/watch?v=NZ2il-rZTUc)
-- [Learning to Code through Meraki API](https://www.youtube.com/watch?v=ZDkQ_K9thbQ)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
