@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🎥 Cisco Live DevNet Zone Day 2 Schedule—What’s Coming Up?](https://www.youtube.com/watch?v=2YGa8kcFJ0w)
+- [DevNetZone Amsterdam 2025 Day1](https://www.youtube.com/watch?v=OAVApMt-lqI)
 - [Zero-Touch Network Deployment with Catalyst Center &amp; NetBox](https://www.youtube.com/watch?v=uH660CAAg_8)
 - [🎥 SNEAK PEEK: How AI Agents Are Revolutionizing Automation! 🤖](https://www.youtube.com/watch?v=5SWPgKqvqWE)
 - [🎥 SNEAK PEEK: AI &amp; Network Telemetry for Real-Time Incident Response!](https://www.youtube.com/watch?v=Rg4SNdP_4Jk)
-- [DevNet Zone at Cisco Live Amsterdam 2025](https://www.youtube.com/watch?v=P_Pcew-mqsU)
-- [How GenAI is Transforming IT Automation &amp; DevOps! 🤖🚀](https://www.youtube.com/watch?v=TNlkhi1eFIc)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
