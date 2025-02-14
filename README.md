@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [DevNet Zone at Cisco Live Amsterdam 2025](https://www.youtube.com/watch?v=P_Pcew-mqsU)
 - [🎥 Cisco Live DevNet Zone Day 4 Schedule—One Last Day of Innovation!](https://www.youtube.com/watch?v=KBZvqcsV5Sw)
 - [🎥 Cisco Live DevNet Zone Day 3 Wrap-Up—Best Moments!](https://www.youtube.com/watch?v=Z9_JnwYhvFg)
 - [🎥 Cisco Live DevNet Zone Day 3 Schedule—What’s Coming Up?](https://www.youtube.com/watch?v=lT0KlhG1h3I)
 - [🎥 Cisco Live DevNet Zone Day 2 Schedule—What’s Coming Up?](https://www.youtube.com/watch?v=2YGa8kcFJ0w)
-- [DevNetZone Amsterdam 2025 Day1](https://www.youtube.com/watch?v=OAVApMt-lqI)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
