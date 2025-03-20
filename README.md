@@ -37,10 +37,10 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Building an Innovation Practice with Automation](https://www.youtube.com/watch?v=R01QCAcnCbA)
 - [Cisco Meraki Add-on for Splunk](https://www.youtube.com/watch?v=aHrzaTOui10)
 - [Understanding Secure Access API Usage Reports: Insights into API Requests &amp; Keys](https://www.youtube.com/watch?v=cAC5-KJ0Sig)
 - [Rust, packets, and LLMs: building a DIY protocol stack](https://www.youtube.com/watch?v=X5lUZs3eC70)
-- [Building an Innovation Practice with Automation](https://www.youtube.com/watch?v=R01QCAcnCbA)
 - [Rust, packets, and LLMs: building a DIY protocol stack](https://www.youtube.com/watch?v=SoSTXsr3Ffg)
 <!-- YOUTUBE:END -->
 
