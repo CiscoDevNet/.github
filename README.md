@@ -41,7 +41,7 @@
 - [Cisco Meraki Add-on for Splunk](https://www.youtube.com/watch?v=aHrzaTOui10)
 - [Understanding Secure Access API Usage Reports: Insights into API Requests &amp; Keys](https://www.youtube.com/watch?v=cAC5-KJ0Sig)
 - [Rust, packets, and LLMs: building a DIY protocol stack](https://www.youtube.com/watch?v=X5lUZs3eC70)
-- [Rust, packets, and LLMs: building a DIY protocol stack](https://www.youtube.com/watch?v=SoSTXsr3Ffg)
+- [DevNet Zone at Cisco Live Amsterdam 2025](https://www.youtube.com/watch?v=P_Pcew-mqsU)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
