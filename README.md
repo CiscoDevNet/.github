@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Leveraging Secure Zero Touch Provisioning for Catalyst Device Onboarding](https://www.youtube.com/watch?v=jNNDMp51NbQ)
+- [Zero-Touch Network Deployment with Catalyst Center &amp; NetBox](https://www.youtube.com/watch?v=uH660CAAg_8)
 - [AI State Graphs for network troubleshooting](https://www.youtube.com/watch?v=i6P-aXiXlIo)
 - [AI Defense Policies: Protecting Your Agents from Prompt Injection &amp; Privacy Risks](https://www.youtube.com/watch?v=PTgb01WsOAI)
 - [Building an Innovation Practice with Automation](https://www.youtube.com/watch?v=R01QCAcnCbA)
-- [Cisco Meraki Add-on for Splunk](https://www.youtube.com/watch?v=aHrzaTOui10)
-- [Understanding Secure Access API Usage Reports: Insights into API Requests &amp; Keys](https://www.youtube.com/watch?v=cAC5-KJ0Sig)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
