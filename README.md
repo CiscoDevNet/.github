@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Meraki Add-on for Splunk, New and Improved!](https://blogs.cisco.com/developer/cisco-meraki-add-on-for-splunk-new-and-improved/)
 - [Rate limit Management and Troubleshooting with the new Meraki “API Analytics Dashboard”](https://blogs.cisco.com/developer/rate-limit-management-and-troubleshooting-with-the-new-meraki-api-analytics-dashboard/)
 - [Cisco Automation Developer Days 2025](https://blogs.cisco.com/developer/cisco-automation-developer-days-2025/)
 - [Explore Cisco IOS XE Automation at Cisco Live EMEA 2025](https://blogs.cisco.com/developer/explore-cisco-ios-xe-automation-at-cisco-live-emea-2025/)
 - [Uncover the latest upgrades in the NSO Sandboxes](https://blogs.cisco.com/developer/uncover-the-latest-upgrades-in-the-nso-sandboxes/)
-- [Optimizing AI Workloads with NVIDIA GPUs, Time Slicing, and Karpenter &lpar;Part 2&rpar;](https://blogs.cisco.com/developer/optimizing-ai-workloads-with-nvidia-gpus-time-slicing-and-karpenter-part-2/)
 <!-- BLOG-POST-LIST:END -->
