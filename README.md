@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Building a production-grade automation platform with Infrahub](https://www.youtube.com/watch?v=E3KLBzyNBrU)
 - [Leveraging Secure Zero Touch Provisioning for Catalyst Device Onboarding](https://www.youtube.com/watch?v=jNNDMp51NbQ)
 - [Zero-Touch Network Deployment with Catalyst Center &amp; NetBox](https://www.youtube.com/watch?v=uH660CAAg_8)
 - [AI State Graphs for network troubleshooting](https://www.youtube.com/watch?v=i6P-aXiXlIo)
 - [AI Defense Policies: Protecting Your Agents from Prompt Injection &amp; Privacy Risks](https://www.youtube.com/watch?v=PTgb01WsOAI)
-- [Building an Innovation Practice with Automation](https://www.youtube.com/watch?v=R01QCAcnCbA)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
