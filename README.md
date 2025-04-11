@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Multi-Domain Automation with Cisco NSO - Part 2](https://www.youtube.com/watch?v=aS3NgdQqFXk)
+- [Multi-Domain Automation with Cisco NSO - Part 1](https://www.youtube.com/watch?v=E3oePJLKDhc)
+- [Automating a national network with open-source](https://www.youtube.com/watch?v=Qqorpvgw080)
 - [Building a production-grade automation platform with Infrahub](https://www.youtube.com/watch?v=E3KLBzyNBrU)
 - [Leveraging Secure Zero Touch Provisioning for Catalyst Device Onboarding](https://www.youtube.com/watch?v=jNNDMp51NbQ)
-- [Zero-Touch Network Deployment with Catalyst Center &amp; NetBox](https://www.youtube.com/watch?v=uH660CAAg_8)
-- [AI State Graphs for network troubleshooting](https://www.youtube.com/watch?v=i6P-aXiXlIo)
-- [AI Defense Policies: Protecting Your Agents from Prompt Injection &amp; Privacy Risks](https://www.youtube.com/watch?v=PTgb01WsOAI)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
