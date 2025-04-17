@@ -37,9 +37,9 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Automating a national network with open-source](https://www.youtube.com/watch?v=Qqorpvgw080)
 - [Multi-Domain Automation with Cisco NSO - Part 2](https://www.youtube.com/watch?v=aS3NgdQqFXk)
 - [Multi-Domain Automation with Cisco NSO - Part 1](https://www.youtube.com/watch?v=E3oePJLKDhc)
-- [Automating a national network with open-source](https://www.youtube.com/watch?v=Qqorpvgw080)
 - [Building a production-grade automation platform with Infrahub](https://www.youtube.com/watch?v=E3KLBzyNBrU)
 - [Leveraging Secure Zero Touch Provisioning for Catalyst Device Onboarding](https://www.youtube.com/watch?v=jNNDMp51NbQ)
 <!-- YOUTUBE:END -->
