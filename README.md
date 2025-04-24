@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Multi-Domain Automation with Cisco NSO - Part 1](https://www.youtube.com/watch?v=E3oePJLKDhc)
+- [What is eBPF? | eBPF Book Club](https://www.youtube.com/watch?v=Y33Uvwi6Jmw)
 - [BayLISA meetup - April 2025](https://www.youtube.com/watch?v=8bO4wWw_u7g)
 - [Automating a national network with open-source](https://www.youtube.com/watch?v=Qqorpvgw080)
 - [Multi-Domain Automation with Cisco NSO - Part 2](https://www.youtube.com/watch?v=aS3NgdQqFXk)
-- [Multi-Domain Automation with Cisco NSO - Part 1](https://www.youtube.com/watch?v=E3oePJLKDhc)
-- [Building a production-grade automation platform with Infrahub](https://www.youtube.com/watch?v=E3KLBzyNBrU)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
