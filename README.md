@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Multi-Domain Automation with Cisco NSO - Part 2](https://www.youtube.com/watch?v=aS3NgdQqFXk)
 - [New updates for YANG Suite in 2025](https://www.youtube.com/watch?v=LRG5W3FMibg)
+- [What is eBPF? | eBPF Book Club](https://www.youtube.com/watch?v=Y33Uvwi6Jmw)
+- [Auditing Meraki Networks at Scale: Lessons from Building CheckMate](https://www.youtube.com/watch?v=0crB77IwnRY)
+- [Multi-Domain Automation with Cisco NSO - Part 2](https://www.youtube.com/watch?v=aS3NgdQqFXk)
 - [Discover the Power of MCP Inspector #MCP #internetofagents #aiagents](https://www.youtube.com/watch?v=REN_nrh_LKs)
-- [MCP for DevOps - Architecture &amp; Components](https://www.youtube.com/watch?v=Qdms0EHwhOw)
-- [Multi-Domain Automation with Cisco NSO - Part 1](https://www.youtube.com/watch?v=E3oePJLKDhc)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
