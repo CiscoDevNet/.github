@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Explore Cisco IOS XE Automation at Cisco Live US 2025](https://blogs.cisco.com/developer/cisco-ios-xe-automation-clus25/)
 - [BayLISA and Cisco DevNet – Tech meetups in person and online](https://blogs.cisco.com/developer/baylisa-and-devnet/)
 - [MCP for DevOps, NetOps, and SecOps: Real-World Use Cases and Future Insights](https://blogs.cisco.com/developer/mcp-usecases/)
 - [MCP for DevOps – Series Opener and MCP Architecture Intro](https://blogs.cisco.com/developer/mcp-for-devops/)
 - [Cisco Meraki Add-on for Splunk, New and Improved!](https://blogs.cisco.com/developer/cisco-meraki-add-on-for-splunk-new-and-improved/)
-- [Rate limit Management and Troubleshooting with the new Meraki “API Analytics Dashboard”](https://blogs.cisco.com/developer/rate-limit-management-and-troubleshooting-with-the-new-meraki-api-analytics-dashboard/)
 <!-- BLOG-POST-LIST:END -->
