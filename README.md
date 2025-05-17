@@ -37,9 +37,9 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [BayLISA meetup - May 2025](https://www.youtube.com/watch?v=CZnxUxNwYS0)
 - [Building a production-grade automation platform with InfraHub &lpar;cont.&rpar;](https://www.youtube.com/watch?v=SlncONsRyX4)
 - [Auditing Meraki Networks at Scale: Lessons from Building CheckMate](https://www.youtube.com/watch?v=0crB77IwnRY)
-- [BayLISA meetup - May 2025](https://www.youtube.com/watch?v=CZnxUxNwYS0)
 - [New Always-On DevNet Sandbox for Cisco Catalyst 8000 &amp; Catalyst 9000](https://www.youtube.com/watch?v=eqAwzJge1RU)
 - [MCP for DevOps - Use Cases](https://www.youtube.com/watch?v=NXFzZsvhJR8)
 <!-- YOUTUBE:END -->
