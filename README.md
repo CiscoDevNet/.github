@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Automating DevOps with Cursor + MCP: Smarter GitHub Workflows &amp; NetBox Labs Inventory](https://www.youtube.com/watch?v=fGQ_gl_RQ_M)
 - [SRE &amp; DevOps Insights with Matt Shooshtari. Tools, Scaling &amp; Best Practices  | DevNet Decoded](https://www.youtube.com/watch?v=JvcXITepzpU)
 - [Building a production-grade automation platform with InfraHub &lpar;cont.&rpar;](https://www.youtube.com/watch?v=SlncONsRyX4)
 - [BayLISA meetup - May 2025](https://www.youtube.com/watch?v=CZnxUxNwYS0)
 - [Auditing Meraki Networks at Scale: Lessons from Building CheckMate](https://www.youtube.com/watch?v=0crB77IwnRY)
-- [New Always-On DevNet Sandbox for Cisco Catalyst 8000 &amp; Catalyst 9000](https://www.youtube.com/watch?v=eqAwzJge1RU)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
