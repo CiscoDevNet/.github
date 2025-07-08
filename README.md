@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Detect and Protect AI Assets – Stops AI Cyber Threats Before They Strike](https://www.youtube.com/watch?v=k5xk6OE4bJw)
+- [How Models, Agents, and Vector Databases Work - And Why Security Matters](https://www.youtube.com/watch?v=-2EvSJKRUaw)
+- [Cisco AI Defense: Real-time Security for Your AI Workloads &amp; Data](https://www.youtube.com/watch?v=4D3J7RmkneE)
 - [Modern Network Observability](https://www.youtube.com/watch?v=GFETzK1Ji68)
 - [Thank You for an Amazing Week! | DevNet Zone Highlights from #CiscoLive](https://www.youtube.com/watch?v=3w2pW6gTa-E)
-- [DevNet Zone at Cisco Live San Diego 2025](https://www.youtube.com/watch?v=UUk4vQ1_AuE)
-- [Cisco Live DevNet Zone: Day 1 RECAP! | Get Ready for Day 2!](https://www.youtube.com/watch?v=6jj3LYdPfMA)
-- [Automating DevOps with Cursor + MCP: Smarter GitHub Workflows &amp; NetBox Labs Inventory](https://www.youtube.com/watch?v=fGQ_gl_RQ_M)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
