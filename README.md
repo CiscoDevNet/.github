@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Security, Privacy, and Safety – AI Defense Runtime Protection and Guardrails](https://www.youtube.com/watch?v=IqlzjmVfx5A)
 - [Detect and Protect AI Assets – Stops AI Cyber Threats Before They Strike](https://www.youtube.com/watch?v=k5xk6OE4bJw)
 - [How Models, Agents, and Vector Databases Work - And Why Security Matters](https://www.youtube.com/watch?v=-2EvSJKRUaw)
 - [Cisco AI Defense: Real-time Security for Your AI Workloads &amp; Data](https://www.youtube.com/watch?v=4D3J7RmkneE)
 - [Modern Network Observability](https://www.youtube.com/watch?v=GFETzK1Ji68)
-- [Thank You for an Amazing Week! | DevNet Zone Highlights from #CiscoLive](https://www.youtube.com/watch?v=3w2pW6gTa-E)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
