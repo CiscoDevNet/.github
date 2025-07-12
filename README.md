@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Post-Quantum Cryptography Affects Security and Encryption Algorithms](https://blogs.cisco.com/developer/how-post-quantum-cryptography-affects-security-and-encryption-algorithms/)
 - [The Silent Role of Mathematics and Algorithms in MCP &amp; Multi-Agent Systems](https://blogs.cisco.com/developer/the-silent-role-of-mathematics-and-algorithms-in-mcp-multi-agent-systems/)
 - [What’s New in MCP : Elicitation, Structured Content, and OAuth Enhancements](https://blogs.cisco.com/developer/whats-new-in-mcp-elicitation-structured-content-and-oauth-enhancements/)
 - [Your Guide to Cisco APIs at Cisco Live 2025: Empowering IT Teams in the DevNet Zone](https://blogs.cisco.com/developer/cisco-apis-devnet-guide-clus2025/)
 - [Explore Cisco IOS XE Automation at Cisco Live US 2025](https://blogs.cisco.com/developer/cisco-ios-xe-automation-clus25/)
-- [BayLISA and Cisco DevNet – Tech meetups in person and online](https://blogs.cisco.com/developer/baylisa-and-devnet/)
 <!-- BLOG-POST-LIST:END -->
