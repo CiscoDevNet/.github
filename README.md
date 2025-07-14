@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Exploring the Webex Developer Beta Program Engage, Test, and Innovate](https://www.youtube.com/watch?v=JmiE2M_RKp4)
+- [Reusable integrations made easy with the Integrations Studio for Webex Connect](https://www.youtube.com/watch?v=7xMAMa2pohc)
 - [Instant Connect Effortless, Account Free Meetings](https://www.youtube.com/watch?v=OpMIfDsv_qk)
 - [Security, Privacy, and Safety – AI Defense Runtime Protection and Guardrails](https://www.youtube.com/watch?v=IqlzjmVfx5A)
 - [Detect and Protect AI Assets – Stops AI Cyber Threats Before They Strike](https://www.youtube.com/watch?v=k5xk6OE4bJw)
-- [How Models, Agents, and Vector Databases Work - And Why Security Matters](https://www.youtube.com/watch?v=-2EvSJKRUaw)
-- [Cisco AI Defense: Real-time Security for Your AI Workloads &amp; Data](https://www.youtube.com/watch?v=4D3J7RmkneE)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
