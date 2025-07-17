@@ -38,10 +38,10 @@
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Connect an LLM to your Source of Truth using MCP](https://www.youtube.com/watch?v=dASOWWReAoM)
+- [MCP and pyATS](https://www.youtube.com/watch?v=epE_YwbylFM)
+- [BayLISA meetup - July 2025](https://www.youtube.com/watch?v=qLXZc8N8Mqs)
+- [Isovalent Kubernetes Summer School Overview](https://www.youtube.com/watch?v=-IObptjaIv8)
 - [Discover and Build with Webex Service Apps](https://www.youtube.com/watch?v=Kgc6DOJ5Uuw)
-- [Exploring the Webex Developer Beta Program Engage, Test, and Innovate](https://www.youtube.com/watch?v=JmiE2M_RKp4)
-- [Reusable integrations made easy with the Integrations Studio for Webex Connect](https://www.youtube.com/watch?v=7xMAMa2pohc)
-- [Instant Connect Effortless, Account Free Meetings](https://www.youtube.com/watch?v=OpMIfDsv_qk)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
