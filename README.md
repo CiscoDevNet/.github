@@ -37,10 +37,10 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [BayLISA meetup - July 2025](https://www.youtube.com/watch?v=qLXZc8N8Mqs)
 - [Kubernetes Networking and Cilium – Network Engineer&#39;s Instruction Manual](https://www.youtube.com/watch?v=BD3eKt62JDY)
 - [Connect an LLM to your Source of Truth using MCP](https://www.youtube.com/watch?v=dASOWWReAoM)
 - [MCP and pyATS](https://www.youtube.com/watch?v=epE_YwbylFM)
-- [BayLISA meetup - July 2025](https://www.youtube.com/watch?v=qLXZc8N8Mqs)
 - [Isovalent Kubernetes Summer School Overview](https://www.youtube.com/watch?v=-IObptjaIv8)
 <!-- YOUTUBE:END -->
 
