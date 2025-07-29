@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Ansible &amp; AIOps](https://www.youtube.com/watch?v=TIRpDptnS2g)
+- [Kubernetes Networking and Cilium – Network Engineer&#39;s Instruction Manual](https://www.youtube.com/watch?v=BD3eKt62JDY)
 - [The Illustrated Children&#39;s Guide to eBPF](https://www.youtube.com/watch?v=BssW2Hm0GbI)
 - [Cisco Cloud Security App for Splunk: Installation &amp; Overview](https://www.youtube.com/watch?v=xRnuyn2euFE)
 - [MCP and pyATS](https://www.youtube.com/watch?v=epE_YwbylFM)
-- [BayLISA meetup - July 2025](https://www.youtube.com/watch?v=qLXZc8N8Mqs)
-- [Kubernetes Networking and Cilium – Network Engineer&#39;s Instruction Manual](https://www.youtube.com/watch?v=BD3eKt62JDY)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
