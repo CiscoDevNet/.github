@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Lessons Learned: Developing an MCP Server for Network Devices](https://www.youtube.com/watch?v=ealNsG2YkEs)
 - [The Pillars of Successful Network Automation with Ansible | Ep. 71](https://www.youtube.com/watch?v=X0B40IPfERc)
 - [Ansible &amp; AIOps](https://www.youtube.com/watch?v=TIRpDptnS2g)
 - [Kubernetes Networking and Cilium – Network Engineer&#39;s Instruction Manual](https://www.youtube.com/watch?v=BD3eKt62JDY)
 - [The Illustrated Children&#39;s Guide to eBPF](https://www.youtube.com/watch?v=BssW2Hm0GbI)
-- [Cisco Cloud Security App for Splunk: Installation &amp; Overview](https://www.youtube.com/watch?v=xRnuyn2euFE)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
