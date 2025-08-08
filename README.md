@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Consume Cisco APIs the easy way with wingpy | Ep. 72](https://www.youtube.com/watch?v=BkkSxMwJg0I)
 - [The Pillars of Successful Network Automation with Ansible | Ep. 71](https://www.youtube.com/watch?v=X0B40IPfERc)
 - [The Illustrated Children&#39;s Guide to eBPF](https://www.youtube.com/watch?v=BssW2Hm0GbI)
 - [Lessons Learned: Developing an MCP Server for Network Devices](https://www.youtube.com/watch?v=ealNsG2YkEs)
 - [Ansible &amp; AIOps](https://www.youtube.com/watch?v=TIRpDptnS2g)
-- [Kubernetes Networking and Cilium – Network Engineer&#39;s Instruction Manual](https://www.youtube.com/watch?v=BD3eKt62JDY)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
