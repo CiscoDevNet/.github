@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [BayLISA meetup - August 2025](https://www.youtube.com/watch?v=tR34PZX4dk8)
+- [Live Chat With New DevNet Team Members | DevNet Decoded](https://www.youtube.com/watch?v=5CxVgPnzPtg)
 - [Consume Cisco APIs the easy way with wingpy | Ep. 72](https://www.youtube.com/watch?v=BkkSxMwJg0I)
 - [Overview of the Catalyst 8/9k Single Instance Sandbox](https://www.youtube.com/watch?v=9EdwdsJikAI)
 - [The Pillars of Successful Network Automation with Ansible | Ep. 71](https://www.youtube.com/watch?v=X0B40IPfERc)
-- [The Illustrated Children&#39;s Guide to eBPF](https://www.youtube.com/watch?v=BssW2Hm0GbI)
-- [Lessons Learned: Developing an MCP Server for Network Devices](https://www.youtube.com/watch?v=ealNsG2YkEs)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
