@@ -37,10 +37,10 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Live Chat With New DevNet Team Members | DevNet Decoded](https://www.youtube.com/watch?v=5CxVgPnzPtg)
 - [Developing and integrating with Cisco XDR | Ep. 73](https://www.youtube.com/watch?v=fNECcpiymaY)
 - [Innovate Faster A Deep Dive into the New Webex Developer Portal and AI Assistant](https://www.youtube.com/watch?v=K4lzI8Y_KYs)
 - [BayLISA meetup - August 2025](https://www.youtube.com/watch?v=tR34PZX4dk8)
-- [Live Chat With New DevNet Team Members | DevNet Decoded](https://www.youtube.com/watch?v=5CxVgPnzPtg)
 - [Consume Cisco APIs the easy way with wingpy | Ep. 72](https://www.youtube.com/watch?v=BkkSxMwJg0I)
 <!-- YOUTUBE:END -->
 
