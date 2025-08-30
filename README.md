@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Modern Network Observability &lpar;cont.&rpar; | Ep. 74](https://www.youtube.com/watch?v=9y-uu62NKt4)
 - [BayLISA meetup - August 2025](https://www.youtube.com/watch?v=tR34PZX4dk8)
 - [Exploring Cisco Cloud Security Add-On for Splunk](https://www.youtube.com/watch?v=_tkGkwF68Vw)
 - [Developing and integrating with Cisco XDR | Ep. 73](https://www.youtube.com/watch?v=fNECcpiymaY)
 - [Exploring the Secure Equipment Access Sandbox](https://www.youtube.com/watch?v=_rKy-jEOLQk)
-- [Live Chat With New DevNet Team Members | DevNet Decoded](https://www.youtube.com/watch?v=5CxVgPnzPtg)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
