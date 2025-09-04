@@ -37,8 +37,8 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Ansible Workflows for Cisco Automation | Ep. 75](https://www.youtube.com/watch?v=F5zqvWLEX54)
 - [Modern Network Observability &lpar;cont.&rpar; | Ep. 74](https://www.youtube.com/watch?v=9y-uu62NKt4)
+- [Ansible Workflows for Cisco Automation | Ep. 75](https://www.youtube.com/watch?v=F5zqvWLEX54)
 - [BayLISA meetup - August 2025](https://www.youtube.com/watch?v=tR34PZX4dk8)
 - [Exploring Cisco Cloud Security Add-On for Splunk](https://www.youtube.com/watch?v=_tkGkwF68Vw)
 - [Developing and integrating with Cisco XDR | Ep. 73](https://www.youtube.com/watch?v=fNECcpiymaY)
