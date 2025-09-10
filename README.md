@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Preparing Security Teams for the Cryptographic Transition | The Quantum Unboxing](https://www.youtube.com/watch?v=hqBo6t4QKDE)
+- [Workflows - The Advanced Multi-Domain Automation Engine You Have | Ep. 79](https://www.youtube.com/watch?v=f-fIygV8Cjk)
+- [MCP for Network Platforms: Unifying Catalyst Center and Meraki | Ep. 77](https://www.youtube.com/watch?v=ERn8L-g5Mf0)
+- [Unified Network and Security Analytics | Ep. 76](https://www.youtube.com/watch?v=Ir6BHiDefhE)
 - [Modern Network Observability &lpar;cont.&rpar; | Ep. 74](https://www.youtube.com/watch?v=9y-uu62NKt4)
-- [Ansible Workflows for Cisco Automation | Ep. 75](https://www.youtube.com/watch?v=F5zqvWLEX54)
-- [BayLISA meetup - August 2025](https://www.youtube.com/watch?v=tR34PZX4dk8)
-- [Exploring Cisco Cloud Security Add-On for Splunk](https://www.youtube.com/watch?v=_tkGkwF68Vw)
-- [Developing and integrating with Cisco XDR | Ep. 73](https://www.youtube.com/watch?v=fNECcpiymaY)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
