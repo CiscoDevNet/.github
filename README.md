@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlock Unified Network and Security Analytics with Cisco and Splunk](https://blogs.cisco.com/developer/cisco-splunk-analytics/)
 - [Ansible Workflows for Cisco Automation: Watch the First NetGru Replay](https://blogs.cisco.com/developer/ansible-catalyst-automation/)
 - [AI-Powered APIs and API-Enabled AI: A Symbiotic Evolution Driving Mutual Innovation](https://blogs.cisco.com/developer/ai-powered-apis-and-api-enabled-ai-a-symbiotic-evolution-driving-mutual-innovation/)
 - [Building a Scalable E-Commerce Platform at Cisco: From DevNet to Company-Wide Impact](https://blogs.cisco.com/developer/building-a-scalable-e-commerce-platform-at-cisco-from-devnet-to-company-wide-impact/)
 - [Leading Through Change: How Cisco DevNet Engineering Sustained Excellence Amid Disruption](https://blogs.cisco.com/developer/leading-through-change-how-cisco-devnet-engineering-sustained-excellence-amid-disruption/)
-- [How Post-Quantum Cryptography Affects Security and Encryption Algorithms](https://blogs.cisco.com/developer/how-post-quantum-cryptography-affects-security-and-encryption-algorithms/)
 <!-- BLOG-POST-LIST:END -->
