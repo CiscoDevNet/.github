@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Unified Network and Security Analytics | Ep. 76](https://www.youtube.com/watch?v=Ir6BHiDefhE)
 - [Ansible Workflows for Cisco Automation | Ep. 75](https://www.youtube.com/watch?v=F5zqvWLEX54)
 - [BayLISA meetup - September 2025](https://www.youtube.com/watch?v=Jk4_44cldOE)
 - [Preparing Security Teams for the Cryptographic Transition | The Quantum Unboxing](https://www.youtube.com/watch?v=hqBo6t4QKDE)
 - [Workflows - The Advanced Multi-Domain Automation Engine You Have | Ep. 79](https://www.youtube.com/watch?v=f-fIygV8Cjk)
-- [MCP for Network Platforms: Unifying Catalyst Center and Meraki | Ep. 77](https://www.youtube.com/watch?v=ERn8L-g5Mf0)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
