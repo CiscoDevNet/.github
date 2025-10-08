@@ -1,6 +1,7 @@
 # Cisco DevNet
 
-If you are looking to update the readme displayed on https://github.com/CiscoDevNet go to the [profile/README](profile/README.md) file.
+> [!IMPORTANT]  
+> If you are looking to update the readme displayed on https://github.com/CiscoDevNet go to the [profile/README](profile/README.md) file.
 
 <img src="./images/devnet_banner.jpeg" align="right" alt="DevNet Banner" /> <p>Cisco DevNet, found at [developer.cisco.com](https://developer.cisco.com), is Cisco’s developer program to help developers and IT professionals who want to write applications and develop integrations with Cisco products, platforms, and APIs. Cisco DevNet includes Cisco’s products in software-defined networking, security, cloud, data center, internet of things, collaboration, and Cisco customer experience. The [developer.cisco.com](https://developer.cisco.com) site also provides [docs](https://developer.cisco.com/docs), [tutorials](https://developer.cisco.com/learning), and [sandbox environments](https://developer.cisco.com/site/sandbox) as well as video series to learn coding and testing apps.</p>
 
