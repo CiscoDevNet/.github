@@ -46,9 +46,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Run Your IoT Applications on an IP67 Industrial Router](https://blogs.cisco.com/developer/applicationsonip67)
-- [Perfect is the Enemy of the Good: A Lesson on Uptime](https://blogs.cisco.com/developer/perfectisenemyofgood01)
-- [Take a Look at Cisco ThousandEyes for Cloud Developers](https://blogs.cisco.com/developer/thousandeyesforclouddevelopers01)
-- [Try Automating a YubiKey Button Press](https://blogs.cisco.com/developer/automatingyubikey01)
-- [Cisco Cloud Native Security – Part 3, GitOps and CI/CD](https://blogs.cisco.com/developer/cloudnativesecurity03)
+- [Your Direct Line to Cisco Automation: Ask Ed Novak About Workflows](https://blogs.cisco.com/developer/cisco-workflows-live/)
+- [From Query to Action with MCP Servers](https://blogs.cisco.com/developer/mcp-catalyst-meraki/)
+- [AI Agents for Network and Security: Expectations vs Reality](https://blogs.cisco.com/developer/ai-agents-for-network-and-security-expectations-vs-reality/)
+- [Unlock Unified Network and Security Analytics with Cisco and Splunk](https://blogs.cisco.com/developer/cisco-splunk-analytics/)
+- [Ansible Workflows for Cisco Automation: Watch the First NetGru Replay](https://blogs.cisco.com/developer/ansible-catalyst-automation/)
 <!-- BLOG-POST-LIST:END -->
