@@ -12,6 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in blogs.cisco.com/developer posts
-        uses: gautamkrishnar/blog-post-workflow@1.7.2
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "http://blogs.cisco.com/developer/feed"
+          readme_path: ./profile/README.md
