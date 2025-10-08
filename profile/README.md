@@ -37,11 +37,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Learn about the new reservable Cisco Certified Internetwork Expert &lpar;CCIE&rpar; practice labs! Ep 59.](https://www.youtube.com/watch?v=rbIktoldsrY)
-- [Cisco ThousandEyes for CloudDevs - Part 3](https://www.youtube.com/watch?v=JLhUChLC4ms)
-- [Cisco ThousandEyes for CloudDevs - Part 1](https://www.youtube.com/watch?v=d4-6qzP2DfY)
-- [Network Security Automation with Cisco Secure Firewall &amp; Hashicorp&#39;s Consul Terraform Sync](https://www.youtube.com/watch?v=sEvNaed5DTI)
-- [See the new updates and sneak peeks of new features with YANG Suite. Ep 58.](https://www.youtube.com/watch?v=soyWPr0fJ0s)
+- [Hack the RADKit! Integrating Cisco RADKit &amp; Grafana – Ep.1. Architecture &amp; Onboarding Explained](https://www.youtube.com/watch?v=eEiOFS819YM)
+- [Python Typing: For a more maintainable codebase | Ep. 78](https://www.youtube.com/watch?v=4XtqZc00js4)
+- [MCP for Network Platforms: Unifying Catalyst Center and Meraki | Ep. 77](https://www.youtube.com/watch?v=ERn8L-g5Mf0)
+- [BayLISA meetup - September 2025](https://www.youtube.com/watch?v=Jk4_44cldOE)
+- [Unified Network and Security Analytics | Ep. 76](https://www.youtube.com/watch?v=Ir6BHiDefhE)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
