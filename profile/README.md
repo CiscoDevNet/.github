@@ -31,7 +31,7 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Direct Line to Cisco Automation: Ask Ed Novak About Workflows](https://blogs.cisco.com/developer/cisco-workflows-live/)
+- [What Cisco Workflows Can Do ~ Now That It’s Live and GA](https://blogs.cisco.com/developer/cisco-workflows-live/)
 - [From Query to Action with MCP Servers](https://blogs.cisco.com/developer/mcp-catalyst-meraki/)
 - [AI Agents for Network and Security: Expectations vs Reality](https://blogs.cisco.com/developer/ai-agents-for-network-and-security-expectations-vs-reality/)
 - [Unlock Unified Network and Security Analytics with Cisco and Splunk](https://blogs.cisco.com/developer/cisco-splunk-analytics/)
