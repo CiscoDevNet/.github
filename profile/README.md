@@ -31,9 +31,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Cisco Workflows Can Do ~ Now That It’s Live and GA](https://blogs.cisco.com/developer/cisco-workflows-live/)
+- [What Workflows for Cisco Networking Can Do](https://blogs.cisco.com/developer/cisco-workflows-live/)
+- [No More Yak-Shaving: Why Every Network Automation Project Needs a Versionable Dev Environment](https://blogs.cisco.com/developer/versionable-dev-environment-network-automation/)
 - [From Query to Action with MCP Servers](https://blogs.cisco.com/developer/mcp-catalyst-meraki/)
 - [AI Agents for Network and Security: Expectations vs Reality](https://blogs.cisco.com/developer/ai-agents-for-network-and-security-expectations-vs-reality/)
 - [Unlock Unified Network and Security Analytics with Cisco and Splunk](https://blogs.cisco.com/developer/cisco-splunk-analytics/)
-- [Ansible Workflows for Cisco Automation: Watch the First NetGru Replay](https://blogs.cisco.com/developer/ansible-catalyst-automation/)
 <!-- BLOG-POST-LIST:END -->
