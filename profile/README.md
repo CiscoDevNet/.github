@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Revolutionizing NetOps with Virtual Operators: A2A, MCP, and ACP | Ep. 81](https://www.youtube.com/watch?v=SSC26N6g6iw)
+- [Automated Network Troubleshooting using Splunk, AI and Ansible EDA | Ep. 80](https://www.youtube.com/watch?v=aqnrOcdowlE)
 - [Workflows - The Advanced Multi-Domain Automation Engine You Have | Ep. 79](https://www.youtube.com/watch?v=f-fIygV8Cjk)
 - [Hack the RADKit! Integrating Cisco RADKit &amp; Grafana – Ep.1. Architecture &amp; Onboarding Explained](https://www.youtube.com/watch?v=eEiOFS819YM)
 - [Python Typing: For a more maintainable codebase | Ep. 78](https://www.youtube.com/watch?v=4XtqZc00js4)
-- [MCP for Network Platforms: Unifying Catalyst Center and Meraki | Ep. 77](https://www.youtube.com/watch?v=ERn8L-g5Mf0)
-- [BayLISA meetup - September 2025](https://www.youtube.com/watch?v=Jk4_44cldOE)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
