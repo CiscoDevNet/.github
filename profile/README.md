@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Top Open-Source Projects for Quantum Part 1 | The Quantum Unboxing](https://www.youtube.com/watch?v=M68MsL1DBLg)
 - [Revolutionizing NetOps with Virtual Operators: A2A, MCP, and ACP | Ep. 81](https://www.youtube.com/watch?v=SSC26N6g6iw)
 - [Automated Network Troubleshooting using Splunk, AI and Ansible EDA | Ep. 80](https://www.youtube.com/watch?v=aqnrOcdowlE)
 - [Workflows - The Advanced Multi-Domain Automation Engine You Have | Ep. 79](https://www.youtube.com/watch?v=f-fIygV8Cjk)
 - [Hack the RADKit! Integrating Cisco RADKit &amp; Grafana – Ep.1. Architecture &amp; Onboarding Explained](https://www.youtube.com/watch?v=eEiOFS819YM)
-- [Python Typing: For a more maintainable codebase | Ep. 78](https://www.youtube.com/watch?v=4XtqZc00js4)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
