@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Revolutionizing NetOps with Virtual Operators: A2A, MCP, and ACP | Ep. 81](https://www.youtube.com/watch?v=SSC26N6g6iw)
+- [Modern Network Observability &lpar;round 3&rpar; | Ep. 82](https://www.youtube.com/watch?v=wZj8uEimQQs)
 - [Automating Cisco ISE: APIs, SQL &amp; Ansible in Action | Security Automation](https://www.youtube.com/watch?v=bMlpL6m5_IE)
 - [Cisco AI Model for Security FoundationAI-SecurityLLM-8B #CybersecurityAwarenessMonth](https://www.youtube.com/watch?v=DshZ36HP4A0)
 - [Automated Network Troubleshooting using Splunk, AI and Ansible EDA | Ep. 80](https://www.youtube.com/watch?v=aqnrOcdowlE)
-- [Hack the RADKit! Integrating Cisco RADKit &amp; Grafana – Ep.2. Launching &amp; Building API Endpoints](https://www.youtube.com/watch?v=3zIe6ayzM4c)
-- [Top Open-Source Projects for Quantum Part 1 | The Quantum Unboxing](https://www.youtube.com/watch?v=M68MsL1DBLg)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
