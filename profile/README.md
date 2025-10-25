@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Mostly Human Show | Episode 1](https://www.youtube.com/watch?v=yZgLZSPaOkI)
 - [Hack the RADKit! Integrating Cisco RADKit &amp; Grafana | Ep.3. Crafting my dashboard and scheduler](https://www.youtube.com/watch?v=Ecq4PbfrJpY)
 - [Developing MCP Servers for Network Automation, Architecture and Use Cases](https://www.youtube.com/watch?v=ePskBF1DZCY)
 - [Revolutionizing NetOps with Virtual Operators: A2A, MCP, and ACP | Ep. 81](https://www.youtube.com/watch?v=SSC26N6g6iw)
 - [Modern Network Observability &lpar;round 3&rpar; | Ep. 82](https://www.youtube.com/watch?v=wZj8uEimQQs)
-- [Automating Cisco ISE: APIs, SQL &amp; Ansible in Action | Security Automation](https://www.youtube.com/watch?v=bMlpL6m5_IE)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
