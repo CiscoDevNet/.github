@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Agentic Impressions: Building Next-Gen Agents with Current LLMs](https://www.youtube.com/watch?v=VmS-aBIsmN8)
+- [Securing AI Agent Generated Code with Project CodeGuard](https://www.youtube.com/watch?v=O03MDxUWjsE)
 - [Mostly Human Show | Episode 1](https://www.youtube.com/watch?v=yZgLZSPaOkI)
 - [Hack the RADKit! Integrating Cisco RADKit &amp; Grafana | Ep.3. Crafting my dashboard and scheduler](https://www.youtube.com/watch?v=Ecq4PbfrJpY)
 - [Developing MCP Servers for Network Automation, Architecture and Use Cases](https://www.youtube.com/watch?v=ePskBF1DZCY)
-- [Revolutionizing NetOps with Virtual Operators: A2A, MCP, and ACP | Ep. 81](https://www.youtube.com/watch?v=SSC26N6g6iw)
-- [Modern Network Observability &lpar;round 3&rpar; | Ep. 82](https://www.youtube.com/watch?v=wZj8uEimQQs)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
