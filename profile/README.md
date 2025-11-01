@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Mostly Human Show | Episode 2](https://www.youtube.com/watch?v=leqAevMY4yI)
 - [Building a Python network emulator | Ep. 83](https://www.youtube.com/watch?v=JXZZ1oGzioU)
 - [Modern Network Observability &lpar;round 3&rpar; | Ep. 82](https://www.youtube.com/watch?v=wZj8uEimQQs)
 - [Agentic Impressions: Building Next-Gen Agents with Current LLMs](https://www.youtube.com/watch?v=VmS-aBIsmN8)
 - [Securing AI Agent Generated Code with Project CodeGuard](https://www.youtube.com/watch?v=O03MDxUWjsE)
-- [Mostly Human Show | Episode 1](https://www.youtube.com/watch?v=yZgLZSPaOkI)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
