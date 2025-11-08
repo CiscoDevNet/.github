@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Mostly Human Show | Episode 3](https://www.youtube.com/watch?v=rGgKwtpVe34)
 - [Developing MCP Servers for Network Automation, Architecture and Use Cases](https://www.youtube.com/watch?v=ePskBF1DZCY)
 - [Building a Python network emulator | Ep. 83](https://www.youtube.com/watch?v=JXZZ1oGzioU)
 - [Securing AI Agent Generated Code with Project CodeGuard](https://www.youtube.com/watch?v=O03MDxUWjsE)
 - [Mostly Human Show | Episode 2](https://www.youtube.com/watch?v=leqAevMY4yI)
-- [Modern Network Observability &lpar;round 3&rpar; | Ep. 82](https://www.youtube.com/watch?v=wZj8uEimQQs)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
