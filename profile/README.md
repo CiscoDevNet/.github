@@ -31,9 +31,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Cisco Secure Access Python SDK](https://blogs.cisco.com/developer/new-cisco-secure-access-python-sdk/)
 - [Cisco AI Networking for Developers: What’s New](https://blogs.cisco.com/developer/cisco-ai-networking/)
 - [What Workflows for Cisco Networking Can Do](https://blogs.cisco.com/developer/cisco-workflows-live/)
 - [No More Yak-Shaving: Why Every Network Automation Project Needs a Versionable Dev Environment](https://blogs.cisco.com/developer/versionable-dev-environment-network-automation/)
 - [From Query to Action with MCP Servers](https://blogs.cisco.com/developer/mcp-catalyst-meraki/)
-- [AI Agents for Network and Security: Expectations vs Reality](https://blogs.cisco.com/developer/ai-agents-for-network-and-security-expectations-vs-reality/)
 <!-- BLOG-POST-LIST:END -->
