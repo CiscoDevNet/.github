@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Mostly Human Show | Episode 4](https://www.youtube.com/watch?v=clZIQATbSBc)
+- [Agent Memory Systems: Beyond Context Windows](https://www.youtube.com/watch?v=S5ujg-zq65E)
 - [Network as Code solutions and tools by Cisco Customer Experience](https://www.youtube.com/watch?v=WRuwGSZDQdI)
 - [Mostly Human Show | Episode 3](https://www.youtube.com/watch?v=rGgKwtpVe34)
 - [Developing MCP Servers for Network Automation, Architecture and Use Cases](https://www.youtube.com/watch?v=ePskBF1DZCY)
-- [Building a Python network emulator | Ep. 83](https://www.youtube.com/watch?v=JXZZ1oGzioU)
-- [Securing AI Agent Generated Code with Project CodeGuard](https://www.youtube.com/watch?v=O03MDxUWjsE)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
