@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [BayLISA meetup - November 2025](https://www.youtube.com/watch?v=ZIavqXwLHD0)
+- [Network-Aware Distributed Quantum Computing Compiler | The Quantum Unboxing](https://www.youtube.com/watch?v=Eqk96H8SdTc)
+- [Hack the RADKit! Chatting with My Network via FastMCP](https://www.youtube.com/watch?v=lsj05owx2Q0)
 - [Mostly Human Show | Episode 4](https://www.youtube.com/watch?v=clZIQATbSBc)
 - [Agent Memory Systems: Beyond Context Windows](https://www.youtube.com/watch?v=S5ujg-zq65E)
-- [Network as Code solutions and tools by Cisco Customer Experience](https://www.youtube.com/watch?v=WRuwGSZDQdI)
-- [Mostly Human Show | Episode 3](https://www.youtube.com/watch?v=rGgKwtpVe34)
-- [Developing MCP Servers for Network Automation, Architecture and Use Cases](https://www.youtube.com/watch?v=ePskBF1DZCY)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
