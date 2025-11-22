@@ -23,10 +23,10 @@
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [BayLISA meetup - November 2025](https://www.youtube.com/watch?v=ZIavqXwLHD0)
+- [Mostly Human Show | Episode 5](https://www.youtube.com/watch?v=f4515fG71jc)
 - [Network-Aware Distributed Quantum Computing Compiler | The Quantum Unboxing](https://www.youtube.com/watch?v=Eqk96H8SdTc)
 - [Hack the RADKit! Chatting with My Network via FastMCP](https://www.youtube.com/watch?v=lsj05owx2Q0)
 - [Mostly Human Show | Episode 4](https://www.youtube.com/watch?v=clZIQATbSBc)
-- [Agent Memory Systems: Beyond Context Windows](https://www.youtube.com/watch?v=S5ujg-zq65E)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
