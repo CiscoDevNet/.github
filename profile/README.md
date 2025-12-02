@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [​​Automating Cisco XDR: External Threat Feeds, Part 1 | DevNet Ignite Security](https://www.youtube.com/watch?v=T0G_OVfUC8U)
 - [BayLISA meetup - November 2025](https://www.youtube.com/watch?v=ZIavqXwLHD0)
 - [Mostly Human Show | Episode 5](https://www.youtube.com/watch?v=f4515fG71jc)
 - [Network-Aware Distributed Quantum Computing Compiler | The Quantum Unboxing](https://www.youtube.com/watch?v=Eqk96H8SdTc)
 - [Hack the RADKit! Chatting with My Network via FastMCP](https://www.youtube.com/watch?v=lsj05owx2Q0)
-- [Mostly Human Show | Episode 4](https://www.youtube.com/watch?v=clZIQATbSBc)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
