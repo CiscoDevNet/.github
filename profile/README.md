@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Network Modernization with the Latest Innovations in Cisco IOS XE | Ep. 84](https://www.youtube.com/watch?v=e5l4oibfJOM)
 - [​​Automating Cisco XDR: External Threat Feeds, Part 1 | DevNet Ignite Security](https://www.youtube.com/watch?v=T0G_OVfUC8U)
 - [BayLISA meetup - November 2025](https://www.youtube.com/watch?v=ZIavqXwLHD0)
 - [Mostly Human Show | Episode 5](https://www.youtube.com/watch?v=f4515fG71jc)
 - [Network-Aware Distributed Quantum Computing Compiler | The Quantum Unboxing](https://www.youtube.com/watch?v=Eqk96H8SdTc)
-- [Hack the RADKit! Chatting with My Network via FastMCP](https://www.youtube.com/watch?v=lsj05owx2Q0)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
