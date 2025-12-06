@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Mostly Human Show | Episode 6 | Testing Your Model and Knowing When to Try Again](https://www.youtube.com/watch?v=Y8B8FxaCOYc)
 - [Network Modernization with the Latest Innovations in Cisco IOS XE | Ep. 84](https://www.youtube.com/watch?v=e5l4oibfJOM)
 - [Tools to Support Network &amp; Platform Modernization | Ep. 85](https://www.youtube.com/watch?v=gMekf3vGTQ8)
 - [Hack the RADKit! Low-code ChatOps with MCP and n8n](https://www.youtube.com/watch?v=8rE-WYWWIoE)
 - [​​Automating Cisco XDR: External Threat Feeds, Part 1 | DevNet Ignite Security](https://www.youtube.com/watch?v=T0G_OVfUC8U)
-- [BayLISA meetup - November 2025](https://www.youtube.com/watch?v=ZIavqXwLHD0)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
