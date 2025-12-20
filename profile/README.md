@@ -31,9 +31,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kickstart Your 2026 Security Strategy: Master Automation at the DevNet Ignite Security Workshop](https://blogs.cisco.com/developer/devnet-ignite-security-workshop-2026/)
+- [Cisco Meraki + PagerDuty Integration for Faster Incident Response](https://blogs.cisco.com/developer/cisco-meraki-pagerduty-integration/)
 - [New Cisco Secure Access Python SDK](https://blogs.cisco.com/developer/new-cisco-secure-access-python-sdk/)
 - [Cisco AI Networking for Developers: What’s New](https://blogs.cisco.com/developer/cisco-ai-networking/)
 - [What Workflows for Cisco Networking Can Do](https://blogs.cisco.com/developer/cisco-workflows-live/)
-- [No More Yak-Shaving: Why Every Network Automation Project Needs a Versionable Dev Environment](https://blogs.cisco.com/developer/versionable-dev-environment-network-automation/)
-- [From Query to Action with MCP Servers](https://blogs.cisco.com/developer/mcp-catalyst-meraki/)
 <!-- BLOG-POST-LIST:END -->
