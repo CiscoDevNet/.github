@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [AI/LLM-Driven Network Automation with Natural Language | Ep. 87](https://www.youtube.com/watch?v=M9lIB7HrzrE)
+- [Elevating Firewall Automation With SCC Firewall Manager&#39;s MCP Server](https://www.youtube.com/watch?v=FwfQJnJ75ho)
 - [Month of Partner Innovation - PagerDuty in the Meraki Dashboard](https://www.youtube.com/watch?v=mcY83jUtT4c)
 - [Mostly Human Show | Episode 7 | Fine Tune Your AI Model Code Demo](https://www.youtube.com/watch?v=-g1OZpdHqxs)
 - [MCP servers for Campus Refresh | Ep. 86](https://www.youtube.com/watch?v=8DsAQZ1M25I)
-- [Tools to Support Network &amp; Platform Modernization | Ep. 85](https://www.youtube.com/watch?v=gMekf3vGTQ8)
-- [Mostly Human Show | Episode 6 | Testing Your Model and Knowing When to Try Again](https://www.youtube.com/watch?v=Y8B8FxaCOYc)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
