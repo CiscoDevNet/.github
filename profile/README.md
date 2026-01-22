@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Accelerate your tasks with Gemini CLI | Ep. 88](https://www.youtube.com/watch?v=xK2Yn1Psufc)
 - [Elevating Firewall Automation With SCC Firewall Manager&#39;s MCP Server](https://www.youtube.com/watch?v=FwfQJnJ75ho)
 - [Scale Firewall Operations: AI + MCP Workflows for Cisco FMC Policy Validation](https://www.youtube.com/watch?v=CPbA4Smcfes)
 - [Month of Partner Innovation - Splash Access](https://www.youtube.com/watch?v=rf7T2baX3Jk)
 - [AI/LLM-Driven Network Automation with Natural Language | Ep. 87](https://www.youtube.com/watch?v=M9lIB7HrzrE)
-- [AI-Driven Network Automation Recipes and Lessons | Ep. 89](https://www.youtube.com/watch?v=zLfMNsvdIDo)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
