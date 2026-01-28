@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Cisco Secure Access Terraform Provider: Provisioning Workflow](https://www.youtube.com/watch?v=Qocx_XnX4us)
 - [Month of Partner Innovation - Analytiks.ai](https://www.youtube.com/watch?v=UyhWeGLtH_s)
 - [Accelerate your tasks with Gemini CLI | Ep. 88](https://www.youtube.com/watch?v=xK2Yn1Psufc)
 - [Elevating Firewall Automation With SCC Firewall Manager&#39;s MCP Server](https://www.youtube.com/watch?v=FwfQJnJ75ho)
 - [Scale Firewall Operations: AI + MCP Workflows for Cisco FMC Policy Validation](https://www.youtube.com/watch?v=CPbA4Smcfes)
-- [Month of Partner Innovation - Splash Access](https://www.youtube.com/watch?v=rf7T2baX3Jk)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
