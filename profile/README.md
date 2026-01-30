@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Month of Partner Innovation - Boundless Digital](https://www.youtube.com/watch?v=vf8gu5rH5ow)
 - [AI-Driven Network Automation Recipes and Lessons | Ep. 89](https://www.youtube.com/watch?v=zLfMNsvdIDo)
 - [Cisco Secure Access Terraform Provider: Provisioning Workflow](https://www.youtube.com/watch?v=Qocx_XnX4us)
 - [Month of Partner Innovation - Analytiks.ai](https://www.youtube.com/watch?v=UyhWeGLtH_s)
 - [Accelerate your tasks with Gemini CLI | Ep. 88](https://www.youtube.com/watch?v=xK2Yn1Psufc)
-- [Elevating Firewall Automation With SCC Firewall Manager&#39;s MCP Server](https://www.youtube.com/watch?v=FwfQJnJ75ho)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
