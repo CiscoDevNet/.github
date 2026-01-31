@@ -31,9 +31,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [January 2026 – Month of…Partner Innovation](https://blogs.cisco.com/developer/january-2026-month-of-partner-innovation/)
 - [Unlock Real-Time Multi-Cluster Monitoring with Cisco Catalyst Center Global Manager at Cisco Live Amsterdam](https://blogs.cisco.com/developer/unlock-real-time-multi-cluster-monitoring-with-cisco-catalyst-center-global-manager-at-cisco-live-amsterdam/)
 - [Kickstart Your 2026 Security Strategy: Master Automation at the DevNet Ignite Security Workshop](https://blogs.cisco.com/developer/devnet-ignite-security-workshop-2026/)
 - [Cisco Meraki + PagerDuty Integration for Faster Incident Response](https://blogs.cisco.com/developer/cisco-meraki-pagerduty-integration/)
 - [New Cisco Secure Access Python SDK](https://blogs.cisco.com/developer/new-cisco-secure-access-python-sdk/)
-- [Cisco AI Networking for Developers: What’s New](https://blogs.cisco.com/developer/cisco-ai-networking/)
 <!-- BLOG-POST-LIST:END -->
