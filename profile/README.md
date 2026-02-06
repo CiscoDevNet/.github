@@ -31,9 +31,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Elevating Meraki Operations with Red Hat Ansible Automation Platform](https://blogs.cisco.com/developer/elevating-meraki-operations-ansible-automation/)
 - [Developer’s Guide to Cisco Live EMEA 2026: AI, Automation, and Meraki](https://blogs.cisco.com/developer/cisco-live-emea-2026-developer-guide/)
 - [January 2026 – Month of…Partner Innovation](https://blogs.cisco.com/developer/january-2026-month-of-partner-innovation/)
 - [Unlock Real-Time Multi-Cluster Monitoring with Cisco Catalyst Center Global Manager at Cisco Live Amsterdam](https://blogs.cisco.com/developer/unlock-real-time-multi-cluster-monitoring-with-cisco-catalyst-center-global-manager-at-cisco-live-amsterdam/)
 - [Kickstart Your 2026 Security Strategy: Master Automation at the DevNet Ignite Security Workshop](https://blogs.cisco.com/developer/devnet-ignite-security-workshop-2026/)
-- [Cisco Meraki + PagerDuty Integration for Faster Incident Response](https://blogs.cisco.com/developer/cisco-meraki-pagerduty-integration/)
 <!-- BLOG-POST-LIST:END -->
