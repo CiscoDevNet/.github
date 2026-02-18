@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MCP servers and AI Agents at Code Exchange | DevNet Decoded](https://www.youtube.com/watch?v=VZVGSa7jIdU)
 - [Month of Smart Connections | Ep.2: Choose Your Automation Love Language &lpar;Live at CLEUR26&rpar;](https://www.youtube.com/watch?v=EqcBJdX24p8)
 - [Month of Smart Connections | Ep.1: No More Vendor Drama with Cisco NSO](https://www.youtube.com/watch?v=5OG3_zJ25KE)
 - [Month of Partner Innovation - Boundless Digital](https://www.youtube.com/watch?v=vf8gu5rH5ow)
 - [AI-Driven Network Automation Recipes and Lessons | Ep. 89](https://www.youtube.com/watch?v=zLfMNsvdIDo)
-- [Cisco Secure Access Terraform Provider: Provisioning Workflow](https://www.youtube.com/watch?v=Qocx_XnX4us)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
