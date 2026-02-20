@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Month of Smart Connections | Ep.3: Testing Automation So You Can Actually Trust It](https://www.youtube.com/watch?v=AAb5Pw1gFto)
 - [MCP servers and AI Agents at Code Exchange | DevNet Decoded](https://www.youtube.com/watch?v=VZVGSa7jIdU)
 - [Month of Smart Connections | Ep.2: Choose Your Automation Love Language &lpar;Live at CLEUR26&rpar;](https://www.youtube.com/watch?v=EqcBJdX24p8)
 - [Month of Smart Connections | Ep.1: No More Vendor Drama with Cisco NSO](https://www.youtube.com/watch?v=5OG3_zJ25KE)
 - [Month of Partner Innovation - Boundless Digital](https://www.youtube.com/watch?v=vf8gu5rH5ow)
-- [AI-Driven Network Automation Recipes and Lessons | Ep. 89](https://www.youtube.com/watch?v=zLfMNsvdIDo)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
