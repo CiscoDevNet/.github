@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [AI and Agentic security - build, break and secure | Ep. 90](https://www.youtube.com/watch?v=StKDPI6mLLQ)
+- [DOCKER ON SWITCHES? 🐳 Catalyst 9000 Sandboxes are LIVE!](https://www.youtube.com/shorts/Pf1q5AnRTu8)
+- [NO MORE YANG HEADACHES? 🤯 Transforming IOS-XE for Developers!](https://www.youtube.com/shorts/zjf9I9oOP44)
+- [Month of Smart Connections | Ep.4: From Intent to Action with Agentic Automation](https://www.youtube.com/watch?v=YCMW6qSJiD0)
 - [Mostly Human Preview Season 2 from Cisco Live DevNet Zone](https://www.youtube.com/shorts/1mgkAoZ6GtU)
-- [Month of Smart Connections | Ep.3: Testing Automation So You Can Actually Trust It](https://www.youtube.com/watch?v=AAb5Pw1gFto)
-- [MCP servers and AI Agents at Code Exchange | DevNet Decoded](https://www.youtube.com/watch?v=VZVGSa7jIdU)
-- [Month of Smart Connections | Ep.2: Choose Your Automation Love Language &lpar;Live at CLEUR26&rpar;](https://www.youtube.com/watch?v=EqcBJdX24p8)
-- [Month of Smart Connections | Ep.1: No More Vendor Drama with Cisco NSO](https://www.youtube.com/watch?v=5OG3_zJ25KE)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
