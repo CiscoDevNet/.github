@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [DevOps Culture &amp; THE NEW Sandbox Backend! 🚀](https://www.youtube.com/shorts/yQKqAh3f_0w)
+- [Cisco Live Amsterdam RECAP &amp; Vegas Preview! 🇳🇱 ➡️ 🇺🇸](https://www.youtube.com/shorts/jhHJaweIojA)
 - [✨ Agentic Network Automation in Action ✨🤖 Month of Smart Connections | Ep.4](https://www.youtube.com/shorts/1hMtCBbVi4c)
 - [AI and Agentic security - build, break and secure | Ep. 90](https://www.youtube.com/watch?v=StKDPI6mLLQ)
 - [DOCKER ON SWITCHES? 🐳 Catalyst 9000 Sandboxes are LIVE!](https://www.youtube.com/shorts/Pf1q5AnRTu8)
-- [NO MORE YANG HEADACHES? 🤯 Transforming IOS-XE for Developers!](https://www.youtube.com/shorts/zjf9I9oOP44)
-- [Month of Smart Connections | Ep.4: From Intent to Action with Agentic Automation](https://www.youtube.com/watch?v=YCMW6qSJiD0)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
