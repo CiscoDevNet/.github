@@ -31,9 +31,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [February 2026 – Month of Smart Connections](https://blogs.cisco.com/developer/february-2026-month-of-smart-connections/)
 - [New AI repos catalog at Cisco DevNet Code Exchange](https://blogs.cisco.com/developer/ai-repos-cisco-devnet-code-exchange/)
 - [Elevating Meraki Operations with Red Hat Ansible Automation Platform](https://blogs.cisco.com/developer/elevating-meraki-operations-ansible-automation/)
 - [Developer’s Guide to Cisco Live EMEA 2026: AI, Automation, and Meraki](https://blogs.cisco.com/developer/cisco-live-emea-2026-developer-guide/)
 - [January 2026 – Month of…Partner Innovation](https://blogs.cisco.com/developer/january-2026-month-of-partner-innovation/)
-- [Unlock Real-Time Multi-Cluster Monitoring with Cisco Catalyst Center Global Manager at Cisco Live Amsterdam](https://blogs.cisco.com/developer/unlock-real-time-multi-cluster-monitoring-with-cisco-catalyst-center-global-manager-at-cisco-live-amsterdam/)
 <!-- BLOG-POST-LIST:END -->
