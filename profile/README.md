@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Top Open-Source Projects for Quantum. Part 2 | The Quantum Unboxing](https://www.youtube.com/watch?v=v3gHHYEnS1c)
 - [Month of Meraki - Meraki OAuth](https://www.youtube.com/watch?v=pwgMlsTeqOI)
 - [AI and Agentic security - build, break and secure | Ep. 90](https://www.youtube.com/watch?v=StKDPI6mLLQ)
 - [Network Troubleshooting And Monitoring With ThousandEyes MCP Server](https://www.youtube.com/watch?v=zk5_bDlNw3Y)
 - [DevOps Culture &amp; THE NEW Sandbox Backend! 🚀](https://www.youtube.com/shorts/yQKqAh3f_0w)
-- [Cisco Live Amsterdam RECAP &amp; Vegas Preview! 🇳🇱 ➡️ 🇺🇸](https://www.youtube.com/shorts/jhHJaweIojA)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
