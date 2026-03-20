@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Month of Meraki - Cisco Spaces Integration in the Meraki Dashboard](https://www.youtube.com/watch?v=xMc_pd8NjwU)
 - [Do You Want to Build an Agentic Workflow? | Ep. 92](https://www.youtube.com/watch?v=0BOqSi5uqZY)
 - [Transforming Networks with Cisco Workflows | Ep. 93](https://www.youtube.com/watch?v=HEmzLOEGqcE)
 - [Month of Meraki - Add-On For Splunk](https://www.youtube.com/watch?v=_qexFFKRVls)
 - [Swagger Docs &amp; DevNet Sandboxes for IOS XE | Ep. 91](https://www.youtube.com/watch?v=EeYQAZ9ezjI)
-- [Network Troubleshooting And Monitoring With ThousandEyes MCP Server](https://www.youtube.com/watch?v=zk5_bDlNw3Y)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
