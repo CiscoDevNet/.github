@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Transforming Networks with Cisco Workflows | Ep. 93](https://www.youtube.com/watch?v=HEmzLOEGqcE)
+- [Automated Compute Infrastructure Setup with Intersight API | Ep. 94](https://www.youtube.com/watch?v=7HYJJ08CkbA)
 - [Month of Meraki - Cisco Spaces Integration in the Meraki Dashboard](https://www.youtube.com/watch?v=xMc_pd8NjwU)
 - [Do You Want to Build an Agentic Workflow? | Ep. 92](https://www.youtube.com/watch?v=0BOqSi5uqZY)
-- [Transforming Networks with Cisco Workflows | Ep. 93](https://www.youtube.com/watch?v=HEmzLOEGqcE)
 - [Month of Meraki - Add-On For Splunk](https://www.youtube.com/watch?v=_qexFFKRVls)
-- [Swagger Docs &amp; DevNet Sandboxes for IOS XE | Ep. 91](https://www.youtube.com/watch?v=EeYQAZ9ezjI)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
