@@ -31,9 +31,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bringing AI to DevNet Learning Labs](https://blogs.cisco.com/developer/bringing-ai-to-devnet-learning-labs/)
 - [Launch of DevNet Content Search MCP Server](https://blogs.cisco.com/developer/devnet-content-search-mcp-server/)
 - [February 2026 – Month of Smart Connections](https://blogs.cisco.com/developer/february-2026-month-of-smart-connections/)
 - [New AI repos catalog at Cisco DevNet Code Exchange](https://blogs.cisco.com/developer/ai-repos-cisco-devnet-code-exchange/)
 - [Elevating Meraki Operations with Red Hat Ansible Automation Platform](https://blogs.cisco.com/developer/elevating-meraki-operations-ansible-automation/)
-- [Developer’s Guide to Cisco Live EMEA 2026: AI, Automation, and Meraki](https://blogs.cisco.com/developer/cisco-live-emea-2026-developer-guide/)
 <!-- BLOG-POST-LIST:END -->
