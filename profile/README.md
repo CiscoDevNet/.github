@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Secure Access Push Security Events: API, Webhooks &amp; an example integration](https://www.youtube.com/watch?v=i0ZXdzETF8k)
 - [Month of Meraki - Cisco ThousandEyes Integration in the Meraki Dashboard](https://www.youtube.com/watch?v=nljyGy_WMw8)
 - [Transforming Networks with Cisco Workflows | Ep. 93](https://www.youtube.com/watch?v=HEmzLOEGqcE)
 - [Automated Compute Infrastructure Setup with Intersight API | Ep. 94](https://www.youtube.com/watch?v=7HYJJ08CkbA)
 - [Month of Meraki - Cisco Spaces Integration in the Meraki Dashboard](https://www.youtube.com/watch?v=xMc_pd8NjwU)
-- [Do You Want to Build an Agentic Workflow? | Ep. 92](https://www.youtube.com/watch?v=0BOqSi5uqZY)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
