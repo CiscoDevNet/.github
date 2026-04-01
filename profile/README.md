@@ -31,9 +31,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Don’t deploy OpenClaw without securing it – Try this opensource solution and hands-on lab](https://blogs.cisco.com/developer/openclaw-ai-agent-security/)
 - [Bringing AI to DevNet Learning Labs](https://blogs.cisco.com/developer/bringing-ai-to-devnet-learning-labs/)
 - [Launch of DevNet Content Search MCP Server](https://blogs.cisco.com/developer/devnet-content-search-mcp-server/)
 - [February 2026 – Month of Smart Connections](https://blogs.cisco.com/developer/february-2026-month-of-smart-connections/)
 - [New AI repos catalog at Cisco DevNet Code Exchange](https://blogs.cisco.com/developer/ai-repos-cisco-devnet-code-exchange/)
-- [Elevating Meraki Operations with Red Hat Ansible Automation Platform](https://blogs.cisco.com/developer/elevating-meraki-operations-ansible-automation/)
 <!-- BLOG-POST-LIST:END -->
