@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Automated Compute Infrastructure Setup with Intersight API | Ep. 94](https://www.youtube.com/watch?v=7HYJJ08CkbA)
-- [Secure Access Push Security Events: API, Webhooks &amp; an example integration](https://www.youtube.com/watch?v=i0ZXdzETF8k)
-- [Month of Meraki - Cisco ThousandEyes Integration in the Meraki Dashboard](https://www.youtube.com/watch?v=nljyGy_WMw8)
-- [Transforming Networks with Cisco Workflows | Ep. 93](https://www.youtube.com/watch?v=HEmzLOEGqcE)
-- [Month of Meraki - Cisco Spaces Integration in the Meraki Dashboard](https://www.youtube.com/watch?v=xMc_pd8NjwU)
+- [The internet is down 😩 #devnet #thousandeye #cisco #networkautomation #DNS #networkvisibility](https://www.youtube.com/shorts/KPe9bgaYYtU)
+- [Network Data is actionable 🎬 #devnet #wifi7 #thousandeyes #ciscolive #cisco #networkautomation](https://www.youtube.com/shorts/PwNWjbUlqTw)
+- [See the Entire Internet Path 👁️ #devnet #wifi7 #thousandeyes #cisco #networkautomation](https://www.youtube.com/shorts/m3wFAhiiMX4)
+- [Wi Fi 7 Access Points as Sensors📡  #devnet #wifi7 #thousandeyes #ciscolive #cisco #networkautomation](https://www.youtube.com/shorts/SkMzZuvK9hE)
+- [Month of Meraki - Can&#39;t spell AI without API](https://www.youtube.com/watch?v=okBNg5KaENg)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
