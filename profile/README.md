@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Cisco RADKit: Your Network Automation Dev Kit, Fully Unleashed | Ep. 95](https://www.youtube.com/watch?v=C_-Wii3mph8)
-- [The internet is down 😩 #devnet #thousandeye #cisco #networkautomation #DNS #networkvisibility](https://www.youtube.com/shorts/KPe9bgaYYtU)
-- [Network Data is actionable 🎬 #devnet #wifi7 #thousandeyes #ciscolive #cisco #networkautomation](https://www.youtube.com/shorts/PwNWjbUlqTw)
-- [See the Entire Internet Path 👁️ #devnet #wifi7 #thousandeyes #cisco #networkautomation](https://www.youtube.com/shorts/m3wFAhiiMX4)
-- [Wi Fi 7 Access Points as Sensors📡  #devnet #wifi7 #thousandeyes #ciscolive #cisco #networkautomation](https://www.youtube.com/shorts/SkMzZuvK9hE)
+- [The best hidden secret in your network? 🤫](https://www.youtube.com/shorts/W8xrujx-4Vo)
+- [RADKit Remote Access with ZERO open ports? 🔐](https://www.youtube.com/shorts/-DmEHGj5Bms)
+- [Network Inventory with RADkit at the SPEED OF LIGHT ⚡️](https://www.youtube.com/shorts/zMBwNDiO1UA)
+- [From Messy Data to Beautiful JSON w/ RADkit🪄](https://www.youtube.com/shorts/EZDeRcGzu9g)
+- [Get in the RADKit Hall of Fame! 🏆](https://www.youtube.com/shorts/DQfKn7cVF7M)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
