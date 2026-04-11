@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [The best hidden secret in your network? 🤫](https://www.youtube.com/shorts/W8xrujx-4Vo)
-- [RADKit Remote Access with ZERO open ports? 🔐](https://www.youtube.com/shorts/-DmEHGj5Bms)
-- [Network Inventory with RADkit at the SPEED OF LIGHT ⚡️](https://www.youtube.com/shorts/zMBwNDiO1UA)
-- [From Messy Data to Beautiful JSON w/ RADkit🪄](https://www.youtube.com/shorts/EZDeRcGzu9g)
-- [Get in the RADKit Hall of Fame! 🏆](https://www.youtube.com/shorts/DQfKn7cVF7M)
+- [AI that predicts config breaks, generates VPNs &amp; troubleshoots in plain English ⚡](https://www.youtube.com/shorts/NYXpfnqTzqo)
+- [80% of LLM success is NOT the model… it’s THIS 😩](https://www.youtube.com/shorts/kJnrxHzJvXE)
+- [Turn messy network logs into AI that diagnoses issues for you 🧹](https://www.youtube.com/shorts/UQvO6FxnRaw)
+- [Instruction + Input + Output = AI that actually understands networks 🧠](https://www.youtube.com/shorts/jCsPnGWwlG8)
+- [JSONL The format that turns your network data into AI training gold 📊](https://www.youtube.com/shorts/ZLvBN611XOI)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
