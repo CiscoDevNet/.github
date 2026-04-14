@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Set up your dev environment like a pro](https://www.youtube.com/watch?v=gsG6iS52WD4)
 - [AI that predicts config breaks, generates VPNs &amp; troubleshoots in plain English ⚡](https://www.youtube.com/shorts/NYXpfnqTzqo)
 - [80% of LLM success is NOT the model… it’s THIS 😩](https://www.youtube.com/shorts/kJnrxHzJvXE)
 - [Turn messy network logs into AI that diagnoses issues for you 🧹](https://www.youtube.com/shorts/UQvO6FxnRaw)
 - [Instruction + Input + Output = AI that actually understands networks 🧠](https://www.youtube.com/shorts/jCsPnGWwlG8)
-- [JSONL The format that turns your network data into AI training gold 📊](https://www.youtube.com/shorts/ZLvBN611XOI)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
