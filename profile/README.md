@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Search for Networking AI 🔍](https://www.youtube.com/shorts/9A5hML11qic)
+- [Finally: An AI That Actually Knows EIGRP 🧠🔥](https://www.youtube.com/shorts/fkYNSmA7xFA)
+- [Run AI in Just 2 Commands! 🖥️](https://www.youtube.com/shorts/OLt_CV9Jgg0)
+- [AI Size Matters &lpar;for Networking&rpar; 📏](https://www.youtube.com/shorts/S2Ax6iq57hA)
 - [Mostly Human Show | Season 2 | Episode 1 | What is a Knowledge Graph?](https://www.youtube.com/watch?v=Lu4Suma0WwA)
-- [Set up your dev environment like a pro](https://www.youtube.com/watch?v=gsG6iS52WD4)
-- [AI that predicts config breaks, generates VPNs &amp; troubleshoots in plain English ⚡](https://www.youtube.com/shorts/NYXpfnqTzqo)
-- [80% of LLM success is NOT the model… it’s THIS 😩](https://www.youtube.com/shorts/kJnrxHzJvXE)
-- [Turn messy network logs into AI that diagnoses issues for you 🧹](https://www.youtube.com/shorts/UQvO6FxnRaw)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
