@@ -22,11 +22,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Automating ASA-to-Meraki Migrations with AI | Ep. 96](https://www.youtube.com/watch?v=GpG-ZvuosLk)
+- [Make your IDE do the work](https://www.youtube.com/watch?v=CIanphGVfxY)
 - [Network AI Agents in Action | Ep. 97](https://www.youtube.com/watch?v=n_pFRERX5bU)
 - [Search for Networking AI 🔍](https://www.youtube.com/shorts/9A5hML11qic)
 - [Finally: An AI That Actually Knows EIGRP 🧠🔥](https://www.youtube.com/shorts/fkYNSmA7xFA)
-- [Run AI in Just 2 Commands! 🖥️](https://www.youtube.com/shorts/OLt_CV9Jgg0)
-- [AI Size Matters &lpar;for Networking&rpar; 📏](https://www.youtube.com/shorts/S2Ax6iq57hA)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
