@@ -9,16 +9,32 @@
 - Join DevNet to get the tools, resources, and code to build network-enabled solutions https://developer.cisco.com/join/devnet/
 
 <h3 align="left">Connect with DevNet:</h3>
-<p align="left">
-<a href="https://twitter.com/ciscodevnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ciscodevnet" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/company/cisco-devnet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/cisco-devnet/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ciscodevnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ciscodevnet" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ciscodevnet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ciscodevnet/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ciscodevnetchannel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/ciscodevnetchannel" height="30" width="40" /></a>
-</p>
+
+<table><tr>
+<td align="center"><a href="https://twitter.com/ciscodevnet"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="28" height="28" /></a></td>
+<td align="center"><a href="https://www.linkedin.com/company/cisco-devnet/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="28" height="28" /></a></td>
+<td align="center"><a href="https://www.facebook.com/ciscodevnet"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="28" height="28" /></a></td>
+<td align="center"><a href="https://www.instagram.com/ciscodevnet/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="28" height="28" /></a></td>
+<td align="center"><a href="https://www.youtube.com/c/ciscodevnetchannel"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="28" height="28" /></a></td>
+<td align="center"><a href="https://podcasts.apple.com/us/podcast/cisco-devnet/id1856337121"><img src="https://cdn.simpleicons.org/applepodcasts" alt="Apple Podcasts" width="28" height="28" /></a></td>
+<td align="center"><a href="https://open.spotify.com/show/5YiExu4YjWOROUnURbqxZm"><img src="https://cdn.simpleicons.org/spotify" alt="Spotify" width="28" height="28" /></a></td>
+</tr></table>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+
+<table><tr>
+<td align="center"><a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="28" height="28" /></a></td>
+<td align="center"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="28" height="28" /></a></td>
+<td align="center"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="28" height="28" /></a></td>
+<td align="center"><a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="28" height="28" /></a></td>
+<td align="center"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="28" height="28" /></a></td>
+<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="28" height="28" /></a></td>
+<td align="center"><a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="28" height="28" /></a></td>
+<td align="center"><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="28" height="28" /></a></td>
+<td align="center"><a href="https://www.vagrantup.com/"><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="Vagrant" width="28" height="28" /></a></td>
+<td align="center"><a href="https://modelcontextprotocol.io/"><img src="https://cdn.simpleicons.org/modelcontextprotocol" alt="MCP" width="28" height="28" /></a></td>
+<td align="center"><a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain" alt="LangChain" width="28" height="28" /></a></td>
+</tr></table>
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
