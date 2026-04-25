@@ -38,11 +38,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Debug Python the right way](https://www.youtube.com/watch?v=LJcPCSoeH0M)
 - [Automating ASA-to-Meraki Migrations with AI | Ep. 96](https://www.youtube.com/watch?v=GpG-ZvuosLk)
 - [Mostly Human Show | Season 2 | Episode 2 | Build Your First Network Knowledge Graph](https://www.youtube.com/watch?v=jQOFw93amz8)
 - [Make your IDE do the work](https://www.youtube.com/watch?v=CIanphGVfxY)
 - [Network AI Agents in Action | Ep. 97](https://www.youtube.com/watch?v=n_pFRERX5bU)
-- [Search for Networking AI 🔍](https://www.youtube.com/shorts/9A5hML11qic)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
