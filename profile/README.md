@@ -47,9 +47,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Recap Scaling the Future: Reddit AMA on Network Automation at Scale](https://blogs.cisco.com/developer/cisco-network-automation-reddit-ama-recap/)
+- [Product sprints for developer-oriented portals and content](https://blogs.cisco.com/developer/product-sprints-for-developer-oriented-portals-and-content/)
 - [Scaling the Future: Join Our Reddit AMA on Network Automation at Scale](https://blogs.cisco.com/developer/cisco-reddit-ama-network-automation-at-scale/)
 - [Celebrating the Month of Meraki](https://blogs.cisco.com/developer/celebrating-the-month-of-meraki/)
 - [Don’t deploy OpenClaw without securing it – Try this opensource solution and hands-on lab](https://blogs.cisco.com/developer/openclaw-ai-agent-security/)
-- [Bringing AI to DevNet Learning Labs](https://blogs.cisco.com/developer/bringing-ai-to-devnet-learning-labs/)
-- [Launch of DevNet Content Search MCP Server](https://blogs.cisco.com/developer/devnet-content-search-mcp-server/)
 <!-- BLOG-POST-LIST:END -->
