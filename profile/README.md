@@ -47,9 +47,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Try Cisco AI Defense Explorer Edition in this hands-on lab](https://blogs.cisco.com/developer/ai-defense-explorer-lab/)
 - [Recap Scaling the Future: Reddit AMA on Network Automation at Scale](https://blogs.cisco.com/developer/cisco-network-automation-reddit-ama-recap/)
 - [Product sprints for developer-oriented portals and content](https://blogs.cisco.com/developer/product-sprints-for-developer-oriented-portals-and-content/)
 - [Scaling the Future: Join Our Reddit AMA on Network Automation at Scale](https://blogs.cisco.com/developer/cisco-reddit-ama-network-automation-at-scale/)
 - [Celebrating the Month of Meraki](https://blogs.cisco.com/developer/celebrating-the-month-of-meraki/)
-- [Don’t deploy OpenClaw without securing it – Try this opensource solution and hands-on lab](https://blogs.cisco.com/developer/openclaw-ai-agent-security/)
 <!-- BLOG-POST-LIST:END -->
