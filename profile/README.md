@@ -38,11 +38,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Mostly Human Show | Season 2 | Episode 4 | Open Source Observability feat Splunk](https://www.youtube.com/watch?v=AJamgtahusk)
 - [Dev Containers, Debugging, and Network Automation | Ep. 98](https://www.youtube.com/watch?v=8_cZirzXbbk)
 - [Run Your Project Anywhere](https://www.youtube.com/watch?v=LUIh9ZdwDgU)
 - [Network AI Agents in Action | Ep. 97](https://www.youtube.com/watch?v=n_pFRERX5bU)
 - [Mostly Human Show | Season 2 | Episode 3 | Beyond MCP Servers](https://www.youtube.com/watch?v=eflKltxx8HU)
-- [Debug Python the right way](https://www.youtube.com/watch?v=LJcPCSoeH0M)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
