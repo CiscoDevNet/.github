@@ -38,11 +38,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Mostly Human Show | Season 2 | Episode 5 | How do Agents Reason Through Knowledge Graphs?](https://www.youtube.com/watch?v=Nbe1GZi0ANQ)
+- [Connecting Distributed Agents Securely with SLIM | Ep. 99](https://www.youtube.com/watch?v=FJXMDWwUPCo)
 - [How to Enhance Vibe Coding with AI Spec Driven Development and Cisco U](https://www.youtube.com/watch?v=Oa477yqOrqs)
 - [Dev Containers, Debugging, and Network Automation | Ep. 98](https://www.youtube.com/watch?v=8_cZirzXbbk)
 - [Mostly Human Show | Season 2 | Episode 4 | Open Source Observability feat Splunk](https://www.youtube.com/watch?v=AJamgtahusk)
-- [Run Your Project Anywhere](https://www.youtube.com/watch?v=LUIh9ZdwDgU)
-- [Network AI Agents in Action | Ep. 97](https://www.youtube.com/watch?v=n_pFRERX5bU)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
