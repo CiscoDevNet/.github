@@ -38,11 +38,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Takes Two To Tango: multi-model and centaur workflows | Ep. 100](https://www.youtube.com/watch?v=H7sRQk76DxU)
 - [Code is The New CLI | Session 04: Infrastructure &amp; Automation Part 2](https://www.youtube.com/watch?v=lKlhL_tq2kE)
 - [Code is The New CLI | Session 03: Infrastructure &amp; Automation Part 1](https://www.youtube.com/watch?v=3mJTiCkngEE)
 - [Code is The New CLI | Session 02: Network Interaction and IaC principles](https://www.youtube.com/watch?v=KFFj6zE9s_E)
 - [Code is The New CLI | Session 01: Git, Foundations and Data Handling](https://www.youtube.com/watch?v=yZlw-VB9U3k)
-- [Connecting Distributed Agents Securely with SLIM | Ep. 99](https://www.youtube.com/watch?v=FJXMDWwUPCo)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
