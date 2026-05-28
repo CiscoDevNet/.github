@@ -38,9 +38,9 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Coding the Network: From Network as Code Fundamentals to AIOps | Ep. 101](https://www.youtube.com/watch?v=bz8rHu-2cuM)
 - [BayLISA meetup - May 2026](https://www.youtube.com/watch?v=eqbgFvzlVbw)
 - [Takes Two To Tango: multi-model and centaur workflows | Ep. 100](https://www.youtube.com/watch?v=H7sRQk76DxU)
-- [Coding the Network: From Network as Code Fundamentals to AIOps | Ep. 101](https://www.youtube.com/watch?v=bz8rHu-2cuM)
 - [Security Threat Hunting with Agentic Workflow](https://www.youtube.com/watch?v=irp_dwgEwMc)
 - [Code is The New CLI | Session 04: Infrastructure &amp; Automation Part 2](https://www.youtube.com/watch?v=lKlhL_tq2kE)
 <!-- YOUTUBE:END -->
