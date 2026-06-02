@@ -38,11 +38,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Getting Started with Netlab - Network Labs Made Easy | Ep. 103](https://www.youtube.com/watch?v=yR5xr7UuJpw)
+- [DevNet Zone at Cisco Live Las Vegas 2026 | Ep. 102](https://www.youtube.com/watch?v=pzdy9quy4wE)
 - [Agentic Software Engineering: The Rise of AI Teammates | DevNet Research](https://www.youtube.com/watch?v=5a37FkzRbPs)
 - [Coding the Network: From Network as Code Fundamentals to AIOps | Ep. 101](https://www.youtube.com/watch?v=bz8rHu-2cuM)
 - [BayLISA meetup - May 2026](https://www.youtube.com/watch?v=eqbgFvzlVbw)
-- [Takes Two To Tango: multi-model and centaur workflows | Ep. 100](https://www.youtube.com/watch?v=H7sRQk76DxU)
-- [Security Threat Hunting with Agentic Workflow](https://www.youtube.com/watch?v=irp_dwgEwMc)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
