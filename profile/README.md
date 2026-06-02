@@ -47,9 +47,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DevNet Sandbox: Building the Future of Developer Experiences](https://blogs.cisco.com/developer/devnet-sandbox-rebuild-future-developer-experiences/)
 - [Explore Enterprise Networking Automation at Cisco Live US 2026](https://blogs.cisco.com/developer/explore-enterprise-networking-automation-at-cisco-live-us-2026/)
 - [Month of Developer Productivity: Build and Forget](https://blogs.cisco.com/developer/month-of-developer-productivity-build-and-forget/)
 - [Try Cisco AI Defense Explorer Edition in this hands-on lab](https://blogs.cisco.com/developer/ai-defense-explorer-lab/)
 - [Recap Scaling the Future: Reddit AMA on Network Automation at Scale](https://blogs.cisco.com/developer/cisco-network-automation-reddit-ama-recap/)
-- [Product sprints for developer-oriented portals and content](https://blogs.cisco.com/developer/product-sprints-for-developer-oriented-portals-and-content/)
 <!-- BLOG-POST-LIST:END -->
