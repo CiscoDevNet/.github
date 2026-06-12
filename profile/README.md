@@ -38,11 +38,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Quantum computers and encryption threats](https://www.youtube.com/shorts/VAWXZ89Fkc0)
+- [Making Your WAN Quantum Safe with IOS XE | The Quantum Unboxing](https://www.youtube.com/watch?v=oyKa7i8qEjE)
 - [Getting Started with Netlab - Network Labs Made Easy | Ep. 103](https://www.youtube.com/watch?v=yR5xr7UuJpw)
 - [Agentic Software Engineering: The Rise of AI Teammates | DevNet Research](https://www.youtube.com/watch?v=5a37FkzRbPs)
 - [DevNet Zone at Cisco Live Las Vegas 2026 | Ep. 102](https://www.youtube.com/watch?v=pzdy9quy4wE)
-- [Have You Ever Seen a Quantum Networking Switch?](https://www.youtube.com/shorts/OxulbSHuUrA)
-- [Coding the Network: From Network as Code Fundamentals to AIOps | Ep. 101](https://www.youtube.com/watch?v=bz8rHu-2cuM)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
