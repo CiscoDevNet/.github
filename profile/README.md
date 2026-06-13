@@ -38,11 +38,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Not an Assistant, A Coworker: AI Network Ops | Ep. 105](https://www.youtube.com/watch?v=TsCuyOzrl0w)
+- [Research: Developers say they would not want to do 50% of their work without AI](https://www.youtube.com/shorts/pJxHRqAdn0w)
 - [Quantum computers and encryption threats](https://www.youtube.com/shorts/VAWXZ89Fkc0)
 - [Making Your WAN Quantum Safe with IOS XE | The Quantum Unboxing](https://www.youtube.com/watch?v=oyKa7i8qEjE)
 - [Getting Started with Netlab - Network Labs Made Easy | Ep. 103](https://www.youtube.com/watch?v=yR5xr7UuJpw)
-- [Agentic Software Engineering: The Rise of AI Teammates | DevNet Research](https://www.youtube.com/watch?v=5a37FkzRbPs)
-- [DevNet Zone at Cisco Live Las Vegas 2026 | Ep. 102](https://www.youtube.com/watch?v=pzdy9quy4wE)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
