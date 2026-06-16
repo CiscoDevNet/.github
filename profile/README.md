@@ -38,11 +38,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Network Automation with Netmiko, NAPALM, and Nornir | Ep. 104](https://www.youtube.com/watch?v=YaTbMlhOeyo)
 - [Not an Assistant, A Coworker: AI Network Ops | Ep. 105](https://www.youtube.com/watch?v=TsCuyOzrl0w)
 - [Research: Developers say they would not want to do 50% of their work without AI](https://www.youtube.com/shorts/pJxHRqAdn0w)
 - [Quantum computers and encryption threats](https://www.youtube.com/shorts/VAWXZ89Fkc0)
 - [Making Your WAN Quantum Safe with IOS XE | The Quantum Unboxing](https://www.youtube.com/watch?v=oyKa7i8qEjE)
-- [Getting Started with Netlab - Network Labs Made Easy | Ep. 103](https://www.youtube.com/watch?v=yR5xr7UuJpw)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
