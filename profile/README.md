@@ -38,11 +38,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Modernizing the Campus Network for the Quantum Era | The Quantum Unboxing](https://www.youtube.com/watch?v=jtsJHOx1Jjk)
 - [Not an Assistant, A Coworker: AI Network Ops | Ep. 105](https://www.youtube.com/watch?v=TsCuyOzrl0w)
 - [Thank you for being part of the DevNet Zone at #CLUS26!](https://www.youtube.com/shorts/W8fM6xnRKBc)
 - [Pushing Secure Access Alerts and Security Events to Splunk Natively](https://www.youtube.com/watch?v=j1F1P6XUVKE)
 - [How Quantum Impacts the Optical Transport Layer](https://www.youtube.com/watch?v=QRVfFQLh1E0)
-- [Network Automation with Netmiko, NAPALM, and Nornir | Ep. 104](https://www.youtube.com/watch?v=YaTbMlhOeyo)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
