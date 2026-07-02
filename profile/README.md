@@ -38,11 +38,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Why AI Agents Still Need You | DevNet Research](https://www.youtube.com/watch?v=t1say2bYPSs)
 - [Reliable Automation: Service Testing with pyATS | Ep. 106](https://www.youtube.com/watch?v=PptYPOUbtQQ)
 - [Modernizing the Campus Network for the Quantum Era | The Quantum Unboxing](https://www.youtube.com/watch?v=jtsJHOx1Jjk)
 - [Not an Assistant, A Coworker: AI Network Ops | Ep. 105](https://www.youtube.com/watch?v=TsCuyOzrl0w)
 - [Thank you for being part of the DevNet Zone at #CLUS26!](https://www.youtube.com/shorts/W8fM6xnRKBc)
-- [Pushing Secure Access Alerts and Security Events to Splunk Natively](https://www.youtube.com/watch?v=j1F1P6XUVKE)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
