@@ -47,9 +47,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond CMDB Sync: Cisco Catalyst Center for ITSM Workflows](https://blogs.cisco.com/developer/beyond-cmdb-sync-cisco-catalyst-center-for-itsm-workflows/)
 - [Is Your VPN Ready for the Quantum Era? – Quantum Series, Part 1](https://blogs.cisco.com/developer/is-your-vpn-ready-for-the-quantum-era-quantum-series-part-1/)
 - [Share Your Experience: Where the Human Voice Thrives in the Age of AI](https://blogs.cisco.com/developer/the-human-voice-thrives-in-the-age-of-ai/)
 - [DevNet Sandbox: Building the Future of Developer Experiences](https://blogs.cisco.com/developer/devnet-sandbox-rebuild-future-developer-experiences/)
 - [Explore Enterprise Networking Automation at Cisco Live US 2026](https://blogs.cisco.com/developer/explore-enterprise-networking-automation-at-cisco-live-us-2026/)
-- [Month of Developer Productivity: Build and Forget](https://blogs.cisco.com/developer/month-of-developer-productivity-build-and-forget/)
 <!-- BLOG-POST-LIST:END -->
