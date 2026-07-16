@@ -38,11 +38,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [BayLISA meetup - July 2026](https://www.youtube.com/watch?v=YBxXF0wuc1U)
+- [Network AI Agents in Action - Part 2 | Ep. 107](https://www.youtube.com/watch?v=ot5vnWVDHxk)
+- [Reliable Automation: Service Testing with pyATS | Ep. 106](https://www.youtube.com/watch?v=PptYPOUbtQQ)
 - [World of Quantum for Network Engineers | The Quantum Unboxing](https://www.youtube.com/watch?v=xkgPwBx9Wns)
 - [Cisco IOS XE YANG Documentation Hub](https://www.youtube.com/watch?v=aWgoBeXJLb4)
-- [AIOps: Manage your ACI Fabric using MCP](https://www.youtube.com/watch?v=ONOgrUq3Z5w)
-- [Why AI Agents Still Need You | DevNet Research](https://www.youtube.com/watch?v=t1say2bYPSs)
-- [Reliable Automation: Service Testing with pyATS | Ep. 106](https://www.youtube.com/watch?v=PptYPOUbtQQ)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
