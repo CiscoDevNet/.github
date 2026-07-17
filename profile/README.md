@@ -38,7 +38,7 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [BayLISA meetup - July 2026](https://www.youtube.com/watch?v=YBxXF0wuc1U)
+- [eBPF for Security Engineers](https://www.youtube.com/watch?v=bfhdoUPZfPE)
 - [Network AI Agents in Action - Part 2 | Ep. 107](https://www.youtube.com/watch?v=ot5vnWVDHxk)
 - [Reliable Automation: Service Testing with pyATS | Ep. 106](https://www.youtube.com/watch?v=PptYPOUbtQQ)
 - [World of Quantum for Network Engineers | The Quantum Unboxing](https://www.youtube.com/watch?v=xkgPwBx9Wns)
