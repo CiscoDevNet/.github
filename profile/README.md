@@ -47,9 +47,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ML-KEM vs Diffie-Hellman: The Showdown – IPsec Series, Part 3](https://blogs.cisco.com/developer/ml-kem-vs-diffie-hellman-the-showdown-ipsec-series-part-3/)
 - [Harvest Now, Decrypt Later: The Threat to Key Exchange – IPsec Series, Part 2](https://blogs.cisco.com/developer/harvest-now-decrypt-later-the-threat-to-key-exchange-quantum-series-part-2/)
 - [Beyond CMDB Sync: Cisco Catalyst Center for ITSM Workflows](https://blogs.cisco.com/developer/beyond-cmdb-sync-cisco-catalyst-center-for-itsm-workflows/)
 - [Is Your VPN Ready for the Quantum Era? – IPsec Series, Part 1](https://blogs.cisco.com/developer/is-your-vpn-ready-for-the-quantum-era-quantum-series-part-1/)
 - [Share Your Experience: Where the Human Voice Thrives in the Age of AI](https://blogs.cisco.com/developer/the-human-voice-thrives-in-the-age-of-ai/)
-- [DevNet Sandbox: Building the Future of Developer Experiences](https://blogs.cisco.com/developer/devnet-sandbox-rebuild-future-developer-experiences/)
 <!-- BLOG-POST-LIST:END -->
