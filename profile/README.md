@@ -38,11 +38,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Automated Network Testing with pyATS](https://www.youtube.com/watch?v=EUErwwdIpkk)
 - [Network AI Agents in Action - Part 2 | Ep. 107](https://www.youtube.com/watch?v=ot5vnWVDHxk)
 - [Getting Started with Netlab - Network Labs Made Easy - Part 2 | Ep. 108](https://www.youtube.com/watch?v=tZRbSu9eg44)
 - [eBPF for Security Engineers](https://www.youtube.com/watch?v=bfhdoUPZfPE)
 - [Reliable Automation: Service Testing with pyATS | Ep. 106](https://www.youtube.com/watch?v=PptYPOUbtQQ)
-- [World of Quantum for Network Engineers | The Quantum Unboxing](https://www.youtube.com/watch?v=xkgPwBx9Wns)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
