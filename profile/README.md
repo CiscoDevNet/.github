@@ -47,9 +47,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Different Road to Quantum Safety: The PPK – IPsec Series, Part 5](https://blogs.cisco.com/developer/a-different-road-to-quantum-safety-the-ppk-ipsec-series-part-5/)
 - [Watch a Hybrid Post-Quantum Handshake on the Wire – IPsec Series, Part 4](https://blogs.cisco.com/developer/watch-a-hybrid-post-quantum-handshake-on-the-wire-ipsec-series-part-4/)
 - [ML-KEM vs Diffie-Hellman: The Showdown – IPsec Series, Part 3](https://blogs.cisco.com/developer/ml-kem-vs-diffie-hellman-the-showdown-ipsec-series-part-3/)
 - [Harvest Now, Decrypt Later: The Threat to Key Exchange – IPsec Series, Part 2](https://blogs.cisco.com/developer/harvest-now-decrypt-later-the-threat-to-key-exchange-quantum-series-part-2/)
 - [Beyond CMDB Sync: Cisco Catalyst Center for ITSM Workflows](https://blogs.cisco.com/developer/beyond-cmdb-sync-cisco-catalyst-center-for-itsm-workflows/)
-- [Is Your VPN Ready for the Quantum Era? – IPsec Series, Part 1](https://blogs.cisco.com/developer/is-your-vpn-ready-for-the-quantum-era-quantum-series-part-1/)
 <!-- BLOG-POST-LIST:END -->
