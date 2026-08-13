@@ -38,8 +38,8 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Say It, Don&#39;t Script It: Automating CML | Ep. 109](https://www.youtube.com/watch?v=62FhYlXaRz0)
 - [Proactive Defense: Building Honeytoken Traps with Python &amp; Splunk | Ep. 110](https://www.youtube.com/watch?v=GkWNW3Vq8Nw)
+- [Say It, Don&#39;t Script It: Automating CML | Ep. 109](https://www.youtube.com/watch?v=62FhYlXaRz0)
 - [Network Observability with Streaming Telemetry](https://www.youtube.com/watch?v=eq642x54lM4)
 - [Getting Started with Netlab - Network Labs Made Easy - Part 2 | Ep. 108](https://www.youtube.com/watch?v=tZRbSu9eg44)
 - [Automated Network Testing with pyATS](https://www.youtube.com/watch?v=EUErwwdIpkk)
