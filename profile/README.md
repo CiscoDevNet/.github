@@ -38,11 +38,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [BayLISA meetup - August 2026](https://www.youtube.com/watch?v=fgvNvtlMxqk)
 - [AI Agents for Your Network: Query &amp; Automate Workflow with CAIPE | Ep. 111](https://www.youtube.com/watch?v=JgIHj85RZCE)
 - [Intro To Secure Access MCP Server](https://www.youtube.com/watch?v=tc1lsig-XpI)
 - [Proactive Defense: Building Honeytoken Traps with Python &amp; Splunk | Ep. 110](https://www.youtube.com/watch?v=GkWNW3Vq8Nw)
 - [Say It, Don&#39;t Script It: Automating CML | Ep. 109](https://www.youtube.com/watch?v=62FhYlXaRz0)
-- [Network Observability with Streaming Telemetry](https://www.youtube.com/watch?v=eq642x54lM4)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
