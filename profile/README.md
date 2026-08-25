@@ -47,9 +47,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mutual Post-Quantum Auth over IKEv2 – IPsec Series, Part 8](https://blogs.cisco.com/developer/mutual-post-quantum-auth-over-ikev2-ipsec-series-part-8/)
 - [The Great Certificate Size Explosion – IPsec Series, Part 7](https://blogs.cisco.com/developer/the-great-certificate-size-explosion-ipsec-series-part-7/)
 - [Build agentic networking experiences with Meraki and Catalyst Center MCP servers](https://blogs.cisco.com/developer/build-agentic-networking-experiences-with-meraki-and-catalyst-center-mcp-servers/)
 - [Who Goes There? Post-Quantum Authentication – IPsec Series, Part 6](https://blogs.cisco.com/developer/who-goes-there-post-quantum-authentication-ipsec-series-part-6/)
 - [Beyond the Protocol: Applying API Engineering Practices to MCP Servers](https://blogs.cisco.com/developer/beyond-the-protocol-applying-api-engineering-practices-to-mcp-servers/)
-- [A Different Road to Quantum Safety: The PPK – IPsec Series, Part 5](https://blogs.cisco.com/developer/a-different-road-to-quantum-safety-the-ppk-ipsec-series-part-5/)
 <!-- BLOG-POST-LIST:END -->
