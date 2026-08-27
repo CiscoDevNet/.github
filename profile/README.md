@@ -39,10 +39,10 @@
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [The Atomic Shift: Understanding Atomic Operations for Network Mgmt | Ep.112](https://www.youtube.com/watch?v=xBr6keizBsA)
+- [How ChatGPT works: LLMs from Scratch! | Ep. 113](https://www.youtube.com/watch?v=5LlDn59re94)
 - [BayLISA meetup - August 2026](https://www.youtube.com/watch?v=fgvNvtlMxqk)
 - [AI Agents for Your Network: Query &amp; Automate Workflow with CAIPE | Ep. 111](https://www.youtube.com/watch?v=JgIHj85RZCE)
 - [Intro To Secure Access MCP Server](https://www.youtube.com/watch?v=tc1lsig-XpI)
-- [Proactive Defense: Building Honeytoken Traps with Python &amp; Splunk | Ep. 110](https://www.youtube.com/watch?v=GkWNW3Vq8Nw)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
