@@ -47,9 +47,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Post-Quantum Key Exchange on Cisco Routers – IPsec Series, Part 9](https://blogs.cisco.com/developer/post-quantum-key-exchange-on-cisco-routers-ipsec-series-part-9/)
 - [Deep Dive: Automating NetOps with the cisco.catalystcenter Ansible Collection](https://blogs.cisco.com/developer/deep-dive-automating-netops-with-the-cisco-catalystcenter-ansible-collection/)
 - [Mutual Post-Quantum Auth over IKEv2 – IPsec Series, Part 8](https://blogs.cisco.com/developer/mutual-post-quantum-auth-over-ikev2-ipsec-series-part-8/)
 - [The Great Certificate Size Explosion – IPsec Series, Part 7](https://blogs.cisco.com/developer/the-great-certificate-size-explosion-ipsec-series-part-7/)
 - [Build agentic networking experiences with Meraki and Catalyst Center MCP servers](https://blogs.cisco.com/developer/build-agentic-networking-experiences-with-meraki-and-catalyst-center-mcp-servers/)
-- [Who Goes There? Post-Quantum Authentication – IPsec Series, Part 6](https://blogs.cisco.com/developer/who-goes-there-post-quantum-authentication-ipsec-series-part-6/)
 <!-- BLOG-POST-LIST:END -->
