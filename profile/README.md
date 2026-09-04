@@ -38,11 +38,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Ep1 DevNet Latin and Hispanic Heritage Month | #devnet #netauto #devrel #hispanicheritagemonth](https://www.youtube.com/shorts/Aj50f94tHhU)
+- [DevNet Latin and Hispanic Heritage Month | Ep.1: De México a Cracovia - Una Historia de Network Auto](https://www.youtube.com/watch?v=DFgz8h4Dqqw)
 - [How ChatGPT works: LLMs from Scratch! | Ep. 113](https://www.youtube.com/watch?v=5LlDn59re94)
 - [The Atomic Shift: Understanding Atomic Operations for Network Mgmt | Ep.112](https://www.youtube.com/watch?v=xBr6keizBsA)
 - [BayLISA meetup - August 2026](https://www.youtube.com/watch?v=fgvNvtlMxqk)
-- [AI Agents for Your Network: Query &amp; Automate Workflow with CAIPE | Ep. 111](https://www.youtube.com/watch?v=JgIHj85RZCE)
-- [Intro To Secure Access MCP Server](https://www.youtube.com/watch?v=tc1lsig-XpI)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
