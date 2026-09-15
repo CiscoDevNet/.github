@@ -38,11 +38,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [The Path to OpenShift Virtualization | Ep. 115](https://www.youtube.com/watch?v=kZFMEcJtNEQ)
 - [DevNet Latin and Hispanic Heritage Month | Ep.2: Del problema al código - Automatizando con DevNet](https://www.youtube.com/watch?v=fHgvqH3MWiU)
 - [Ep2 DevNet Latin and Hispanic Heritage Month | #devnet #netauto #devrel #hispanicheritagemonth](https://www.youtube.com/shorts/PnGP3IyHqSw)
 - [Network Tests: From Static Config to User Latency | Ep. 114](https://www.youtube.com/watch?v=82gh0SoRcNQ)
 - [Ep1 DevNet Latin and Hispanic Heritage Month | #devnet #netauto #devrel #hispanicheritagemonth](https://www.youtube.com/shorts/Aj50f94tHhU)
-- [DevNet Latin and Hispanic Heritage Month | Ep.1: De México a Cracovia - Una Historia de Network Auto](https://www.youtube.com/watch?v=DFgz8h4Dqqw)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
