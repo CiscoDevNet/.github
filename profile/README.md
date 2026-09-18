@@ -38,11 +38,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Ep3 DevNet Latin and Hispanic Heritage Month | #devnet #netauto #devrel #hispanicheritagemonth](https://www.youtube.com/shorts/5Fpbt_dZdwQ)
+- [DevNet Latin and Hispanic Heritage Month | Ep.3: Así es un día de una Arquitecta de Software](https://www.youtube.com/watch?v=HuL4CDTDwOk)
 - [The Path to OpenShift Virtualization | Ep. 115](https://www.youtube.com/watch?v=kZFMEcJtNEQ)
 - [DevNet Latin and Hispanic Heritage Month | Ep.2: Del problema al código - Automatizando con DevNet](https://www.youtube.com/watch?v=fHgvqH3MWiU)
 - [Ep2 DevNet Latin and Hispanic Heritage Month | #devnet #netauto #devrel #hispanicheritagemonth](https://www.youtube.com/shorts/PnGP3IyHqSw)
-- [Network Tests: From Static Config to User Latency | Ep. 114](https://www.youtube.com/watch?v=82gh0SoRcNQ)
-- [Ep1 DevNet Latin and Hispanic Heritage Month | #devnet #netauto #devrel #hispanicheritagemonth](https://www.youtube.com/shorts/Aj50f94tHhU)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
