@@ -47,9 +47,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DevNet Latin &amp; Hispanic Heritage Month recap](https://blogs.cisco.com/developer/devnet-latin-hispanic-heritage-month-recap/)
 - [Automating Post-Quantum IPsec on Cisco Routers – IPsec Series, Part 12](https://blogs.cisco.com/developer/automating-post-quantum-ipsec-on-cisco-routers-ipsec-series-part-12/)
 - [The Honest Migration Playbook – IPsec Series, Part 11](https://blogs.cisco.com/developer/the-honest-migration-playbook-ipsec-series-part-11/)
 - [ML-DSA Certificates on Cisco Routers – IPsec Series, Part 10](https://blogs.cisco.com/developer/ml-dsa-certificates-on-cisco-routers-ipsec-series-part-10/)
 - [Post-Quantum Key Exchange on Cisco Routers – IPsec Series, Part 9](https://blogs.cisco.com/developer/post-quantum-key-exchange-on-cisco-routers-ipsec-series-part-9/)
-- [Deep Dive: Automating NetOps with the cisco.catalystcenter Ansible Collection](https://blogs.cisco.com/developer/deep-dive-automating-netops-with-the-cisco-catalystcenter-ansible-collection/)
 <!-- BLOG-POST-LIST:END -->
