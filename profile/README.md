@@ -38,8 +38,8 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [From Infrastructure as Code to Infrastructure as Intelligence - Ep. 117](https://www.youtube.com/watch?v=27Bl4FROArA)
 - [BayLISA meetup - September 2026](https://www.youtube.com/watch?v=aixf0iGGZJs)
+- [From Infrastructure as Code to Infrastructure as Intelligence - Ep. 117](https://www.youtube.com/watch?v=27Bl4FROArA)
 - [Build Your AI Agent for Network &amp; Security Operations](https://www.youtube.com/watch?v=cCMN85D1Sxk)
 - [Closing the loop: from NetBox intent to a network that agrees | Ep. 116](https://www.youtube.com/watch?v=d4JVZf8tGAs)
 - [Ep4 DevNet Latin and Hispanic Heritage Month | #devnet #netauto #devrel #hispanicheritagemonth](https://www.youtube.com/shorts/m1Ao0JpaoFk)
