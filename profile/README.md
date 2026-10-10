@@ -38,11 +38,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Exploring Meraki and Catalyst Center MCPs | Ep. 118](https://www.youtube.com/watch?v=7wSnKH_hd2c)
 - [Vibecoding, But Make It Secure #CybersecurityAwarenessMonth](https://www.youtube.com/shorts/W6N5w6z07hQ)
 - [From Infrastructure as Code to Infrastructure as Intelligence - Ep. 117](https://www.youtube.com/watch?v=27Bl4FROArA)
 - [BayLISA meetup - September 2026](https://www.youtube.com/watch?v=aixf0iGGZJs)
 - [Build Your AI Agent for Network &amp; Security Operations](https://www.youtube.com/watch?v=cCMN85D1Sxk)
-- [Closing the loop: from NetBox intent to a network that agrees | Ep. 116](https://www.youtube.com/watch?v=d4JVZf8tGAs)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
