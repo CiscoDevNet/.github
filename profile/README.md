@@ -47,9 +47,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DevNet Latin &amp; Hispanic Heritage Month recap](https://blogs.cisco.com/developer/devnet-latin-hispanic-heritage-month-recap/)
-- [Automating Post-Quantum IPsec on Cisco Routers – IPsec Series, Part 12](https://blogs.cisco.com/developer/automating-post-quantum-ipsec-on-cisco-routers-ipsec-series-part-12/)
-- [The Honest Migration Playbook – IPsec Series, Part 11](https://blogs.cisco.com/developer/the-honest-migration-playbook-ipsec-series-part-11/)
-- [ML-DSA Certificates on Cisco Routers – IPsec Series, Part 10](https://blogs.cisco.com/developer/ml-dsa-certificates-on-cisco-routers-ipsec-series-part-10/)
-- [Post-Quantum Key Exchange on Cisco Routers – IPsec Series, Part 9](https://blogs.cisco.com/developer/post-quantum-key-exchange-on-cisco-routers-ipsec-series-part-9/)
+- [The receipt, not the demo: Four questions that earn AI agent trust](https://blogs.cisco.com/cisco-devnet/cadreai-ai-agent-trust-production/)
+- [Rebuilding PubHub: How AI-assisted development shipped a mandatory rewrite 3.5 months early – Part 1](https://blogs.cisco.com/cisco-devnet/ai-assisted-development-rebuilding-pubhub-part-1/)
+- [DevNet Latin &amp; Hispanic Heritage Month recap](https://blogs.cisco.com/cisco-devnet/devnet-latin-hispanic-heritage-month-recap/)
+- [Automating Post-Quantum IPsec on Cisco Routers – IPsec Series, Part 12](https://blogs.cisco.com/cisco-devnet/automating-post-quantum-ipsec-on-cisco-routers-ipsec-series-part-12/)
+- [The Honest Migration Playbook – IPsec Series, Part 11](https://blogs.cisco.com/cisco-devnet/the-honest-migration-playbook-ipsec-series-part-11/)
 <!-- BLOG-POST-LIST:END -->
