@@ -38,11 +38,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Agentic AI Standards](https://www.youtube.com/watch?v=U7KAIwhnlIg)
 - [Simplifying DC Network Automation using Network-as-Code | Ep. 119](https://www.youtube.com/watch?v=YB-I9TS7mLQ)
 - [Specification, Skills, and Scanners for Agentic AI Security](https://www.youtube.com/watch?v=cvwnvjARp7w)
 - [Exploring Meraki and Catalyst Center MCPs | Ep. 118](https://www.youtube.com/watch?v=7wSnKH_hd2c)
 - [Vibecoding, But Make It Secure #CybersecurityAwarenessMonth](https://www.youtube.com/shorts/W6N5w6z07hQ)
-- [From Infrastructure as Code to Infrastructure as Intelligence - Ep. 117](https://www.youtube.com/watch?v=27Bl4FROArA)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
