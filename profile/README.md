@@ -47,9 +47,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Three languages, one binary: Building a VMware Nutanix inventory with Claude](https://blogs.cisco.com/cisco-devnet/vmware-nutanix-inventory-go-claude/)
 - [The receipt, not the demo: Four questions that earn AI agent trust](https://blogs.cisco.com/cisco-devnet/cadreai-ai-agent-trust-production/)
 - [Rebuilding PubHub: How AI-assisted development shipped a mandatory rewrite 3.5 months early – Part 1](https://blogs.cisco.com/cisco-devnet/ai-assisted-development-rebuilding-pubhub-part-1/)
 - [DevNet Latin &amp; Hispanic Heritage Month recap](https://blogs.cisco.com/cisco-devnet/devnet-latin-hispanic-heritage-month-recap/)
 - [Automating Post-Quantum IPsec on Cisco Routers – IPsec Series, Part 12](https://blogs.cisco.com/cisco-devnet/automating-post-quantum-ipsec-on-cisco-routers-ipsec-series-part-12/)
-- [The Honest Migration Playbook – IPsec Series, Part 11](https://blogs.cisco.com/cisco-devnet/the-honest-migration-playbook-ipsec-series-part-11/)
 <!-- BLOG-POST-LIST:END -->
