@@ -47,9 +47,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Cisco IQ Powers Continuous Compliance for PCI DSS 4.0 and Quantum Readiness](https://blogs.cisco.com/cisco-devnet/how-cisco-iq-powers-continuous-compliance-for-pci-dss-4-0-and-quantum-readiness/)
+- [Scan Code for Vulnerabilities with Cisco Antares in DevNet Learning Labs](https://blogs.cisco.com/cisco-devnet/antares-gpu-learning-labs/)
 - [Using AI to re-architect the Cisco DevNet sandbox environment – Part 1](https://blogs.cisco.com/cisco-devnet/ai-network-design-devnet-sandbox-part-1/)
 - [Antares: a Security Analyst That Never Leaves Your Laptop – Security Loop Series, Part 1](https://blogs.cisco.com/cisco-devnet/antares-security-analyst-laptop-part-1/)
 - [Three languages, one binary: Building a VMware Nutanix inventory with Claude](https://blogs.cisco.com/cisco-devnet/vmware-nutanix-inventory-go-claude/)
-- [The receipt, not the demo: Four questions that earn AI agent trust](https://blogs.cisco.com/cisco-devnet/cadreai-ai-agent-trust-production/)
-- [Rebuilding PubHub: How AI-assisted development shipped a mandatory rewrite 3.5 months early – Part 1](https://blogs.cisco.com/cisco-devnet/ai-assisted-development-rebuilding-pubhub-part-1/)
 <!-- BLOG-POST-LIST:END -->
