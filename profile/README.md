@@ -38,11 +38,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Post-Quantum Cryptography in the Real World | Ep. 120](https://www.youtube.com/watch?v=9v_nuDHSd5I)
+- [Automated Kill Chain and Cybersecurity Threats](https://www.youtube.com/watch?v=yYbyuWDPzek)
 - [BayLISA meetup - October 2026](https://www.youtube.com/watch?v=iqNuDGVHq-k)
+- [Post-Quantum Cryptography in the Real World | Ep. 120](https://www.youtube.com/watch?v=9v_nuDHSd5I)
 - [Simplifying DC Network Automation using Network-as-Code | Ep. 119](https://www.youtube.com/watch?v=YB-I9TS7mLQ)
 - [Agentic AI Standards](https://www.youtube.com/watch?v=U7KAIwhnlIg)
-- [Specification, Skills, and Scanners for Agentic AI Security](https://www.youtube.com/watch?v=cvwnvjARp7w)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
