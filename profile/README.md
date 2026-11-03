@@ -47,9 +47,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Design-to-Code: Reimagine Handoff Workflow with AI – Rebuilding PubHub Part 3](https://blogs.cisco.com/cisco-devnet/design-to-code-ai-handoff-workflow/)
+- [Foundry in the real world: Turning LLM hunches into verified findings – Security Loop Series, Part 2](https://blogs.cisco.com/cisco-devnet/foundry-verified-security-findings-part-2/)
 - [Rebuilding PubHub: AI-first SDLC, one bottleneck at a time – Part 2](https://blogs.cisco.com/cisco-devnet/ai-first-sdlc-rebuilding-pubhub-part-2/)
 - [Policy as Code for the Network: Guardrails with Open Policy Agent](https://blogs.cisco.com/cisco-devnet/network-guardrails-as-code-opa/)
 - [How Cisco IQ Powers Continuous Compliance for PCI DSS 4.0 and Quantum Readiness](https://blogs.cisco.com/cisco-devnet/how-cisco-iq-powers-continuous-compliance-for-pci-dss-4-0-and-quantum-readiness/)
-- [Scan Code for Vulnerabilities with Cisco Antares in DevNet Learning Labs](https://blogs.cisco.com/cisco-devnet/antares-gpu-learning-labs/)
-- [Using AI to re-architect the Cisco DevNet sandbox environment – Part 1](https://blogs.cisco.com/cisco-devnet/ai-network-design-devnet-sandbox-part-1/)
 <!-- BLOG-POST-LIST:END -->
