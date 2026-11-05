@@ -38,9 +38,9 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Data Centre AIOps using Nexus MCP &amp; Cisco Cloud Control | Ep.121](https://www.youtube.com/watch?v=x1pueBW1mjk)
 - [DevNet Sandboxes, Rebuilt](https://www.youtube.com/watch?v=eG-D11GCChI)
 - [Post-Quantum Cryptography in the Real World | Ep. 120](https://www.youtube.com/watch?v=9v_nuDHSd5I)
-- [Data Centre AIOps using Nexus MCP &amp; Cisco Cloud Control | Ep.121](https://www.youtube.com/watch?v=x1pueBW1mjk)
 - [Automated Kill Chain and Cybersecurity Threats](https://www.youtube.com/watch?v=yYbyuWDPzek)
 - [BayLISA meetup - October 2026](https://www.youtube.com/watch?v=iqNuDGVHq-k)
 <!-- YOUTUBE:END -->
