@@ -47,9 +47,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to the DevNet Month of Cisco Validated Designs](https://blogs.cisco.com/cisco-devnet/welcome-to-the-devnet-month-of-cisco-validated-designs/)
+- [CodeGuard: Teaching your AI coding assistant to never write that bug again – Security Loop Series, Part 3](https://blogs.cisco.com/cisco-devnet/codeguard-ai-coding-assistant-security-rules-part-3/)
 - [Mastering stateful stream reordering at 200,000 messages per second](https://blogs.cisco.com/cisco-devnet/flink-ab-development-stateful-stream-processing/)
 - [Design-to-Code: Reimagine Handoff Workflow with AI – Rebuilding PubHub Part 3](https://blogs.cisco.com/cisco-devnet/design-to-code-ai-handoff-workflow/)
 - [Foundry in the real world: Turning LLM hunches into verified findings – Security Loop Series, Part 2](https://blogs.cisco.com/cisco-devnet/foundry-verified-security-findings-part-2/)
-- [Rebuilding PubHub: AI-first SDLC, one bottleneck at a time – Part 2](https://blogs.cisco.com/cisco-devnet/ai-first-sdlc-rebuilding-pubhub-part-2/)
-- [Policy as Code for the Network: Guardrails with Open Policy Agent](https://blogs.cisco.com/cisco-devnet/network-guardrails-as-code-opa/)
 <!-- BLOG-POST-LIST:END -->
