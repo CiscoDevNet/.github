@@ -47,9 +47,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Accelerating innovation: How Cisco CVDs and Red Hat Ansible are transforming data center automation](https://blogs.cisco.com/cisco-devnet/cisco-cvds-red-hat-ansible-data-center-automation/)
+- [Prove It: Does a Learned Rule Actually Change What Your AI Assistant Writes? – Security Loop Series, Part 4](https://blogs.cisco.com/cisco-devnet/prove-it-learned-rule-ai-assistant-part-4/)
 - [Rebuilding PubHub: A Cautionary Tale of AI-Driven Requirements, Part 4](https://blogs.cisco.com/cisco-devnet/ai-driven-requirements-rebuilding-pubhub-part-4/)
 - [Welcome to the DevNet Month of Cisco Validated Designs](https://blogs.cisco.com/cisco-devnet/welcome-to-the-devnet-month-of-cisco-validated-designs/)
 - [CodeGuard: Teaching your AI coding assistant to never write that bug again – Security Loop Series, Part 3](https://blogs.cisco.com/cisco-devnet/codeguard-ai-coding-assistant-security-rules-part-3/)
-- [Mastering stateful stream reordering at 200,000 messages per second](https://blogs.cisco.com/cisco-devnet/flink-ab-development-stateful-stream-processing/)
-- [Design-to-Code: Reimagine Handoff Workflow with AI – Rebuilding PubHub Part 3](https://blogs.cisco.com/cisco-devnet/design-to-code-ai-handoff-workflow/)
 <!-- BLOG-POST-LIST:END -->
