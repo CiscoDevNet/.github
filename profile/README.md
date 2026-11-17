@@ -38,11 +38,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Cisco at WebSummit Lisbon 2026 🇵🇹 | Democratising Platform Engineering With Open Source #websummit](https://www.youtube.com/shorts/PwotrMpXfHk)
 - [DevNet Month of CVDs | Ep.2: Cisco Validated Designs Meet Ansible](https://www.youtube.com/watch?v=uEzVZILs6K0)
 - [Post-Quantum Cryptography in the Real World - Part 2 | Ep. 122](https://www.youtube.com/watch?v=KvxxdaTgzDU)
 - [DevNet Month of CVDs | Ep.1: Intro to Cisco Validated Designs](https://www.youtube.com/watch?v=uqyEqMSjVK0)
 - [Data Centre AIOps using Nexus MCP &amp; Cisco Cloud Control | Ep.121](https://www.youtube.com/watch?v=x1pueBW1mjk)
-- [DevNet Sandboxes, Rebuilt](https://www.youtube.com/watch?v=eG-D11GCChI)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
