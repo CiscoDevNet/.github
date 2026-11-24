@@ -47,9 +47,9 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cybersecurity Awareness Month: Video Recap](https://blogs.cisco.com/cisco-devnet/cybersecurity-awareness-month-video-recap/)
 - [Rain, Agents and Open Source: My Week at Web Summit Lisbon](https://blogs.cisco.com/cisco-devnet/web-summit-lisbon-open-source-ai-platform-engineering/)
 - [Accelerating innovation: How Cisco CVDs and Red Hat Ansible are transforming data center automation](https://blogs.cisco.com/cisco-devnet/cisco-cvds-red-hat-ansible-data-center-automation/)
 - [Prove It: Does a Learned Rule Actually Change What Your AI Assistant Writes? – Security Loop Series, Part 4](https://blogs.cisco.com/cisco-devnet/prove-it-learned-rule-ai-assistant-part-4/)
 - [Rebuilding PubHub: A Cautionary Tale of AI-Driven Requirements, Part 4](https://blogs.cisco.com/cisco-devnet/ai-driven-requirements-rebuilding-pubhub-part-4/)
-- [Welcome to the DevNet Month of Cisco Validated Designs](https://blogs.cisco.com/cisco-devnet/welcome-to-the-devnet-month-of-cisco-validated-designs/)
 <!-- BLOG-POST-LIST:END -->
