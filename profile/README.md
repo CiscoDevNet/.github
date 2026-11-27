@@ -38,11 +38,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [DevNet Month of CVDs | Ep.4: Cisco Stack Automation by Quali and CVDs](https://www.youtube.com/watch?v=g0W40k_sdsg)
+- [Zero-Touch Provisioning of Cisco Micro Switches | Ep. 123](https://www.youtube.com/watch?v=h-1GjMN7-2k)
 - [Post-Quantum Cryptography in the Real World - Part 2 | Ep. 122](https://www.youtube.com/watch?v=KvxxdaTgzDU)
 - [DevNet Month of CVDs | Ep.3: Cisco Validated Design for AI PODs](https://www.youtube.com/watch?v=7mah9-1L4eQ)
 - [Cisco at WebSummit Lisbon 2026 🇵🇹 | Democratising Platform Engineering With Open Source #websummit](https://www.youtube.com/shorts/PwotrMpXfHk)
-- [DevNet Month of CVDs | Ep.2: Cisco Validated Designs Meet Ansible](https://www.youtube.com/watch?v=uEzVZILs6K0)
-- [DevNet Month of CVDs | Ep.1: Intro to Cisco Validated Designs](https://www.youtube.com/watch?v=uqyEqMSjVK0)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
